@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>中国R语言会议</title>
- <link href="/atom.xml" rel="self"/>
+ <link href="atom.xml" rel="self"/>
  <link href=""/>
- <updated>2015-04-25T22:24:15-04:00</updated>
+ <updated>2015-04-25T22:36:52-04:00</updated>
  <id></id>
  <author>
    <name></name>
@@ -14,7 +14,7 @@
  
  <entry>
    <title>第八届中国R语言会议（北京）</title>
-   <link href="/2015/beijing"/>
+   <link href="2015/beijing"/>
    <updated>2015-06-06T00:00:00-04:00</updated>
    <id>h/2015/beijing</id>
    <content type="html">&lt;p&gt;R是一门用于数据分析和图形展示的语言、平台和环境，其官方机构每年都会举办useR!会议，各个国家及地区也定期有R用户的交流活动。在国内，自2008年以来，中国已经在北京、上海、广州等地成功举办了七届会议，促进了R语言乃至数据科学在中国的推广和发展。为了进一步加强各领域R语言使用者之间的交流和互动，北京大学商务智能研究中心和统计之都将于2015年6月6日和7日在北京大学百周年纪念讲堂举办第八届中国R语言会议（北京会场）。欢迎各界朋友前来交流。&lt;/p&gt;
@@ -57,7 +57,7 @@ Twitter：@cos_name&lt;br&gt;
  
  <entry>
    <title>第七届中国R语言会议（上海）</title>
-   <link href="/2014/shanghai"/>
+   <link href="2014/shanghai"/>
    <updated>2014-12-06T00:00:00-05:00</updated>
    <id>h/2014/shanghai</id>
    <content type="html">&lt;p&gt;R是一门用于数据分析和图形展示的语言、平台和环境，其官方机构每年都会举办useR!会议，各个国家及地区也定期有R用户的交流活动。在国内，自2008年以来，中国已经在北京和上海成功举办到了第七届会议，促进了R语言乃至数据科学在中国的推广和发展。为了进一步加强各领域R语言使用者之间的交流和互动，华东师范大学金融与统计学院和统计之都将于2014年12月6日和7日在华东师范大学中山北路校区举办第七届中国R语言会议（上海会场）。欢迎各界朋友前来交流。&lt;/p&gt;
@@ -137,7 +137,7 @@ Twitter：@cos_name&lt;br&gt;
  
  <entry>
    <title>第七届中国R语言会议（杭州）</title>
-   <link href="/2014/hangzhou"/>
+   <link href="2014/hangzhou"/>
    <updated>2014-11-29T00:00:00-05:00</updated>
    <id>h/2014/hangzhou</id>
    <content type="html">&lt;p&gt;中国R语言会议从2008年开始已经成功举办到第七届了，之前每年在北京和上海举办的会议都非常成功，大力推动了R语言在国内的蓬勃发展。从2014年起，广州将中国R语言会议的火种带到了华南。作为华东重镇、数据科学家的大本营之一，杭州也开始举办中国R语言会议，在阿里巴巴集团和统计之都的努力下、在杭州师范大学的大力支持下，终于将于2014年11月29日在杭州召开第七届中国R语言会议（杭州会场）的会议。&lt;/p&gt;
@@ -170,7 +170,7 @@ Twitter：@cos_name&lt;br&gt;
  
  <entry>
    <title>第七届中国R语言会议（广州）</title>
-   <link href="/2014/guangzhou"/>
+   <link href="2014/guangzhou"/>
    <updated>2014-11-15T00:00:00-05:00</updated>
    <id>h/2014/guangzhou</id>
    <content type="html">&lt;p&gt;R是一门用于数据分析和图形展示的语言、平台和环境，其官方机构每年都会举办useR!会议，各个国家及地区也定期有R用户的交流活动。在国内，自2008年以来，中国已经在北京和上海成功举办了六届R语言会议，促进了R语言乃至数据科学在中国的推广和发展。为了进一步加强各领域R语言使用者之间的交流和互动，华南统计科学研究中心、中山大学数学与计算科学学院和统计之都将于2014年11月15日在中山大学南校区举办第七届中国R语言会议（广州会场）。这将是R语言会议首次在华南地区举办。&lt;/p&gt;
@@ -241,7 +241,7 @@ Twitter：@cos_name&lt;br&gt;
  
  <entry>
    <title>第七届中国R语言会议（北京）</title>
-   <link href="/2014/beijing"/>
+   <link href="2014/beijing"/>
    <updated>2014-05-24T00:00:00-04:00</updated>
    <id>h/2014/beijing</id>
    <content type="html">&lt;h4&gt;邀请演讲嘉宾&lt;/h4&gt;
@@ -444,7 +444,7 @@ and well-tested.&lt;/p&gt;
   &lt;td&gt;
     &lt;p&gt;&lt;strong&gt;R-Web：大数据分析及导引云平台&lt;/strong&gt;&lt;/p&gt;
     &lt;p&gt;R语言项目(R-Project) 经过多年的发展，目前已是各国统计专业人士最常使用的分析工具。近两年来，随着大数据观念的普及，R语言在数据科学的应用上也逐渐受到各个应用领域专家的关注，并已经成为主要的分析工具，虽然R本身包含了完整的程序语言功能以及众多的包(package)，但是数据分析与应用人员未必都具有R的编程能力，因此开发一个只需鼠标点选即可完成分析任务的用户图形接口(GUI) 就扮演了相当重要的角色。
-	在R中原本就已经有若干图形界面的包可供选用，例如 R-Commander、Rattle，以及可供制作图形接口的 JGR、PMG、gWidgets 等等，但是这些套件都各有缺点，在中文接口与计算结果的呈现也未必理想。
+	在R中原本就已经有若干图形界面的包可供选用，例如 R-Commander、Rattle，以及可供制作图形接口的 JGR、PMG、gWidgets 等等���但是这些套件都各有缺点，在中文接口与计算结果的呈现也未必理想。
 	R-Web 是第一个针对中文所开发的大数据分析及导引云平台，用户仅需使用计算机或行动装置的浏览器即可进行数据分析。R-Web 除了数据处理与一般统计分析之外，另外还包含数据挖掘、时间数列、广义线性模式(GLM)、存活分析、以及结构方程模式(SEM)等多样的分析方法，对于初学者或对分析方法不熟悉的使用者而言，R-Web 也提供了分析目标导引系统，让用户可以经由问与答方式来找到适用的统计分析方法，提高分析效率及增加分析知识。
 	&lt;/p&gt;
   &lt;/td&gt;
@@ -522,7 +522,7 @@ and well-tested.&lt;/p&gt;
   &lt;/td&gt;
   &lt;td&gt;
   &lt;p&gt;&lt;strong&gt;Large Scale Learning with R&lt;/strong&gt;&lt;/p&gt;
-  &lt;p&gt;在資料爆炸的時代，運用大數據挖掘與探索商機是現在相當熱門的議題。但事實上要駕馭大數據卻不是件容易的事情，尤其在建立模型的部份，若在工具上沒能跨過門檻，就很難在有限時間產生資料的價值。這次Wush將分享運用R、Rcpp和pbdMPI所開發的高效能的大數據運算平台，包含完成對超過1億筆資料，僅花費1小時的建模經驗，以及跨過分析門檻與挖掘知識的過程。Wush除了介紹影響R運算速度的問題，以及實際克服問題的過程，同時也會分享如何運用系統化的概念創造資料價值的故事。&lt;/p&gt;
+  &lt;p&gt;在資料爆炸的時代，運用大數據挖掘與探索商機是現在相當熱門���議題。但事實上要駕馭大數據卻不是件容易的事情，尤其在建立模型的部份，若在工具上沒能跨過門檻，就很難在有限時間產生資料的價值。這次Wush將分享運用R、Rcpp和pbdMPI所開發的高效能的大數據運算平台，包含完成對超過1億筆資料，僅花費1小時的建模經驗，以及跨過分析門檻與挖掘知識的過程。Wush除了介紹影響R運算速度的問題，以及實際克服問題的過程，同時也會分享如何運用系統化的概念創造資料價值的故事。&lt;/p&gt;
   &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -748,7 +748,7 @@ structure in the underlying probability density functions.&lt;/p&gt;
   &lt;/td&gt;
   &lt;td&gt;
   &lt;p&gt;&lt;strong&gt;以统计学科研人员的角度看R语言开发&lt;/strong&gt;&lt;/p&gt;
-  &lt;p&gt; 科研工作需要将层出不穷的想法付诸实践，并在实验中不断修正想法。对于统计科学的研究人员来说，R语言灵活高效，贴近统计学家的思维，同时又是一门正在发展的编程语言。演讲者将会结合自身的研究工作，讨论一下科研工作中的R语言开发。
+  &lt;p&gt; 科研工作需要将层出不穷的想法付诸实践，并在实验中不断修正想法。对于统计科学的研究人员来说，R语言灵活高效，贴近统计学家的思维，同时又是一门正在发展的编程���言。演讲者将会结合自身的研究工作，讨论一下科研工作中的R语言开发。
          一方面，统计方法的算法描述往往是简单明了的，另一方面，统计科研中的编程工作并不简单。这是因为从算法描述到代码实现之间充满了大量的细节。主要的开发困难在于数据结构和接口的设计。而这需要软件工程的思维。
     要求一个统计学研究人员掌握计算机专业的专业知识略显苛刻，我们更推崇一种“统计学家提供原型，程序员进行优化改造”的工作范式。但为了可重复的研究，编写良好的R程序依然是非常重要的技能。R提供了简单实用的面向对象系统（S3和S4）和一个强大的C++语言接口（Rcpp），为我们的研究提供了极大的便利。
 	&lt;/p&gt;
@@ -900,7 +900,7 @@ how R is adopted in SEM to test model ﬁt and developing new test statistics.&l
  
  <entry>
    <title>第六届中国R语言会议（上海）</title>
-   <link href="/2013/shanghai"/>
+   <link href="2013/shanghai"/>
    <updated>2013-11-08T00:00:00-05:00</updated>
    <id>h/2013/shanghai</id>
    <content type="html">&lt;p&gt;第六届中国 R 语言会议（上海会场）于 2013 年 11 月 2 日 ~ 3 日在华东师范大学中山北路校区的科学会堂成功召开。会议由华东师范大学金融与统计学院和统计之都（&lt;a href=&quot;http://cos.name&quot;&gt;cos.name&lt;/a&gt;）主办。在两天的会议时间里，参会者齐聚一堂，就 R 语言在电商、互联网、金融、可视化、机器学习、数据挖掘等行业和领域展开了深入的探讨。&lt;/p&gt;
@@ -938,7 +938,7 @@ how R is adopted in SEM to test model ﬁt and developing new test statistics.&l
 &lt;h3&gt;9、严紫丹：x13季节调整方法的R实现及应用&lt;/h3&gt;
 &lt;p&gt;美国普查局去年7月正式发布了x-13-arima-seat方法的源程序，这一方法是对x12的优化升级。目前这一方法很少能在普通软件中实现，本次演讲介绍了如何用R调用美国普查局的源程序进行季节调整和大批量数据处理的流程，并结合携程的分析需求介绍了针对中国节假日因素的参数设定方法。&lt;/p&gt;
 &lt;h3&gt;10、魏太云，周扬：通向高富帅图表的R包——recharts&lt;/h3&gt;
-&lt;p&gt;演讲者介绍了自己开发的recharts包，这是R对echarts的接口。ECharts基于Canvas，纯Javascript图表库，提供直观，生动，可交互，可个性化定制的数据可视化图表。与R结合后可以非常方便地将数据和模型的结果进行动态展示，实在是R中可视化的一大利器。&lt;/p&gt;
+&lt;p&gt;演讲者介绍了自己开发的recharts���，这是R对echarts的接口。ECharts基于Canvas，纯Javascript图表库，提供直观，生动，可交互，可个性化定制的数据可视化图表。与R结合后可以非常方便地将数据和模型的结果进行动态展示，实在是R中可视化的一大利器。&lt;/p&gt;
 &lt;h3&gt;11、朱雪宁：微博那些事儿&lt;/h3&gt;
 &lt;p&gt;微博，这一新生代大规模杀伤性社交武器近年来迅速在国内走红，其来势之汹，范围之广，威力之猛当不可小觑。演讲者通过很多有趣的例子介绍了用R分析微博数据的方法及建模点滴。&lt;/p&gt;
 &lt;h3&gt;12、何通：豆瓣网标签的整理和分析&lt;/h3&gt;
@@ -994,7 +994,7 @@ how R is adopted in SEM to test model ﬁt and developing new test statistics.&l
  
  <entry>
    <title>第六届中国R语言会议（北京）</title>
-   <link href="/2013/beijing"/>
+   <link href="2013/beijing"/>
    <updated>2013-05-21T00:00:00-04:00</updated>
    <id>h/2013/beijing</id>
    <content type="html">&lt;p&gt;第六届中国 R 语言会议（北京会场）于 2013 年 5 月 18 日 ~ 19 日在中国人民大学国学馆113、114教室成功召开。会议由中国人民大学应用统计科学研究中心、中国人民大学统计学院、北京大学商务智能研究中心、统计之都（&lt;a href=&quot;http://cos.name&quot;&gt;cos.name&lt;/a&gt;）主办。在两天的会议时间里，参会者齐聚一堂，就 R 语言在互联网、商业、统计、生物、制药、可视化等诸多方面的应用进行了深入的探讨。&lt;/p&gt;
@@ -1024,7 +1024,7 @@ how R is adopted in SEM to test model ﬁt and developing new test statistics.&l
 &lt;h3&gt;6、John Maindonald——Rethinking Data Analysis and Data Analysis Tools&lt;/h3&gt;
 &lt;p&gt;第一届中国R语言会议时，我们就邀请了 Maindonald 教授进行网络报告，5年后的今天，演讲者受邀参与了R语言会议的现场报告。演讲从高处介绍了数据分析的发展以及R语言的应用，并介绍了为何选择Ｒ语言作为数据分析工具，以及R语言与其他软件的对比情况。演讲还指出了R语言需要提高的地方，用户希望能有更多的强大的工具，需要调用C语言来满足更高的速度要求等。&lt;/p&gt;
 &lt;h3&gt;7、李舰、周扬——禽流感分析中的R——MSToolkit, Rweibo, html5vis的介绍&lt;/h3&gt;
-&lt;p&gt;演讲分享了在工作中的案例，展示了R语言在满足客户个性化需求和解决新颖性问题的作用。有情怀的演讲者分享了基于Shiny、 GoogleVis和html5vis的可交互的可视化图形，图形中时间维度的增加，充分的展现以往静态分析难以一并展现的时间特性。并以禽流感的传播和PM2.5为实例，介绍了在可交互的界面友好的动态图形上的信息呈现。&lt;/p&gt;
+&lt;p&gt;演讲分享了在工作中的案例，展示了R语言在满足客户个性化需���和解决新颖性问题的作用。有情怀的演讲者分享了基于Shiny、 GoogleVis和html5vis的可交互的可视化图形，图形中时间维度的增加，充分的展现以往静态分析难以一并展现的时间特性。并以禽流感的传播和PM2.5为实例，介绍了在可交互的界面友好的动态图形上的信息呈现。&lt;/p&gt;
 &lt;h3&gt;8、张晓华——displayHTS: a R package for displaying data and results from high-throughput screening experiments&lt;/h3&gt;
 &lt;p&gt;演讲介绍了演讲者团队开发的displayHTS包，展示了其在高通量筛选试验中的应用以及图形的展示。张晓华老师还特别指出，这个软件包的开发者是一位年仅16岁的学生，以此鼓励在场听众积极参与到开发R包的行列中。&lt;/p&gt;
 &lt;h3&gt;9、第一场 Lightning Talk&lt;/h3&gt;
@@ -1090,7 +1090,7 @@ how R is adopted in SEM to test model ﬁt and developing new test statistics.&l
  
  <entry>
    <title>第五届中国R语言会议（上海）</title>
-   <link href="/2012/shanghai"/>
+   <link href="2012/shanghai"/>
    <updated>2012-11-21T00:00:00-05:00</updated>
    <id>h/2012/shanghai</id>
    <content type="html">第五届中国R语言会议（上海会场）于2012年11月3日~4日在上海财经大学行政楼一楼报告厅成功召开。会议由上海财经大学统计与管理学院主办、统计之都（&lt;a href=&quot;http://cos.name&quot; target=&quot;_blank&quot;&gt;cos.name&lt;/a&gt;）协办，艾瑞咨询（&lt;a href=&quot;http://www.iresearch.cn/&quot; target=&quot;_blank&quot;&gt;iresearch&lt;/a&gt;）、Mango Solutions（&lt;a href=&quot;http://www.mango-solutions.com.cn/&quot; target=&quot;_blank&quot;&gt;mango-solutions&lt;/a&gt;）、上海财经大学数理经济学教育部重点实验室以及上海财经大学上海市一流学科（B类， 统计学）提供了赞助。在两天的会议时间里，群贤毕集，盛况空前。&lt;/p&gt;
@@ -1103,7 +1103,7 @@ how R is adopted in SEM to test model ﬁt and developing new test statistics.&l
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/11/5th-SH-live.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;aligncenter&quot; title=&quot;会议现场20121103&quot; src=&quot;http://cos.name/wp-content/uploads/2012/11/5th-SH-live-500x333.jpg&quot; alt=&quot;会议现场20121103&quot; height=&quot;337&quot; width=&quot;600&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;会议内容&lt;/h2&gt;
-&lt;p&gt;本次会议讨论的主题涵盖了R语言在电子商务、大数据和文本挖掘、生物基因、市场营销、可视化及可重复研究等众多方面的精彩应用，共进行了16场精彩的报告，并且第一次增设了Lightning Talks和专题讨论的环节。会议的流程和主要内容摘录如下：&lt;/p&gt;
+&lt;p&gt;本次会议讨论的主题涵盖了R语言在电子商务、大数据和文本挖掘、生物基因、市场营销、可视化及可重复研究等众多方面的精彩应用，共进行了16场精彩的报告，并且第一次增设了Lightning Talks和专题讨论的环节���会议的流程和主要内容摘录如下：&lt;/p&gt;
 &lt;h3&gt;1、领导致辞&lt;/h3&gt;
 &lt;p&gt;上海财经大学统计与管理学院的尤进红副院长为本次大会致开幕词。尤院长高屋建瓴地概括了R在国内的发展情况，并对本次会议提出了殷切的期许。&lt;/p&gt;
 &lt;h3&gt;2、冯兴东：R语言和其他计算机语言的混合编程&lt;/h3&gt;
@@ -1178,7 +1178,7 @@ how R is adopted in SEM to test model ﬁt and developing new test statistics.&l
  
  <entry>
    <title>第五届中国R语言会议（北京）</title>
-   <link href="/2012/beijing"/>
+   <link href="2012/beijing"/>
    <updated>2012-05-21T00:00:00-04:00</updated>
    <id>h/2012/beijing</id>
    <content type="html">第五届中国 R 语言会议（北京会场）于 2012 年 5 月 26 日 ~ 27 日在中国人民大学明德法学楼 0201 成功召开。会议由中国人民大学应用统计科学研究中心与中国人民大学统计学院、统计之都 (&lt;a href=&quot;http://cos.name&quot; target=&quot;_blank&quot;&gt;cos.name&lt;/a&gt;) 主办，&lt;a href=&quot;http://www.mango-solutions.com.cn/&quot; target=&quot;_blank&quot;&gt;mango-solutions&lt;/a&gt;赞助。在两天的会议时间里，参会者齐聚一堂，就 R 语言在互联网、商业、统计、生物等诸多方面的应用进行了深入的探讨。&lt;/p&gt;
@@ -1202,7 +1202,7 @@ how R is adopted in SEM to test model ﬁt and developing new test statistics.&l
 &lt;h3&gt;4、肖凯 —— 30 分钟学会 ggplot2&lt;/h3&gt;
 &lt;p&gt;演讲通过类比剑招的学习形象清晰地介绍了 ggplot2 的绘图理念，讲述了 ggplot2 中的几大基本概念：数据、映射、标度、几何对象、统计变换、坐标系统和图层。然后展示了如何绘制基本统计图形，如散点图、直方图、条形图、箱线图等，以及如何自定义图形。最后提供了丰富的学习 ggplot2 的网络资源。&lt;/p&gt;
 &lt;h3&gt;5、邱怡轩 —— R 中大规模数据的整理与分析&lt;/h3&gt;
-&lt;p&gt;演讲将介绍一些用 R 处理大规模数据的常用方法，包括 R 与数据库的连接、ff 软件包以及稀疏矩阵的运算等。报告者首先讲解了 R 与数据库的连接中如何在不超过内存限制情况下进行分批次地进行运算。然后介绍了 ff 软件包，该包可将将 R 中常见的向量、矩阵、数据框等对象存储在硬盘上并数据操作。演讲最后通过微博中的“方寒”大战实例展示了如何进行大规模数据分析。&lt;/p&gt;
+&lt;p&gt;演讲将介绍一���用 R 处理大规模数据的常用方法，包括 R 与数据库的连接、ff 软件包以及稀疏矩阵的运算等。报告者首先讲解了 R 与数据库的连接中如何在不超过内存限制情况下进行分批次地进行运算。然后介绍了 ff 软件包，该包可将将 R 中常见的向量、矩阵、数据框等对象存储在硬盘上并数据操作。演讲最后通过微博中的“方寒”大战实例展示了如何进行大规模数据分析。&lt;/p&gt;
 &lt;h3&gt;6、潘岚锋 —— 矩阵的稀疏分解新算法及其应用&lt;/h3&gt;
 &lt;p&gt;演讲介绍了一个由作者提出的非负矩阵分解新算法以及对应的 R 包 bignmf。非负矩阵分解在图像处理、文本挖掘等领域中有着广泛的应用，非负的约束能够使分解的结果具有很好的解释性。新开发的包与现有的 NMF 包使用了不同的算法，算法本身速度很快；并且使用 Rcpp 实现，在速度上有了很大的提升。演讲最后给出了微博数据和图像数据的分析例子。&lt;/p&gt;
 &lt;h3&gt;7、王剑 —— COS 沙龙介绍&lt;/h3&gt;
@@ -1256,12 +1256,12 @@ how R is adopted in SEM to test model ﬁt and developing new test statistics.&l
  
  <entry>
    <title>第四届中国R语言会议（上海）</title>
-   <link href="/2011/shanghai"/>
+   <link href="2011/shanghai"/>
    <updated>2011-11-21T00:00:00-05:00</updated>
    <id>h/2011/shanghai</id>
    <content type="html">第四届中国R语言会议（上海会场）于2011年11月12日~13日在华东师范大学学术交流中心（逸夫楼）成功召开。会议由华东师范大学金融与统计学院主办、统计之都(&lt;a href=&quot;http://cos.name&quot; target=&quot;_blank&quot;&gt;cos.name&lt;/a&gt;)协办。在两天的会议时间里，胜友如云，高朋满座，大家就R语言在行业里的应用进行了深入的探讨。&lt;/p&gt;
 &lt;h2&gt;会议概况&lt;/h2&gt;
-&lt;p&gt;本次会议吸引了270多名各界人士注册报名，有近200位嘉宾来到现场。其中行业里的参会嘉宾人数第一次超过了在校学生的人数，比例为50.4%，为历届大会最高。根据注册报名信息，同意在参会者之间分享个人信息的206位嘉宾所在单位的汇总如下。&lt;/p&gt;
+&lt;p&gt;本次会议吸引了270多名各界人士注册报名，有近200位嘉宾来到现场。其中行业里的参会嘉宾人数第一次超过了在校学生的人数，比例为50.4%，为历届大会最高。根据注册报名信息，同意在���会者之间分享个人信息的206位嘉宾所在单位的汇总如下。&lt;/p&gt;
 &lt;p&gt;高校和研究所：&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;The University of Auckland、上海交通大学、上海大学、上海对外贸易学院、上海市发展改革研究院、上海生命科学研究院、上海生物信息中心、上海财经大学、东南大学、中国中医科学院、中国人民大学、中国农业大学、中国科学院、中国科学院上海生命科学院、中央财经大学、云南财经大学、华东师范大学、华东理工大学、华中农业大学、南京医科大学、南京理工大学、厦门大学、台湾辅仁大学、同济大学、四川大学、复旦大学、宁波市科技信息研究院、江西理工大学、浙江农林大学、浙江大学、浙江大学宁波理工学院、浙江师范大学、电子科技大学、福建医科大学、第二军医大学、芝加哥大学、西北工业大学&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;企业、事业单位：&lt;/p&gt;
@@ -1342,7 +1342,7 @@ how R is adopted in SEM to test model ﬁt and developing new test statistics.&l
  
  <entry>
    <title>第四届中国R语言会议（北京）</title>
-   <link href="/2011/beijing"/>
+   <link href="2011/beijing"/>
    <updated>2011-05-21T00:00:00-04:00</updated>
    <id>h/2011/beijing</id>
    <content type="html">&lt;div class=&quot;wp-caption aligncenter&quot;&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/05/4th-China-R-BJ.jpg&quot;&gt;&lt;img class=&quot;aligncenter size-large wp-image-1821&quot; title=&quot;第四届中国R语言会议（北京会场）合影&quot; src=&quot;http://cos.name/wp-content/uploads/2011/05/4th-China-R-BJ-500x269.jpg&quot; alt=&quot;第四届中国R语言会议（北京会场）合影&quot; height=&quot;269&quot; width=&quot;500&quot;&gt;&lt;/a&gt;&lt;p class=&quot;wp-caption-text&quot;&gt;第四届中国R语言会议（北京会场）合影（右键另存为看大图）&lt;/p&gt;&lt;/div&gt;
@@ -1428,7 +1428,7 @@ how R is adopted in SEM to test model ﬁt and developing new test statistics.&l
  
  <entry>
    <title>第三届中国R语言会议（上海）</title>
-   <link href="/2010/shanghai"/>
+   <link href="2010/shanghai"/>
    <updated>2010-11-21T00:00:00-05:00</updated>
    <id>h/2010/shanghai</id>
    <content type="html">&lt;div style=&quot;width: 510px;text-align: center;&quot; class=&quot;wp-caption aligncenter&quot;&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2010/11/3rd-China-R-SH-1.jpg&quot;&gt;&lt;img class=&quot;size-large wp-image-2684&quot; title=&quot;第三届中国R语言会议上海会场合影1&quot; src=&quot;http://cos.name/wp-content/uploads/2010/11/3rd-China-R-SH-1-500x332.jpg&quot; alt=&quot;第三届中国R语言会议上海会场合影1&quot; height=&quot;332&quot; width=&quot;500&quot;&gt;&lt;/a&gt;&lt;p class=&quot;wp-caption-text&quot;&gt;第三届中国R语言会议上海会场合影（右键另存为看大图）&lt;/p&gt;&lt;/div&gt;
@@ -1466,13 +1466,13 @@ how R is adopted in SEM to test model ﬁt and developing new test statistics.&l
  
  <entry>
    <title>第三届中国R语言会议（北京）</title>
-   <link href="/2010/beijing"/>
+   <link href="2010/beijing"/>
    <updated>2010-05-21T00:00:00-04:00</updated>
    <id>h/2010/beijing</id>
    <content type="html">&lt;div class=&quot;wp-caption aligncenter&quot;&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2010/06/3rd-China-R-BJ.jpg&quot;&gt;&lt;img class=&quot;aligncenter size-large wp-image-1821&quot; title=&quot;第三届中国R语言会议北京会场合影&quot; src=&quot;http://cos.name/wp-content/uploads/2010/06/3rd-China-R-BJ-500x229.jpg&quot; alt=&quot;第三届中国R语言会议北京会场合影&quot; height=&quot;229&quot; width=&quot;500&quot;&gt;&lt;/a&gt;&lt;p class=&quot;wp-caption-text&quot;&gt;第三届中国R语言会议北京会场合影（右键另存为看大图）&lt;/p&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://china-r.org/img/China-R-Logo.png&quot;&gt;&lt;img class=&quot;aligncenter size-medium wp-image-2276&quot; title=&quot;中国R语言会议标识&quot; src=&quot;http://china-r.org/img/China-R-Logo-300x192.png&quot; alt=&quot;&quot; height=&quot;192&quot; width=&quot;300&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;第三届中国R语言会议（北京会场）于2010年6月14日~15日在中国人民大学明德法学楼0101成功召开。会议由中国人民大学应用统计科学研究中心与中国人民大学统计学院主办、统计之都网站(&lt;a href=&quot;http://cos.name&quot; target=&quot;_blank&quot;&gt;cos.name&lt;/a&gt;)协办。在两天的会议时间里，来自各行各业的R用户齐聚北京，共同探讨和交流R软件的使用经验，取得了丰厚的成果。&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;第三届中国R语言会议（北京会场）于2010年6月14日~15日在中国人民大学明德法学楼0101成功召开。会议由中国人民大学应用统计科学研究中心与中国人民大学统计学院主办、统计之都网站(&lt;a href=&quot;http://cos.name&quot; target=&quot;_blank&quot;&gt;cos.name&lt;/a&gt;)协办。在两天的会议时间里，来自各行各业的R用户齐聚北京，共同探讨和交流R软件的使用经验，取得了丰厚���成果。&amp;nbsp;&lt;/p&gt;
 &lt;h1&gt;会议概况&lt;/h1&gt;
 &lt;h2&gt;参会单位&lt;/h2&gt;
 &lt;p&gt;本次会议吸引了70余家单位近170人参加，参会人员所在单位包括：&lt;/p&gt;
@@ -1539,10 +1539,10 @@ how R is adopted in SEM to test model ﬁt and developing new test statistics.&l
  
  <entry>
    <title>第二届中国R语言会议</title>
-   <link href="/2009/chinar"/>
+   <link href="2009/chinar"/>
    <updated>2009-05-21T00:00:00-04:00</updated>
    <id>h/2009/chinar</id>
-   <content type="html">		&lt;div class=&quot;wp-caption aligncenter&quot;&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2009/12/2nd-R-Conf-BJ.jpg&quot;&gt;&lt;img class=&quot;aligncenter size-large wp-image-1821&quot; title=&quot;第二届中国R语言会议北京会场合影&quot; alt=&quot;第二届中国R语言会议北京会场合影&quot; src=&quot;http://cos.name/wp-content/uploads/2009/12/2nd-R-Conf-BJ-500x332.jpg&quot; height=&quot;332&quot; width=&quot;500&quot;&gt;&lt;/a&gt;&lt;p class=&quot;wp-caption-text&quot;&gt;第二届中国R语言会议北京会场合影（右键另存为看大图）&lt;/p&gt;&lt;/div&gt;
+   <content type="html">		&lt;div class=&quot;wp-caption aligncenter&quot;&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2009/12/2nd-R-Conf-BJ.jpg&quot;&gt;&lt;img class=&quot;aligncenter size-large wp-image-1821&quot; title=&quot;第二届中国R语言会议北京会���合影&quot; alt=&quot;第二届中国R语言会议北京会场合影&quot; src=&quot;http://cos.name/wp-content/uploads/2009/12/2nd-R-Conf-BJ-500x332.jpg&quot; height=&quot;332&quot; width=&quot;500&quot;&gt;&lt;/a&gt;&lt;p class=&quot;wp-caption-text&quot;&gt;第二届中国R语言会议北京会场合影（右键另存为看大图）&lt;/p&gt;&lt;/div&gt;
 &lt;div class=&quot;wp-caption aligncenter&quot;&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2009/12/2nd-R-Conf-SH.jpg&quot;&gt;&lt;img class=&quot;aligncenter size-large wp-image-1883&quot; title=&quot;第二届中国R语言会议上海会场演讲者和工作人员合影&quot; alt=&quot;第二届中国R语言会议上海会场演讲者和工作人员合影&quot; src=&quot;http://cos.name/wp-content/uploads/2009/12/2nd-R-Conf-SH-500x332.jpg&quot; height=&quot;332&quot; width=&quot;500&quot;&gt;&lt;/a&gt;&lt;p class=&quot;wp-caption-text&quot;&gt;第二届中国R语言会议上海会场演讲者和工作人员合影（右键另存为看大图）&lt;/p&gt;&lt;/div&gt;
 &lt;p&gt;2009年12月5~6日以及2009年12月12~13日，第二届中国R语言会议分别在北京和上海两个分会场成功召开。北京会场由中国人民大学应用统计科学研究中心和中国人民大学统计学院主办；上海会场由华东师范大学资源与环境科学学院、金融与统计学院主办，Mango Solutions咨询公司提供赞助。对R语言在中国的推广做出了杰出贡献的吴喜之教授和谢益辉博士远在美国为本次会议发来祝贺；中国R语言的领军人物、华东师范大学的汤银才老师也应邀参加会议并做了专题报告。两个会场的会议就R语言在众多领域中的应用展开了广泛的交流和讨论，为R语言在中国的进一步应用和推广开辟了更宽阔的道路。&lt;/p&gt;
 &lt;h1&gt;会议主题&lt;/h1&gt;
@@ -1719,7 +1719,7 @@ dev.off()&lt;/pre&gt;</content>
  
  <entry>
    <title>第一届中国R语言会议</title>
-   <link href="/2008/beijing"/>
+   <link href="2008/beijing"/>
    <updated>2008-12-21T00:00:00-05:00</updated>
    <id>h/2008/beijing</id>
    <content type="html">&lt;div id=&quot;attachment_438&quot; class=&quot;wp-caption aligncenter&quot;&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/1st-chinese-r-conference-photo.tif&quot;&gt;&lt;img class=&quot;size-full wp-image-438&quot; title=&quot;第一届中国R语言会议合影&quot; src=&quot;http://cos.name/wp-content/uploads/2008/12/1st-chinese-r-conference-photo-thumb.jpg&quot; alt=&quot;第一届中国R语言会议合影&quot; height=&quot;177&quot; width=&quot;478&quot;&gt;&lt;/a&gt;&lt;p class=&quot;wp-caption-text&quot;&gt;第一届中国R语言会议合影（右键另存为看大图）&lt;/p&gt;&lt;/div&gt;
