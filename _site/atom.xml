@@ -1,0 +1,1870 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>中国R语言会议</title>
+ <link href="/atom.xml" rel="self"/>
+ <link href=""/>
+ <updated>2015-04-25T22:24:15-04:00</updated>
+ <id></id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>第八届中国R语言会议（北京）</title>
+   <link href="/2015/beijing"/>
+   <updated>2015-06-06T00:00:00-04:00</updated>
+   <id>h/2015/beijing</id>
+   <content type="html">&lt;p&gt;R是一门用于数据分析和图形展示的语言、平台和环境，其官方机构每年都会举办useR!会议，各个国家及地区也定期有R用户的交流活动。在国内，自2008年以来，中国已经在北京、上海、广州等地成功举办了七届会议，促进了R语言乃至数据科学在中国的推广和发展。为了进一步加强各领域R语言使用者之间的交流和互动，北京大学商务智能研究中心和统计之都将于2015年6月6日和7日在北京大学百周年纪念讲堂举办第八届中国R语言会议（北京会场）。欢迎各界朋友前来交流。&lt;/p&gt;
+&lt;p&gt;除了统计之都主站，会务信息还会通过统计之都微信（扫描统计之都官方网站右侧微信公众平台二维码即可关注）、微博（&lt;a class=&quot;external&quot; href=&quot;http://weibo.com/cosname&quot; target=&quot;_blank&quot;&gt;@统计之都&lt;/a&gt;）来发布，欢迎大家关注获取最新消息。&lt;/p&gt;
+&lt;p&gt;会议的相关情况如下：&lt;/p&gt;
+&lt;h2&gt;一、会议时间&lt;/h2&gt;
+&lt;p&gt;2015年6月6日~7日&lt;/p&gt;
+&lt;h2&gt;二、会议地点&lt;/h2&gt;
+&lt;p&gt;北京大学邱德拔体育馆&lt;/p&gt;
+&lt;h2&gt;三、会议主题&lt;/h2&gt;
+&lt;p&gt;随着大数据时代的来临，数据的价值越来越被人们所重视，作为分析和处理数据的利器，R也从学术界的宠儿变成了业界的明星。在这个风起云涌的数据时代，我们该如何运用R？在本次会议上我们欢迎来自各界的朋友一起讨论。如果您有关于R语言或者数据科学应用实例的经验想和大家分享，请在&lt;strong&gt;报名时填写演讲的主题&lt;/strong&gt;或者&lt;strong&gt;直接发送邮件到会议邮箱：chinar-2015-bj@cos.name&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;目前已确定的邀请主题演讲者：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;郁彬（加州大学伯克利分校）&lt;/li&gt;
+&lt;li&gt;张潼（百度 / 罗格斯大学）&lt;/li&gt;
+&lt;li&gt;袁晓如（北京大学）&lt;/li&gt;
+&lt;li&gt;白硕（上交所）&lt;/li&gt;
+&lt;li&gt;冯永昌（微量集团）&lt;/li&gt;
+&lt;li&gt;苏萌（百分点）&lt;/li&gt;
+&lt;li&gt;叶信岳（肯特州立大学）&lt;/li&gt;
+&lt;li&gt;王汉生（北京大学）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;&lt;strong&gt;四、会议赞助&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;本届会议&lt;strong&gt;欢迎任何企业、高校、个人的多种形式赞助&lt;/strong&gt;，作为回馈，会议手册上会印制赞助商介绍，同时为赞助商提供报告演讲机会。会议具体情况请和会务组讨论商定，请联系 &lt;strong&gt;chinar-2015-bj@cos.name&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;五、会议费用&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;本次会议不收取任何费用，交通、食宿等花费自理。为会议参会者（以在线报名结果为依据）免费提供会议材料，但请报名的朋友们尽量前往参会，如果不能前来&lt;strong&gt;请发邮件提前告知&lt;/strong&gt;，以免造成名额和材料的浪费。&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;六、报名方式&lt;/strong&gt;&lt;/h2&gt;
+敬请期待报名开放。
+&lt;h2&gt;&lt;strong&gt;七、联系方式&lt;/strong&gt;&lt;/h2&gt;
+新浪微博：@统计之都&lt;br&gt;
+人人网：@统计之都&lt;br&gt;
+Twitter：@cos_name&lt;br&gt;
+会议联系邮箱：chinar-2015-bj@cos.name&lt;br&gt;
+主办方：北京大学商务智能研究中心，统计之都&lt;br&gt;
+&lt;!-- more --&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>第七届中国R语言会议（上海）</title>
+   <link href="/2014/shanghai"/>
+   <updated>2014-12-06T00:00:00-05:00</updated>
+   <id>h/2014/shanghai</id>
+   <content type="html">&lt;p&gt;R是一门用于数据分析和图形展示的语言、平台和环境，其官方机构每年都会举办useR!会议，各个国家及地区也定期有R用户的交流活动。在国内，自2008年以来，中国已经在北京和上海成功举办到了第七届会议，促进了R语言乃至数据科学在中国的推广和发展。为了进一步加强各领域R语言使用者之间的交流和互动，华东师范大学金融与统计学院和统计之都将于2014年12月6日和7日在华东师范大学中山北路校区举办第七届中国R语言会议（上海会场）。欢迎各界朋友前来交流。&lt;/p&gt;
+&lt;p&gt;除了统计之都主站，会务信息还会通过统计之都微信(扫描统计之都官方网站右侧微信公众平台二维码即可关注)、微博(&lt;a class=&quot;external&quot; href=&quot;http://weibo.com/cosname&quot; target=&quot;_blank&quot;&gt;@统计之都&lt;/a&gt;)来发布，欢迎大家关注获取最新消息。&lt;/p&gt;
+&lt;p&gt;会议的相关情况如下：&lt;/p&gt;
+&lt;h2&gt;一、会议时间&lt;/h2&gt;
+&lt;p&gt;2014年12月6日~7日。会议将于12月6日上午9:00正式开幕，请注册报名了的参会者提前半小时进场，签到和领取资料（包括胸牌、会议手册、纸笔等）。&lt;/p&gt;
+&lt;h2&gt;二、会议地点&lt;/h2&gt;
+&lt;p&gt;华东师范大学，中山北路校区，科学会堂二楼报告厅。&lt;/p&gt;
+&lt;p&gt;地址：中山北路3663号（地铁3，4号线金沙江路站）。&lt;/p&gt;
+&lt;a class=&quot;external&quot; target=&quot;_blank&quot; href=&quot;http://ditu.google.cn/maps?hl=zh-CN&amp;amp;tab=wl&amp;amp;q=%E5%8D%8E%E4%B8%9C%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E9%80%B8%E5%A4%AB%E6%A5%BC&quot;&gt;&lt;img title=&quot;ECNU&quot; src=&quot;http://cos.name/wp-content/uploads/2011/09/ECNU_MAP.png&quot; alt=&quot;&quot; height=&quot;378&quot; width=&quot;574&quot;&gt;&lt;/a&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;三、会议主题&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;随着大数据时代的来临，数据的价值越来越被人们所重视，作为分析和处理数据的利器，R也从学术界的宠儿变成了业界的明星。在这个风起云涌的数据时代，我们该如何运用R？在本次会议上我们欢迎来自各界的朋友一起讨论。如果您有关于R语言或者数据科学应用实例的经验想和大家分享，请在&lt;strong&gt;报名时填写演讲的主题&lt;/strong&gt;或者&lt;strong&gt;直接发送邮件到会议邮箱：chinar-2014-sh@cos.name&lt;/strong&gt;。本次会议欢迎任何和R语言或者数据分析相关的报告。&lt;/p&gt;
+&lt;p&gt;目前已确定的主题包括：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;刘思喆（京东商城）：R语言在推荐系统中的应用&lt;/li&gt;
+&lt;li&gt;张翔（在路上旅行APP）：Growth Hacker的R工具箱&lt;/li&gt;
+&lt;li&gt;陈丽云（eBay）：网站实验设计框架与实战&lt;/li&gt;
+&lt;li&gt;李舰（Mango Solutions）：地理信息与基于位置的服务&lt;/li&gt;
+&lt;li&gt;周扬（J.D. Power）：利用R与动态可交互图形讲述汽车数据里的故事&lt;/li&gt;
+&lt;li&gt;邓一硕（统计之都）：基于R语言的投资监控平台之构建&lt;/li&gt;
+&lt;li&gt;郎大为（SupStat）：dplyr包：高效数据清理&lt;/li&gt;
+&lt;li&gt;杜亚磊（SupStat）：绘制地图的另一个选择：baidumap&lt;/li&gt;
+&lt;li&gt;石宏飞（宏源证券）：客户账户分析方法：用R实现建模&lt;/li&gt;
+&lt;li&gt;呼思乐（中科院上海生命科学研究院）：基于R的三维人脸绘图系统以及利用R实现三维人脸预测人的性格&lt;/li&gt;
+&lt;li&gt;张兵（浙江省疾病预防控制中心）：空气污染与R&lt;/li&gt;
+&lt;li&gt;肖嘉敏（艾瑞咨询）：电商数据化运营中的网站竞争分析&lt;/li&gt;
+&lt;li&gt;李殷皓（PayPal）：用R+shiny+rCharts快速打造数据产品&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span id=&quot;more-10339&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;此外，本次会议还会提供Lightning Talk（快速演讲）的环节，供企业或组织进行推广或招聘。每个演讲限时5分钟，如有意向请在报名时注明（该演讲免费报名，但是如果数目太多我们会进行筛选）。作报告的公司和组织有：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;统计之都&lt;/li&gt;
+&lt;li&gt;Mango Solutions&lt;/li&gt;
+&lt;li&gt;SupStat&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;四、会议赞助&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;本届会议目前&lt;strong&gt;非常欢迎任何企业、高校、个人的多种形式赞助&lt;/strong&gt;，作为回馈，会议手册上会印制赞助商介绍，同时为赞助商提供招聘专场和报告演讲机会。会议具体情况请和会务组讨论商定，请联系&amp;nbsp;&lt;strong&gt;chinar-2014-sh@cos.name&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;五、会议费用&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;本次会议不收取任何费用。交通、食宿等花费请自理。为会议参会者（以在线报名结果为依据）免费提供会议材料、胸牌等，但请报名的朋友们尽量能来，如果不能前来&lt;strong&gt;请发邮件提前告知&lt;/strong&gt;，以免造成名额和材料的浪费。&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;六、报名方式&lt;/strong&gt;&lt;/h2&gt;
+本届会议已经截止报名。
+&lt;!-- more --&gt;
+
+&lt;h2&gt;&lt;strong&gt;七、会场服务&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;会场工作人员和志愿者将会引导大家签到和入场，并在会议的间隙提供茶歇。 本次会议只为演讲者提供午餐。参会嘉宾请自由解决午餐。以下信息可供参考：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;会场旁边逸夫楼内的咖啡厅，提供商务套餐，但是座位比较有限；&lt;/li&gt;
+&lt;li&gt;丽娃食堂二楼，有个韩国餐厅，可以使用现金；&lt;/li&gt;
+&lt;li&gt;华师大中山北路正门，出门后有很多饭馆；&lt;/li&gt;
+&lt;li&gt;出正门左转是环球港，吃饭的地方很多，价格相对高一点。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;关于到达会场的交通路线请参考：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;从地铁金沙江路站2号口出来，向左走，到前方的宁夏路路口右转，前行100米过中山北路路口，然后左转，步行200米，即可到达华师大的校门。&lt;/li&gt;
+&lt;li&gt;如果是开车，从内环金沙江路出口下来（以逆时针方向为例，顺时针方向下高架后需要在前方金沙江路口调头），靠右行驶两百米，留意路的右边有一个蓝色标牌，上书“进华师大车辆”，右转即可进入校门，一直向前，到先锋路（进校后第二个左转路口）左转，即可看到停车场的标志。科学会堂就在停车场旁边，靠近逸夫楼。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;&lt;strong&gt;八、联系方式&lt;/strong&gt;&lt;/h2&gt;
+
+主席：汤银才，李舰，陈丽云&lt;br&gt;
+新浪微博：@统计之都&lt;br&gt;
+人人网：@统计之都&lt;br&gt;
+Twitter：@cos_name&lt;br&gt;
+会议联系邮箱：chinar-2014-sh@cos.name&lt;br&gt;
+主办方：华东师范大学金融与统计学院&lt;br&gt;
+协办方：统计之都	
+        
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>第七届中国R语言会议（杭州）</title>
+   <link href="/2014/hangzhou"/>
+   <updated>2014-11-29T00:00:00-05:00</updated>
+   <id>h/2014/hangzhou</id>
+   <content type="html">&lt;p&gt;中国R语言会议从2008年开始已经成功举办到第七届了，之前每年在北京和上海举办的会议都非常成功，大力推动了R语言在国内的蓬勃发展。从2014年起，广州将中国R语言会议的火种带到了华南。作为华东重镇、数据科学家的大本营之一，杭州也开始举办中国R语言会议，在阿里巴巴集团和统计之都的努力下、在杭州师范大学的大力支持下，终于将于2014年11月29日在杭州召开第七届中国R语言会议（杭州会场）的会议。&lt;/p&gt;
+&lt;p&gt;除了统计之都主站，会务信息还会通过统计之都微信&lt;span style=&quot;color: #808080;&quot;&gt;(扫描本页面右侧微信公众平台二维码即可关注)&lt;/span&gt;、微博(&lt;a href=&quot;http://weibo.com/cosname&quot; target=&quot;_blank&quot;&gt;@统计之都&lt;/a&gt;)来发布，欢迎大家关注获取最新消息。&lt;/p&gt;
+
+&lt;p&gt;会议的相关情况如下：&lt;/p&gt;
+&lt;h2&gt;一、会议时间&lt;/h2&gt;
+&lt;p&gt;会议将于2014年11月29日上午9:00正式开幕，请注册报名了的参会者提前半小时进场，签到和领取资料（包括胸牌、会议手册等）。&lt;/p&gt;
+&lt;h2&gt;二、会议地点&lt;/h2&gt;
+&lt;p&gt;杭州市余杭区杭州师范大学仓前校区，恕园7号楼艺术大厅。&lt;br&gt;
+&lt;a href=&quot;http://cos.name/wp-content/uploads/2014/11/仓前校区图片.jpg&quot;&gt;&lt;img src=&quot;http://cos.name/wp-content/uploads/2014/11/仓前校区图片-500x251.jpg&quot; alt=&quot;仓前校区图片&quot; class=&quot;alignnone size-large wp-image-10353&quot; height=&quot;251&quot; width=&quot;500&quot;&gt;&lt;/a&gt;&lt;br&gt;
+&lt;span id=&quot;more-10336&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;三、会议情况&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;2013年以来，北京、上海分会场会议规模都在400人以上，有来自近百家单位的人员参会，会后各界反映良好。历届会议纪要请参见&lt;a href=&quot;http://cos.name/chinar/&quot;&gt;&amp;nbsp;http://cos.name/chinar/&amp;nbsp;&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;至今R已经是数据分析、数据挖掘、数据科学从业者首选的编程工具。R社区讨论的领域也已经不再局限于编程语言，也大量涉及到机器学习、推荐算法、高性能计算等工业界与学术界都关心的话题。为了促进R 社区中大量有实操经验的数据挖掘、机器学习高手在技术上和学术上的交流，促进工业界和R语言社区的相互支持，我们将在杭州也举办第七届中国R语言会议。&lt;/p&gt;
+&lt;p&gt;本届会议希望在往届会议取得成果基础上进一步扩大R语言的影响力，尤其是关注R在工业界的应用。欢迎大家踊跃报名参加或演讲!&lt;/p&gt;
+
+
+&lt;h2&gt;&lt;strong&gt;会议费用&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;会议完全免费，但请报名的朋友们尽量能来，如果不能前来请务必发邮件提前告知，以免造成名额和材料的浪费。
+杭州会场正在筹备之中，请大家踊跃提议（留言或邮箱chinar-2014-hz@cos.name）&lt;/p&gt;
+
+&lt;h2&gt;&lt;strong&gt;会议赞助&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;本届会议目前非常欢迎任何企业、高校、个人的多种形式赞助，作为回馈，会议手册上会印制赞助商介绍，同时为赞助商提供招聘专场和报告演讲机会。会议具体情况请和会务组讨论商定，请联系 contact@cos.name。&lt;/p&gt;
+
+&lt;p&gt;感谢阿里巴巴集团的赞助，和业内同仁的赞助。&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>第七届中国R语言会议（广州）</title>
+   <link href="/2014/guangzhou"/>
+   <updated>2014-11-15T00:00:00-05:00</updated>
+   <id>h/2014/guangzhou</id>
+   <content type="html">&lt;p&gt;R是一门用于数据分析和图形展示的语言、平台和环境，其官方机构每年都会举办useR!会议，各个国家及地区也定期有R用户的交流活动。在国内，自2008年以来，中国已经在北京和上海成功举办了六届R语言会议，促进了R语言乃至数据科学在中国的推广和发展。为了进一步加强各领域R语言使用者之间的交流和互动，华南统计科学研究中心、中山大学数学与计算科学学院和统计之都将于2014年11月15日在中山大学南校区举办第七届中国R语言会议（广州会场）。这将是R语言会议首次在华南地区举办。&lt;/p&gt;
+&lt;p&gt;除了统计之都主站，会务信息还会通过统计之都微信&lt;span style=&quot;color: #808080;&quot;&gt;(扫描本页面右侧微信公众平台二维码即可关注)&lt;/span&gt;、微博(&lt;a href=&quot;http://weibo.com/cosname&quot; target=&quot;_blank&quot;&gt;@统计之都&lt;/a&gt;)来发布，欢迎大家关注获取最新消息。&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;aligncenter&quot; src=&quot;http://cos.name/wp-content/uploads/2010/06/China-R-Logo.png&quot; alt=&quot;&quot; width=&quot;532&quot; height=&quot;353&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;会议的相关情况如下：&lt;/p&gt;
+&lt;h2&gt;一、会议时间&lt;/h2&gt;
+&lt;p&gt;2014年11月15日。&lt;/p&gt;
+&lt;h2&gt;二、会议地点&lt;/h2&gt;
+&lt;p&gt;广州市海珠区新港西路135号中山大学南校区网络中心报告厅。&lt;a href=&quot;http://cos.name/wp-content/uploads/2014/10/中山大学.jpg&quot;&gt;&lt;img class=&quot;size-large wp-image-10282 aligncenter&quot; src=&quot;http://cos.name/wp-content/uploads/2014/10/中山大学-464x500.jpg&quot; alt=&quot;中山大学&quot; width=&quot;464&quot; height=&quot;500&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;span id=&quot;more-10281&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;三、会议情况&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;2013年以来，北京、上海分会场会议规模都在400人以上，有来自近百家单位的人员参会，涵盖北京大学、清华大学、中国人民大学、中科院等各高校和研究所和百度、淘宝、豆瓣、当当网等企事业单位，会议现场气氛热烈，会后各界反映良好。历届会议纪要请参见&lt;a href=&quot;http://cos.name/chinar/&quot;&gt; http://cos.name/chinar/ &lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;近年来，随着华南地区数据科学领域的发展，R语言在电商、互联网、金融、医疗、生物医学等领域有着广泛的应用前景。来自各行各业的R用户亟需一个平台交流技术，碰撞思想。本次广州会议正是适应这种需求而举办。&lt;/p&gt;
+&lt;p&gt;本届会议希望在往届会议取得成果基础上进一步扩大数据科学及R语言的影响力，让更多的数据人参与其中，促进社区内部的交流和进步，欢迎大家踊跃报名参加或演讲!&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;四、会议内容&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;随着R语言的应用日益广泛，以及大数据时代的到来，第七届中国R语言会议欢迎社会各界人士针对数据科学相关主题进行演讲和讨论。会议主题将紧扣大数据背景，包括但不限于：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;深度学习与图像、文本分析&lt;/li&gt;
+&lt;li&gt;社会网络、推荐系统及网络传媒&lt;/li&gt;
+&lt;li&gt;统计图形及可视分析&lt;/li&gt;
+&lt;li&gt;金融、保险&lt;/li&gt;
+&lt;li&gt;生物信息、医学统计&lt;/li&gt;
+&lt;li&gt;数据挖掘与机器学习&lt;/li&gt;
+&lt;li&gt;R高级编程及与其他语言的交互&lt;/li&gt;
+&lt;li&gt;R在其他具体领域中的应用等&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;本届会议将围绕大数据中各类问题进行探讨，预期在以上主题的基础上进一步扩展数据科学及R语言的应用范围，以促进多门学科之间的共同发展。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/agenda/&quot;&gt;会议详细日程安排&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/lectures/&quot;&gt;会议演讲信息介绍&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;h2&gt;&lt;strong&gt;五、会议赞助&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.rong360.com/&quot; title=&quot;融360&quot; target=&quot;_blank&quot;&gt;&lt;img width=&quot;220&quot; src=&quot;/img/logo-rong360.jpg&quot; alt=&quot;融360&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;六、会议费用&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;会议完全免费，但请报名的朋友们尽量能来，如果不能前来&lt;strong&gt;请务必发邮件提前告知（&lt;/strong&gt;&lt;strong&gt;chinar-2014-gz@cos.name&lt;/strong&gt;&lt;strong&gt;）&lt;/strong&gt;，以免造成名额和材料的浪费。此外，我们会为通过审核参加演讲的在校学生提供差旅、食宿等资助。欢迎在校学生申请演讲和资助！&lt;/p&gt;
+&lt;p&gt;广州会场正在筹备之中，请大家踊跃提议（留言或邮箱）。&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;七、报名方式&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;敬请关注后续报名开放时间。&lt;/p&gt;
+&lt;p&gt;请登录会议活动主页报名&lt;a href=&quot;http://chinar2014gd.vasee.com/&quot; target=&quot;_blank&quot;&gt; http://chinar2014gd.vasee.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;八、联系方式&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;会务咨询、媒体/社区合作、演讲报名等都可以联系我们：&lt;strong&gt;chinar-2014-gz@cos.name&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;餐饮咨询： 李姣     15889930560&lt;/li&gt;
+&lt;li&gt;住宿咨询： 张晔     13427532123&lt;/li&gt;
+&lt;li&gt;会议咨询： 黄巩怡   13676254205&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;&lt;strong&gt;九、主办方介绍&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;华南统计科学研究中心：&lt;/p&gt;
+&lt;p&gt;
+华南统计科学研究中心由主任张和平博士和执行主任王学钦博士筹备于2011年11月， 2013年12月获中山大学批准正式筹建。中心任务是针对大规模复杂数据，发展科学的量化分析方法、统计学理论以及智能分析软件。中心坚持以问题驱动和理论创新为导向的应用基础研究，特别重视跨学科的研究，尤其在医学、生物学、心理学、金融、风险管理、和商务智能领域有着丰富的合作经验。另外中心目前主要工作包括开展多元非参数统计推断方法、统计计算、新一代测序数据、精神卫生、妇幼疾病和量化投资策略等研究工作。
+&lt;/p&gt;
+&lt;p&gt;
+严谨的治学态度和积极的培养制度，使得如今华南统计科学研究中心各项工作有条不紊的开展。截至目前，中心已成立专项系统RedCap（ http://202.116.86.61/redcap/）用于创建和管理网上调查和研究项目，并建立国内首个基于R语言的云端数据分析兼导引系统Rweb（http://r-web.sysu.edu.cn/）。今后的工作中，中心将立足中山大学，面向广东，辐射华南地区，培养数据科学家，传播统计学思想，促进统计界交流及统计学科发展。
+&lt;/p&gt;
+
+&lt;p&gt;主办方网站：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://scrcss.sysu.edu.cn/&quot; target=&quot;_blank&quot;&gt;华南统计科学研究中心&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://math.sysu.edu.cn/&quot; target=&quot;_blank&quot;&gt;中山大学数学与计算科学学院&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://cos.name/&quot; target=&quot;_blank&quot;&gt;统计之都&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>第七届中国R语言会议（北京）</title>
+   <link href="/2014/beijing"/>
+   <updated>2014-05-24T00:00:00-04:00</updated>
+   <id>h/2014/beijing</id>
+   <content type="html">&lt;h4&gt;邀请演讲嘉宾&lt;/h4&gt;
+
+&lt;ul class=&quot;thumbnails&quot;&gt;
+&lt;li class=&quot;span3&quot;&gt;
+  &lt;div class=&quot;thumbnail&quot;&gt;
+  &lt;a class=&quot;thumbnail&quot; href=&quot;##&quot;&gt;&lt;img src=&quot;/img/speakers/wanghansheng.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+  &lt;h3&gt;王汉生&lt;/h3&gt;
+  &lt;p&gt;北京大学光华管理学院商务统计与经济计量系主任&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;/li&gt;
+&lt;li class=&quot;span3&quot;&gt;
+  &lt;div class=&quot;thumbnail&quot;&gt;
+  &lt;a class=&quot;thumbnail&quot; href=&quot;##&quot;&gt;&lt;img src=&quot;/img/speakers/davidsmith.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+  &lt;h3&gt;David Smith&lt;/h3&gt;
+  &lt;p&gt;Revolution Analytics公司Chief Community Officer&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;/li&gt;
+&lt;li class=&quot;span3&quot;&gt;
+  &lt;div class=&quot;thumbnail&quot;&gt;
+  &lt;a class=&quot;thumbnail&quot; href=&quot;##&quot;&gt;&lt;img src=&quot;/img/speakers/hadley.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+  &lt;h3&gt;Hadley Wickham&lt;/h3&gt;
+  &lt;p&gt;RStudio公司首席科学家&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;/li&gt;
+&lt;li class=&quot;span3&quot;&gt;
+  &lt;div class=&quot;thumbnail&quot;&gt;
+  &lt;a class=&quot;thumbnail&quot; href=&quot;##&quot;&gt;&lt;img src=&quot;/img/speakers/yukai.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+  &lt;h3&gt;余凯&lt;/h3&gt;
+  &lt;p&gt;百度深度学习研究院常务副院长&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;/li&gt;
+
+
+&lt;/ul&gt;
+
+&lt;ul class=&quot;thumbnails&quot;&gt;
+
+&lt;li class=&quot;span3&quot;&gt;
+  &lt;div class=&quot;thumbnail&quot;&gt;
+  &lt;a class=&quot;thumbnail&quot; href=&quot;##&quot;&gt;&lt;img src=&quot;/img/speakers/zhouming.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+  &lt;h3&gt;周明&lt;/h3&gt;
+  &lt;p&gt;微软亚洲研究院自然语言计算组首席研究员&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;/li&gt;
+&lt;li class=&quot;span3&quot;&gt;
+  &lt;div class=&quot;thumbnail&quot;&gt;
+  &lt;a class=&quot;thumbnail&quot; href=&quot;##&quot;&gt;&lt;img src=&quot;/img/speakers/liusize.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+  &lt;h3&gt;刘思喆&lt;/h3&gt;
+  &lt;p&gt;京东商城个性化推荐组负责人&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;/li&gt;
+
+ &lt;li class=&quot;span3&quot;&gt;
+  &lt;div class=&quot;thumbnail&quot;&gt;
+  &lt;a class=&quot;thumbnail&quot; href=&quot;##&quot;&gt;&lt;img src=&quot;/img/speakers/vivian.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+  &lt;h3&gt;张尚轩&lt;/h3&gt;
+  &lt;p&gt;SupStat Inc.首席技术官和联合创始人&lt;/p&gt;
+  &lt;/div&gt;
+ &lt;/li&gt;
+
+ &lt;li class=&quot;span3&quot;&gt;
+  &lt;div class=&quot;thumbnail&quot;&gt;
+  &lt;a class=&quot;thumbnail&quot; href=&quot;##&quot;&gt;&lt;img src=&quot;/img/speakers/huhao.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+  &lt;h3&gt;胡浩&lt;/h3&gt;
+  &lt;p&gt;微量网CEO&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;演讲主题&lt;/h4&gt;
+
+&lt;ul class=&quot;visible-phone&quot;&gt;
+&lt;li&gt;余凯(百度IDL)：Deep Learning Unfolds Big Data Era&lt;/li&gt;
+&lt;li&gt;周明(微软MSRA)：计算机对联和诗词&lt;/li&gt;
+&lt;li&gt;王汉生(北大光华)：A Statistical Model for Social Network Labeling&lt;/li&gt;
+&lt;li&gt;Hadley Wickham(RStudio)：R packages: principles and best practices&lt;/li&gt;
+&lt;li&gt;David Smith(Revolution)：How the growth of R helps data-driven organizations succeed&lt;/li&gt;
+&lt;li&gt;张尚轩(SupStat)：大数据的新方向：公开同享趋势下的新数据产业&lt;/li&gt;
+&lt;li&gt;James Wicker(中国科学院国家天文台)：Multi-Cluster Detection&lt;/li&gt;
+&lt;li&gt;靳志辉(腾讯)：广告定向中的用户分析&lt;/li&gt;
+&lt;li&gt;廖逸竹(优酷土豆)：玩转三亿视频 – 数据分析在视频产业的应用&lt;/li&gt;
+&lt;li&gt;林荟(杜邦先锋)：数据分析在传统行业商业决策中的应用&lt;/li&gt;
+&lt;li&gt;肖楠(中南大学)：Integrated Pipeline for Systems Pharmacology in R/Bioconductor&lt;/li&gt;
+&lt;li&gt;刘思喆(京东)：R与企业级数据挖掘&lt;/li&gt;
+&lt;li&gt;李舰(檬果咨询)：R与文本挖掘&lt;/li&gt;
+&lt;li&gt;寇强(华南统计科学研究中心)：突破R内存瓶颈的若干技术&lt;/li&gt;
+&lt;li&gt;周扬(AdMaster)：它山之石可以攻玉：recharts图形包&lt;/li&gt;
+&lt;li&gt;张晔(中山大学)：科研角度下的R包开发&lt;/li&gt;
+&lt;li&gt;胡浩(上海国富投资管理有限公司)：云计算时代的量化投资&lt;/li&gt;
+&lt;li&gt;鄭義(國立中山大學): 基金評選平台之建立&lt;/li&gt;
+&lt;li&gt;張家齊(Taiwan R Group): Hacking Models With R&lt;/li&gt;
+&lt;li&gt;吳齊軒(Taiwan R Group): Large Scale Learning with R&lt;/li&gt;
+&lt;li&gt;丘祐瑋(Taiwan R Group): Big Data Analysis With RHadoop&lt;/li&gt;
+&lt;li&gt;王亮博(Taiwan R Group): Interactive Visualization with R&lt;/li&gt;
+&lt;li&gt;郭韋廷(Taiwan R Group): Data Analysis with R and Python&lt;/li&gt;
+&lt;li&gt;牟官讯(量化投资人)：开发的血和泪，交易的冰与火&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table class=&quot;table table-bordered table-striped hidden-phone&quot;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+  &lt;th style=&quot;text-align:center&quot;&gt;演讲嘉宾&lt;/th&gt;
+  &lt;th style=&quot;text-align:center&quot;&gt;演讲主题&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;余凯&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;百度深度学习研究院(IDL) 常务副院长,南京大学和北邮兼职教授，中科院计算所客座研究员，国家“千人计划”专家、中关村高端领军人才及北京市海外高层次人才。&lt;/p&gt;&lt;p&gt;余凯先生先后毕业于南京大学和慕尼黑大学，毕业后曾在微软、西门子和NEC工作。曾任斯坦福大学计算机系Adjunct Faculty。&lt;/p&gt;
+
+  &lt;p&gt;他至今发表数十篇论文，论文共计被引用5000余次，曾荣获ICML-2013的最佳论文奖银奖，并曾在PASCAL VOC, ImageNet等竞赛中获国际第一。2013年，他领导的百度语音团队荣获“2013百度最高奖”，其团队开发的基于图像技术的“百度魔图PK大咖”成为2013年最火爆的移动图片应用产品之一。近年来，他领导的团队使得深度学习在互联网广告业务和网页搜索排序获得突破性进展。&lt;/p&gt;
+
+  &lt;/td&gt;
+  &lt;td&gt;
+    &lt;p&gt;&lt;strong&gt;Deep Learning Unfolds Big Data Era&lt;/strong&gt;&lt;/p&gt;
+    &lt;p&gt;Abstract:  Dr. Kai YU, Head of Institute of Deep Learning (IDL) at Baidu, will speak about Baidu’s recent efforts in developing cutting-edge technologies in the areas of deep learning and broader artificial intelligence. By leveraging big data aided by massive parallel computation, enthusiastic IDL researchers have led to significant improvements to Baidu&#39;s core business, such as search,  ads, speech recognition and computer vision. More importantly, these technologies have been shaping up a foundation for imaginative long-term innovation.&lt;/p&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;王汉生&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;统计学博士，北京大学教授、博士生导师，现任北京大学商务智能研究中心主任和北京大学光华管理学院商务统计与经济计量系主任。&lt;/p&gt;&lt;p&gt;先后毕业于北京大学数学科学学院概率统计系（1998），美国威斯康星大学麦迪逊分校（2001）。现为国际统计研究员、美国统计学会、美国数理统计研究员；英国皇家统计协会以及泛华统计学会会员。同时也是Computational Statistics &amp;amp; Data Analysis (2008—现在),Statistics and its Interface (2010—现在)，Journal of Business and Economic Statistics(2012至今)和Journal of the American Statistical Association (2011至今)的副主编。至今已发表英文学术论文五十余篇，中文论文近二十篇。同时曾合著英文专著一本，独立完成中文教材一本。关注的理论研究领域包括：高维数据分析、变量选择、数据降维、极值理论以及半参数模型等；关注的应用研究为：搜索引擎营销和社会关系网络等。&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;A Statistical Model for Social Network Labeling&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;Abstract: We consider here a social network from which one observes not only network structure(i.e., nodes and edges) but also a set of labels (or tags, keywords) for each node (or user).
+
+These labels are self-created and closely related to the user&#39;s career status,  life style,personal interests, and many others. Thus, they are of great interest for online marketing.
+
+To model their joint  behavior with network structure, a statistical model is developed.The model is based on the classical p&lt;sub&gt;1&lt;/sub&gt; model but allows the reciprocation parameter to belabel dependent.  For both dense and sparse networks, we obtain maximum likelihood estimators, which are statistically efficient but computationally expensive. To alleviate the computational cost,
+a novel conditional maximum likelihood estimator is proposed  for large scaled sparse network.
+
+The asymptotic properties of these estimators are investigated.Simulation studies are conducted and a real Sina Weibo dataset is analyzed.&lt;/p&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;David Smith&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;David Smith是Revolution Analytics公司的Chief Community Officer。他领导着该公司的开源解决方案团队。借助他的数据科学背景，他每天都在Revolution的博客网站上撰写R语言在预测性分析中应用的文章。 他被福布斯杂志评为“大数据”主题中十大最有影响力人物之一。他是R语言的培训手册“An Introduction to R”的作者之一，并且是ESS项目（Emacs Speaks Statistics，Emacs与R相互的插件）的最初开发者之一。在加入Revolution Analytics之前，David是Insightful公司负责S-PLUS产品管理的董事之一。他的twitter账号是&lt;a href=&quot;https://twitter.com/revodavid&quot; target=&quot;_blank&quot;&gt;@revodavid&lt;/a&gt;&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;How the growth of R helps data-driven organizations succeed&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;Abstract: Adoption of the R language has grown rapidly in the last few years, and is ranked as the number-one data science language in several surveys. This accelerating R adoption curve has been driven by the Big Data revolution, and the fact that so many data scientists — having learned R at university — are actively unlocking the secrets hidden in these new, vast data troves. &lt;/p&gt;
+
+&lt;p&gt;In more than 6 years of writing for the Revolutions blog, I’ve discovered hundreds of applications of R in business, in government, and in the non-profit sector. Sometimes the use of R is obvious, and sometimes it takes a little bit of detective work to learn how R is operating behind the scenes. In this talk, I’ll begin by presenting some recent statistics on the growth of R. Then I’ll recount some of my favourite applications of R, and show how R is behind some amazing innovations in today’s world.
+  &lt;/p&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;Hadley Wickham&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;RStudio公司的首席科学家，同时也是美国Rice大学的助理教授。他开发了著名的&lt;a href=&quot;http://ggplot2.org/&quot;&gt;ggplot2&lt;/a&gt;和&lt;a href=&quot;http://plyr.had.co.nz/&quot;&gt;plyr&lt;/a&gt;包. &lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;R packages: principles and best practices&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;R packages have a reputation for being complex, unwieldly beasts that
+need decades of study to master. In this talk, I&#39;ll show you that you
+when you have the right tools, R packages are easy; so easy, in fact,
+that they should be your default whenever you combine code, data or
+documentation. Packages are great just for yourself, and they&#39;re also
+great if you want to share. Sharing a package requires a little more
+work so that it works everywhere (not just on your computer), but the
+right mindset and the right tools make easy and a small additional
+time investment makes it possible for you to share you work with the
+world through github or CRAN.&lt;/p&gt;
+  &lt;p&gt;You might think that you&#39;ll never need a package because you only use
+R to do data analysis. But many data analysis are complex, and can&#39;t
+be solved with a few lines of R code. Instead, you need to write
+functions to capture common solutions to repeated problems. As soon as
+you start writing functions, it&#39;s a good idea to learn a little bit
+about packages so that you can make functions that are well-documented
+and well-tested.&lt;/p&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;周明&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;微软亚洲研究院自然语言计算组首席研究员，中国计算机学会通讯动态栏目主编。哈工大、南开大学等高校博导、清华-微软联合实验室联合主任。周明先生于1991年在哈工大获得博士学位，1991年到1999年在清华大学计算机系任博士后和副研究员。1999年加盟微软亚洲研究院，随后开始担任计算语言计算组的负责人（曾短期兼任过语音组的主任）。他是中国第一个中-英机器翻译系统CEMT-I、中-日机器翻译系统J-北京的发明人。&lt;a class=&quot;more collapsed&quot; href=&quot;##&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#zhouming-more-1&quot;&gt;查看详情&lt;/a&gt;&lt;/p&gt;
+  &lt;div id=&quot;zhouming-more-1&quot; class=&quot;collapse&quot;&gt;
+  此外，他领导团队开发了微软对联、微软中日文输入法、英语写作助手、微软聊天机器人、必应词典、英库问答、微博搜索、微软中-英翻译等系统，其团队为必应搜索、Office、SQL、Windows及微软语音翻译系统等产品做出重要贡献。其与中科院计算所合作的基于Kinect的手语的识别和翻译也声名不菲。他曾任首届亚洲信息检索大会（AIRS2004）程序委员会主席、中国计算机学会自然语言处理和中文计算大会（NLP&amp;amp;CC）程序委员会主席（2012年首届大会）和大会主席（2013年），并曾多次担任ACL、SIGIR、EMNLP、IJCAI、COLING等国际学术会议的领域主席。
+  &lt;/div&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+    &lt;p&gt;&lt;strong&gt;计算机对联和诗词&lt;/strong&gt;&lt;/p&gt;
+    &lt;p&gt;摘要：对联和诗词是中国的重要文化遗产。对联和诗词有严格的对仗、平仄、韵律等要求，并讲究意境的精妙。用计算机自动产生对联和诗词是人工智能的一项难题，而且在学术界的研究也不多见。本研究创造性地把对联和诗词生成看作是一种特殊的机器翻译过程。我们提出了一个基于短语的机器翻译的解码方法。对用户输入的上联，系统产生下联的多个候选。然后一组基于对联要求的语言学规则惩罚不符合对联要求的候选。最后，通过一个Ranking机制综合利用多属性进行重新排序。基于这个方法，我们开发了微软对联系统（http://duilian.msra.cn）。&lt;a class=&quot;more collapsed&quot; href=&quot;##&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#zhouming-more-2&quot;&gt;查看详情&lt;/a&gt;&lt;/p&gt;
+    &lt;div id=&quot;zhouming-more-2&quot; class=&quot;collapse&quot;&gt;
+      &lt;p&gt;在对联研究基础上，我们进一步扩展到对诗词的自动生成研究，我们目前以绝句为例进行了初步研究。目前的场景是用户给出几个关键词，用于描述自己的意图，然后系统生成一首绝句。系统首先通过语言模型生成绝句的第一句。然后，采用统计机器翻译的方法逐句生成以下三句。在生成第N句的时候，考虑了以前生成的N-1句以避免词语的重复、遵循对仗和平仄，并保证意义的连贯。通过初步的实验验证了本方法的有效性。&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;陈景祥&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;中华R软件研发暨应用协会(www.carra.org.tw)秘书长，淡江大学副教授。&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+    &lt;p&gt;&lt;strong&gt;R-Web：大数据分析及导引云平台&lt;/strong&gt;&lt;/p&gt;
+    &lt;p&gt;R语言项目(R-Project) 经过多年的发展，目前已是各国统计专业人士最常使用的分析工具。近两年来，随着大数据观念的普及，R语言在数据科学的应用上也逐渐受到各个应用领域专家的关注，并已经成为主要的分析工具，虽然R本身包含了完整的程序语言功能以及众多的包(package)，但是数据分析与应用人员未必都具有R的编程能力，因此开发一个只需鼠标点选即可完成分析任务的用户图形接口(GUI) 就扮演了相当重要的角色。
+	在R中原本就已经有若干图形界面的包可供选用，例如 R-Commander、Rattle，以及可供制作图形接口的 JGR、PMG、gWidgets 等等，但是这些套件都各有缺点，在中文接口与计算结果的呈现也未必理想。
+	R-Web 是第一个针对中文所开发的大数据分析及导引云平台，用户仅需使用计算机或行动装置的浏览器即可进行数据分析。R-Web 除了数据处理与一般统计分析之外，另外还包含数据挖掘、时间数列、广义线性模式(GLM)、存活分析、以及结构方程模式(SEM)等多样的分析方法，对于初学者或对分析方法不熟悉的使用者而言，R-Web 也提供了分析目标导引系统，让用户可以经由问与答方式来找到适用的统计分析方法，提高分析效率及增加分析知识。
+	&lt;/p&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;胡浩&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;胡浩，现任微量网络科技CEO（互联网证券金融领域的国家高新技术企业），毕业于中国人民大学，获统计学硕士和金融工程博士学位，曾担任中信证券首席金融工程分析师、多家大型资产管理机构量化投资负责人。
+
+胡浩博士长期从事数量金融研究，曾带领中信证券金融工程团队在《新财富》最佳分析师评选、中国证券业协会、深圳证券交易所征文大赛等活动中多次获奖。胡浩博士致力于以大数据分析为基础、结合金融理论和投资者行为分析解释资本市场现象，构建A股市场量化投资策略体系。他目前主导的“微量网”项目是互联网证券金融的领导品牌，搭建了投资策略提供者和策略使用者之间的“云交易”平台。&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+    &lt;p&gt;&lt;strong&gt;云计算时代的量化投资&lt;/strong&gt;&lt;/p&gt;
+    &lt;p&gt;随着资本市场的发展，量化投资逐渐为国人所熟悉，但看起来，似乎只有专业人士才能进行量化投资，其实不然，量化投资的核心在于你是否具有“模式”投资的思维，而数据存储、模型测算、IT执行等在云计算时代不再成为一个难题。换句话说，如果你从量化的角度思考资本市场并且找到了某些规律性的东西，那么在云计算时代，在外部系统的帮助下你也可以成为一个高效的量化投资者。&lt;/p&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;景亮&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;现任量邦科技策略研发总监，毕业于中国科学技术大学（物理学学士），美国印第安纳大学布鲁明顿分校（物理学硕士），美国德克萨斯大学圣安东尼奥分校（应用统计学博士）。曾任美国德克萨斯大学统计咨询中心高级分析师，具有多年统计学行业应用经验和丰富的量化金融投资研究实践经验。&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+    &lt;p&gt;&lt;strong&gt;程序化交易策略开发与R&lt;/strong&gt;&lt;/p&gt;
+    &lt;p&gt;R作为最流行的统计分析和数据可视化编程语言有其独特的优势和广泛的使用者基础，策略编写语言作为程序化交易策略开发中最核心的部分直接决定着开发的效率和策略的质量，如何把R融入程序化策略开发之中、充分挖掘其优势是一个值得深入研究的问题。量邦科技作为国内顶尖的量化投资平台开发商在这一领域做出了一定的尝试：1）我们在程序化交易策略研发平台上，把R植入作为开发交易信号的编程语言；2）上游无缝接入行情数据，下游对接信号汇总和策略表现分析模块。如此一来，R语言爱好者可以直接使用R语言开发程序化交易策略&lt;/p&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;廖逸竹 Zoe Liao&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;台湾大学工商管理系毕业。
+现为优酷土豆集团数据分析部的高级经理, 负责以商业决策为导向的相关分析, 包括用户多屏行为、视频内容特点、用户与内容关连等相关议题。曾在台湾的管理谘询公司、商业银行、及雅虎台湾从事商业分析, 关注领域为客户区隔、测试设计、风险预测模型、及客户价值极大化分析。
+&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;玩转三亿视频 - 数据分析在视频产业的应用&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt; 每日有1.2亿互联网用户与优酷土豆互动, 藉由对观众观看行为、影片搜索、评论互动等行为的解析, 得以了解不同类型影片的观众群、跨屏幕播放行为差异、影片关键情结点、内容偏好、UGC播放的重要影响因子等议题, 进而将所获信息及知识转化为对公司、内容及产品运营的正面影响。数据分析对网络视频的影响正如火如荼发生, 玩转优酷土豆三亿个视频, 且听我们如何化数据为故事, 化故事为行动! &lt;/p&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;张尚轩（Vivian Zhang）&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;SupStat Inc(分公司为北京数博思达信息技术有限公司) 首席技术官和联合创始人。她负责美国市场的业务拓展和多边合作，并将美国大数据的软硬件解决方案带入中国市场。她在美国获得计算机/统计学双硕士学位，曾在布朗大学统计研究中心、斯隆凯特琳癌症中心、纽约石溪大学医疗中心等机构工作，参与多个重要的研究课题，并在影响因子第一名的JASA统计学杂志发表最新学术文章。&lt;/p&gt;
+  &lt;p&gt;她创立了纽约公开数据Meetup,专注于利用公开数据教授一般民众和技术人员数据分析方法，为社会创造透明高效的运作秩序，为企业提供最优质最好的数据源来发展业务。在不到一年之内，她为技术和数据社区提供了80余场免费的教学讲座。 她亦是纽约数据科学学院的创始人，在纽约曼哈顿地区提供大数据专题教学，涵盖大量流行的数据分析和可视化编程工具（R, Python, Hadoop, D3.js, Processing, Location data query等），帮助企业培训优质的大数据人才。&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+    &lt;p&gt;&lt;strong&gt;大数据的新方向：公开同享趋势下的新数据产业&lt;/strong&gt;&lt;/p&gt;
+    &lt;p&gt;分享美国政府公开数据的进展情况，以纽约，芝加哥，旧金山等主要城市为例，以具体的例子来展示政府是如何与一般民众沟通信息，鼓励创新和监督。以纽约为例，分享各类数据公开之前的几个步骤和需要的条件。&lt;/p&gt;
+
+&lt;p&gt;分享美国公司公开数据的使用情况，以Oscar Health Care, On Deck Capital, Engima.io为例，企业是如何从公开数据中受益获利以及发展出与众不同的竞争力。&lt;/p&gt;
+
+&lt;p&gt;分享美国的公司之间又是如何通过分享数据，创造新的价值和便利。以医疗体系为例，医生之间，医院之间，医疗体系之间实现了快速电子医疗档案的传递，可携带设备公司与医疗体系之间便捷的数据传递同享。&lt;/p&gt;
+
+&lt;p&gt;最后分享公开数据一些有趣的小数据产品，例如利用云图精确预测下一分钟是否下雨的移动应用产品，例如气象报告来卖天气保险产品等。和公开数据的比赛，例如纽约Big Apps比赛，每年一次鼓励全世界的开发者来比赛，把公开数据的价值释放出来。&lt;/p&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;張家齊 Chia-Chi Chang&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;家齊是一位熱愛分析資料的工程師，熱愛分析資料，建立模型，討論數學。由於，早年喜歡作期貨與選擇權的程式交易，而縱觀 Open Source 的軟體中提供最多，跟投資策略分析相關資源的，大概就是 R 語言了。此外，在當時的台灣 Open Source 社群中，大多數也都集中在網站技術的討論，鮮少有資料相關的社群與活動！因此，在 2012 年時，就找了高中學長 Wush，一起共同創辦了 Taiwan R User Group 社群，以及相關的聚會！非常高興能夠有機會和社群的許多朋友們，一起組織聚會，一起討論，一起成長。&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;Hacking Models With R&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;在這個「大資料」時代崛起的「掏資料潮」中，Data Mining 等相關的技術被應用的越來越廣泛，也越來越深刻。不過，在真實的生活應用中，許多傳統的 Modeling 技術，還是常常會遇到許多困難與挑戰。因此，學會如何改寫 Model 來因應環境的需求，就成為了資料分析人員很重要的技能之一。在這場演講中，我將會介紹「R 中許多典型的資料模型」、「原始模型遇到的問題」、「模型背後的最佳化問題」、「如何改寫模型並改寫其 Solver」&lt;/p&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;吳齊軒 Wush Wu&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;Wush Wu 是臺大電機所的博士生，並且和宇匯知識科技合作，研發網路廣告的推薦引擎。R 是Wush最熟悉的工具，平時工作幾乎都使用R 來完成，包括利用R 爬資料、跑實驗、分析數據到撰寫報告和論文。也由於對R 的喜愛，所以和家齊於2012年創立Taiwan R User Group。實務經驗上，目前Wush利用Open Source R 、Rcpp和pbdMPI建立了分散式的學習系統來建立推薦模型，目前正在商轉中。在了解業界的環境和挑戰之後，目前則嘗試將整個分析的流程系統化及自動化，建立一套能夠持續改善推薦模型的SOP，更期望將所謂「讓數據說話」的思維落實到企業決策中，解決其他的實際問題。由於碩士畢業於統計所，所以Wush對於統計模型上的技術較為熟悉，目前也正和老師在撰寫Recurrent Data Analsys的分析套件。&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;Large Scale Learning with R&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;在資料爆炸的時代，運用大數據挖掘與探索商機是現在相當熱門的議題。但事實上要駕馭大數據卻不是件容易的事情，尤其在建立模型的部份，若在工具上沒能跨過門檻，就很難在有限時間產生資料的價值。這次Wush將分享運用R、Rcpp和pbdMPI所開發的高效能的大數據運算平台，包含完成對超過1億筆資料，僅花費1小時的建模經驗，以及跨過分析門檻與挖掘知識的過程。Wush除了介紹影響R運算速度的問題，以及實際克服問題的過程，同時也會分享如何運用系統化的概念創造資料價值的故事。&lt;/p&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;丘祐瑋 David Chiu&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;丘祐瑋 (David Chiu) 是碩源資訊 (numerinfo.com) 共同創辦人，TW.R Officer，也曾經是趨勢科技的工程師。David 是一位致力於提供 Data as a Service 的創業者與資料科學家，熟悉使用 Hadoop 進行巨量資料處理，暨長時間專注使用各式 Data Mining 技術從事資料分析；為台灣 Python 及 R 社群的忠實聽眾，喜愛參與社團交流與分享，希望能多了解如何使用 Python &amp;amp; R 讓資料分析更簡單上手。目前正在替 Packt 撰寫 Machine Learning With R Cookbook 及編評Bioinformaics With R Cookbook。&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;Big Data Analysis With RHadoop&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;談到海量資料，通常大家腦海中聯想到的就是使用Hadoop 的 MapReduce 和HDFS，但是撰寫MapReduce，則就必須要學會撰寫Java 或透過Thrift 接口才能撰寫。但R是否有辦法運行在Hadoop 上呢 ? 而使用R + Hadoop，是否就真的能結合R強大的分析功能，分析海量資料呢 ?&lt;/p&gt;
+
+  &lt;p&gt;本次講題將介紹如何撰寫R的MapReduce 程式，並實際示範如何使用RHadoop 進行海量資料分析。更重要的是，此次將探討使用RHadoop 是否為海量資料分析找到一盞明燈? 或者只是另一套實作方法而已?&lt;/p&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;王亮博 Liang Bo Wang&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;台大生醫電資所在學碩士。喜歡寫 R、Python、統計與生物資訊。目前為 Taiwan R Users Group 工作人員及 Taipei.py 常客。&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;Interactive Visualization in R&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;近年來各種網路服務誕生，從要求畫圖好看，到要能與使用者互動。對於常見的圖表而言，現在已有套件如 D3.js、ECharts 能提供解決方案。而 ggplot2 的強大功能已經為 R 使用者提供簡潔又高質量的圖表解決方案。如何將 ggplot2 的圖表加入互動的元素，其中一個解決方案使用 gridSVG 作接口。本講題將以 gridSVG 為出發點，介紹 grid 框架、SVG 互動語法，並示範如何於 R 中接合 D3.js 來實現互動圖表。&lt;/p&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;鄭義&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;美國愛荷華大學財務博士、CFA，專長為權益金融商品設計、投資組合理論與金融資訊系統開發，現任台灣中山大學副教授，曾任台灣期貨交易所商品研發小組委員、保德信投信投資研究部副總經理、復華投信新金融商品部副總經理與資深諮詢顧問、寶來證券新金融商品部專案諮詢顧問等，具豐富的產官學經驗。&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;基金評選平台之建立&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;本團隊運用 R 語言，將多個基金指標融合為單一綜合指標，並藉此挑選較佳的基金產品，提供消費者簡易且有效的基金評選平台，此外有鑒於退休規劃之需求日益提升，本平台亦推薦數種嚴控風險的投資組合，做為長期投資之參考。&lt;/p&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;郭韋廷 Willy Kuo&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;Pandas (Python用來做Data Analysis的套件之一)的源碼貢獻者之一。Stackoverflow上Pandas的Top Answer之一。&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;Data Analysis in R and Python&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;近幾年Python發展出了許多Data Analysis的套件，越來越多人開始使用Python做Data相關的服務。相較專門用來做Data Analysis的語言，Python更易整合各式各樣的資源，介接Database、做個簡單的Web Dashboard、開API跟其他程式介接…這個Talk會介紹如何用Python來做Data Analysis，還有一些R和Python的比較。&lt;/p&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;靳志辉&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;先后毕业于北京大学计算机系计算语言所（硕士），日本东京大学（统计自然语言方向博士）。目前，在腾讯科技北京有限公司工作，担任研究员。曾参与腾讯效果广告平台的研发工作，工作范畴主要涉及统计自然语言处理和大规模机器学习，以及把这些技术工具应用于腾讯海量的用户行为分析和广告定向中&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;广告定向中的用户分析&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;腾讯拥有有庞大的互联网用户和流量，如何挖掘这些海量的用户的行为数据以支持腾讯广告业务中的精准定向是腾讯互联网业务中的一个难题。 在尝试精准广告定向的过程中，我们有几个任务需要解决： &lt;/p&gt;&lt;a class=&quot;more collapsed&quot; href=&quot;##&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#jinzhihui-more&quot;&gt;查看详情&lt;/a&gt;
+&lt;div id=&quot;jinzhihui-more&quot; class=&quot;collapse&quot;&gt;
+&lt;ul&gt;&lt;li&gt;如何使用高效的机器学习算法对海量的用户行为数据进行语义挖掘？&lt;/li&gt;
+&lt;li&gt;如何利用腾讯特有的社交行为数据挖掘用户的意图和兴趣？&lt;/li&gt;
+&lt;li&gt;直接产生兴趣数据的用户相对较少，而相似的用户可能会有相似的兴趣， 能否通过相似用户计算，预测用户的兴趣？&lt;/li&gt;&lt;/ul&gt;
+
+&lt;p&gt;本次演讲主要分享一下腾讯广点通广告定向团队在以上问题上做了一些积极的尝试所得到的一些初步成果。&lt;/p&gt;
+&lt;/div&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;林荟&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;先后毕业于北京师范大学数学科学学院（本科），美国爱荷华州立大学统计系（博士）。2009-2013年曾为爱荷华州立大学兽医学院和商学院提供统计咨询服务；2013年5月起任杜邦先锋全球总部市场部统计师，主要工作是领导建立商业预测模型、分析消费者行为数据和提供统计咨询。&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;数据分析在传统行业商业决策中的应用&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;在大数据成为热点、电商高度发展的今天，数据分析在传统行业（如农业）商业决策中扮演的角色变化似乎被遗忘在舞台清冷的角落。本次演讲不打算搅和大数据这杯混水，而是立足于小样本建模分析在传统商业决策中的应用。&lt;/p&gt;
+  &lt;p&gt;&lt;a class=&quot;more collapsed&quot; href=&quot;##&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#linhui-more&quot;&gt;查看详情&lt;/a&gt;&lt;/p&gt;
+  &lt;div id=&quot;linhui-more&quot; class=&quot;collapse&quot;&gt;
+  &lt;p&gt;当然，这是另外一杯机遇和挑战并存的混水。具体说来主要讨论如下几点： &lt;/p&gt;
+
+    &lt;ul&gt; &lt;li&gt;商业数据分析在传统行业的和电商邻域扮演的角色有什么不同？&lt;/li&gt;
+    &lt;li&gt; 数据分析如何帮助商业决策？&lt;/li&gt;
+    &lt;li&gt;几个需要注意的问题&lt;/li&gt;
+    &lt;li&gt;模拟应用案例：用Group Lasso逻辑回归构建评分系统&lt;/li&gt;
+    &lt;li&gt;机遇和挑战&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;刘思喆&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;现就职于京东商城网站智能和商业化部推荐团队，主要负责用户行为，商品特征建模等内容。8年来，一直追求为服务企业提供高效、完备的数据解决方案，尤其在统计分析、预测分析、数据可视化、机器学习、文本挖掘、社交网络等领域。
+
+在加入京东商城前，供职于亚信联创BOC、神州数码思特奇DSS，主要为电信运营商提供数据挖掘及业务咨询等顾问服务。&lt;a class=&quot;more collapsed&quot; href=&quot;##&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#liusizhe-more&quot;&gt;查看详情&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;div id=&quot;liusizhe-more&quot; class=&quot;collapse&quot;&gt;
+&lt;p&gt;10年R语言使用经验，R语言企业级应用的践行者，中国R语言会议、数据科学沙龙联合发起人，中国最大的统计社区-统计之都常务理事，06年至今一直担任R语言版版主。&lt;/p&gt;
+
+&lt;p&gt;2005年毕业于中国人民大学统计学院，《153分钟学会R》的作者，《R in a nutshell》译者。&lt;/p&gt;&lt;/div&gt;
+
+  &lt;/td&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;R语言在电商领域的应用&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;1.R语言应用的架构
+2.常用的技术方案介绍
+3.几个电商应用案例&lt;/p&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;肖楠&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;中南大学数学与统计学院统计学系在读博士，统计之都论坛R语言版版主。《R语言实战》、《ggplot2：数据分析与图形艺术》、《R数据可视化手册》等书籍译者；protr、Rcpi等R包作者。关注领域为统计机器学习、化学信息学与生物信息学、定量与系统药理学。&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;Integrated Pipeline for Systems Pharmacology in R/Bioconductor&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt; Multiscale molecular representation and modeling is a fundemental problem in systems pharmacology research. We developed R/Bioconductor packages and web apps emphasizing the comprehensive integration of bioinformatics and chemoinformatics into a molecular informatics platform for drug discovery. We will share the experience and pitfalls during the package development process.&lt;/p&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;李舰&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;现就职于 Mango Solutions (China)，担任首席顾问，负责数据分析相关的咨询项目及公司产品中分析模块的开发。开源社区中Rweibo、Rwordseg、tmcn 等R包的作者。中国R语言会议（上海会场）的组织者。《数据科学中的R语言》一书的作者（即将由西安交大出版社出版）。邮箱：lijian.pku@gmail.com。&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;R与Office的整合&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;R是最强大且便利的统计分析工具，Office是最为人熟知而随处可得的办公软件，如果一个分析人员的工作电脑上只能装两个软件的话，相信很多人会选择Office和R。关于Office与R的整合，网络上存在很多很好的资源，比如RExcel、R2PPT、ReporteRs等。这些工具到底有哪些妙用？他们的实现机制到底是什么？如何使用才是最有效率的方式？本次报告将会对这些问题进行解答。
+	在行业中，大部分的分析报告都是基于Office产生，尤其是PPT的报告，在可重复研究日趋火爆的今天，关于Office的自动化报告的方案并不常见。在本次报告中，演讲者还将会介绍一个自己编写的R包，可以通过DCOM的方式对Office中的对象进行自如地操作，并能自动解析PPT的各模块，以一个自动化报告的需求为例，介绍基于模板自动生成报告的流程。&lt;/p&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;杨环&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;杨环，现就职于Mango Solutions (China)，担任咨询顾问。毕业于厦门大学和伦敦政治经济学院。邮箱huan.a.young@gmail.com.&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;R在新药研发中的应用&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;一款新药的平均研发时间达到十年之久，耗资通常10亿美元之巨，整个研发过程中的任何决策都至关重要。尤其在最近几年，很多大药厂纷纷遭遇专利保护到期的困境，而新药研发的进度也越来越缓慢。在这样特殊的时期，在FDA的引导和各大药厂的实践下，新药研发中的建模和模拟成了药厂摆脱困境的良药，而这个领域最受欢迎的工具就是R。
+演讲者将会结合Mango Solutions为各大药厂提供服务的经验，介绍新药研发尤其是建模和模拟的流程，展示各类统计模型和数学方法在新药研发中的应用以及系统和工具的实践，尤其是R在其中所起到的关键作用。&lt;/p&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;Hadley Wickham&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;RStudio公司的首席科学家，同时也是美国Rice大学的助理教授。他开发了著名的&lt;a href=&quot;http://ggplot2.org/&quot;&gt;ggplot2&lt;/a&gt;和&lt;a href=&quot;http://plyr.had.co.nz/&quot;&gt;plyr&lt;/a&gt;包. &lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;ggvis sneak peek&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;I&#39;ll give you a sneak peek at ggvis, the successor to ggplot2. Like
+ggplot2, ggvis allows you to describe visualisations declaratively.
+Unlike ggplot2, ggvis graphics are fundamentally of the web: they&#39;re
+built using html, js, and css. More importantly, ggvis graphics are
+fundamentally reactive. You can bind plot parameters to sliders and
+dropdowns, and visualise streaming data as it comes in.&lt;/p&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;周扬&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;现就职于AdMaster数据研究院，主要负责数据分析、建模及其展示。R、Javascript两栖码农，数据可视化爱好者，recharts图形包重要参与者。&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;它山之石可以攻玉：recharts图形包&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;数据可视化作为理解数据的重要媒介，让光秃秃的数据充满了活力和魅力。Echarts是国内优秀数据可视化团队设计与实现的基于浏览器的图形库（js库），已经获得广泛的使用和好评。然而R作为一个统计分析、数据建模和图形可视化的重要工具，由于其原生图形设备在动态可交互图形方面提供的支持有限，需要借助于浏览器作为数据展示平台实现图形的动态可交互。因此，recharts基于将Echarts图形库引入R平台，为R用户群提供动态可交互图形的一个选择。并且通过与knitr、Shiny、slidify等优秀R包的连接实现了丰富和精彩的应用。
+  &lt;/p&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+
+&lt;tr&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;邱怡轩&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;毕业于中国人民大学统计学院（硕士），目前为普渡大学统计系在读博士，统计之都理事会成员。感兴趣的领域包括统计建模与计算，R语言相关技术等，参与翻译了《R语言编程艺术》《ggplot2：数据分析与图形艺术》《R数据可视化手册》等书籍，是R2SWF，showtext，rARPACK等R程序包的作者。个人主页yixuan.cos.name/cn。&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;R中大规模矩阵的奇异值分解与矩阵补全&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;奇异值分解（SVD）及与其相关的特征值分解是统计模型中重要的代数运算工具，在传统的统计方法，如回归分析、主成分分析中有广泛的使用。R中提供了svd()和eigen()等函数来完成相应的运算，然而当矩阵的维度较大时，其计算量通常会变得难以承担。对于一些特定的问题，我们只需要求解一部分的特征值（例如最大的k个），这可以通过rARPACK软件包中的相关函数来实现。本演讲将首先介绍rARPACK软件包的基本用法，并提供它与R中其他工具的性能比较。演讲的第二部分是SVD的一项有趣的应用，称为矩阵补全（Matrix completion），它与推荐系统、图片修复等具有紧密的联系。演讲中将以一个恢复受损图片的例子来介绍矩阵补全的基本原理和实现过程。&lt;/p&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+
+
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;James Wicker&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;James Wicker graduated with a Bachelor’s Degree in Physics from New
+College Florida in 1997. He went to graduate school at the University
+of Tennessee – Knoxville and earned a Master&#39;s Degree in Statistics in
+2003 and a Ph.D. in Physics in 2006. His Ph.D. dissertation focused on
+developing new methods in regression and cluster analysis and applying
+them to analysis of physical systems. In 2007, he came to National
+Astronomical Observatories, Chinese Academy of Sciences in Beijing as
+a postdoctoral researcher. In 2009, he became an editor for the
+research journal Research in Astronomy and Astrophysics, which is also
+based at National Astronomical Observatories, Chinese Academy of
+Sciences. He is still doing research on developing new methods of
+statistical analysis, especially related to mixture modeling.&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;Multi-Cluster Detection&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;A major challenge in mixture model analysis is determining the number
+of clusters present in a data set. I propose a new method to compute
+univariate mixture models that combines the advantages of both genetic
+algorithms and information scoring. Information scoring overcomes
+handicaps that are inherent in hypothesis testing, and as applied to
+mixture modeling, information scoring can overcome these ambiguities.
+I implement a restricted log-likelihood maximization procedure into a
+genetic algorithm that can accurately identify the number of clusters
+present in a univariate mixture model analysis situation. Repeated
+trials on simulated data sets demonstrate the accuracy and reliability
+of this method, and application to real data sets uncovers hidden
+structure in the underlying probability density functions.&lt;/p&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;寇强&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;寇强，微博：@Gossip_useR，华南统计科学研究中心成员，信息学博士在读，研究方向为串联质谱的数据分析和软件开发。&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;突破R内存瓶颈的若干技术&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;R的内存计算一直被人诟病，除去利用近年兴起的Hadoop之外，R众多的扩展包为解决R的内存瓶颈提供了各种思路，包括hashing、硬盘缓存、保存重复计算结果、利用数据库后台等等。这里整理比较一下各种相关技术，提供若干性能测试，并加上一些个人的使用体会。&lt;/p&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;张晔&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;中山大学数学与计算数学学院计算数学专业在读硕士，华南统计科学中心研究人员。合作翻译Financial risk modelling and portfolio optimalization with R, Data mining with Rattle and R, Rcpp: Seamless R and C++ Integration 等图书。研究方向为生物统计。近期研究方向为生物调控网络。关注的技术点为Rcpp和R 语言下的并行计算。&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;以统计学科研人员的角度看R语言开发&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt; 科研工作需要将层出不穷的想法付诸实践，并在实验中不断修正想法。对于统计科学的研究人员来说，R语言灵活高效，贴近统计学家的思维，同时又是一门正在发展的编程语言。演讲者将会结合自身的研究工作，讨论一下科研工作中的R语言开发。
+         一方面，统计方法的算法描述往往是简单明了的，另一方面，统计科研中的编程工作并不简单。这是因为从算法描述到代码实现之间充满了大量的细节。主要的开发困难在于数据结构和接口的设计。而这需要软件工程的思维。
+    要求一个统计学研究人员掌握计算机专业的专业知识略显苛刻，我们更推崇一种“统计学家提供原型，程序员进行优化改造”的工作范式。但为了可重复的研究，编写良好的R程序依然是非常重要的技能。R提供了简单实用的面向对象系统（S3和S4）和一个强大的C++语言接口（Rcpp），为我们的研究提供了极大的便利。
+	&lt;/p&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;牟官讯&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;毕业于上海石油化工专科学校数据处理专业(计算机应用方向)，多年的电信行业基础软件经验，过去曾从事电信级的应用和软件开发。现收集国内A股高频交易数据，从中进行用户行为的研究，投资开发了交易数据分析平台，从历史交易数据中发掘有价值的交易机会。&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;开发的血和泪，交易的冰与火&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;开发高效率计算的代码技巧；如何提升算法代码的通用性；如何从历史交易数据中实时构建动态贝叶斯网络进行预测。&lt;/p&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;欧阳鹤&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;毕业于复旦大学广告系。曾就职于路易威登零售、顾客零售营销部门。目前在奢侈品闪购网站魅力惠从事网站数据分析工作。谷歌分析认证网站分析师。受统计之都的影响于2012年开始自学R语言。参加过2012年与2013年的上海R语言会议。兴趣：信息图表设计，可重复性研究与自动化报告。&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;小而美的数据产品&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;读大学时我从电气工程与自动化转专业到了广告系。朋友说，是从Hard模式跳到了Soft模式。工作后，我从零售与营销转到了数据分析。有人说，Soft调回了Hard。其实，文理相长。数据分析工作可以是技术与艺术的完美结合。
+
+	- 数据产品：以“产品经理”和用户的角度去思考
+	- 小而美：有效的信息沟通，&quot;不要炫的，要有效的”
+	- 前辈的金玉良言，Edward Tufte, Stephen Few
+	- 应用案例:魅力惠是以闪购活动的形式来组织销售。每个活动持续1到2周。又快又轻又好的活动销售报告是频繁而核心的业务需求。
+	Ubuntu+R+Git布环境, shiny搭骨架,  RMySQL读写数据，plyr与reshape2清理数据，ggplot2与ggmap绘图，knitr转换成报告网页，Google Analytics监测应用访问及使用。
+&lt;/p&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;任坤&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;厦门大学王亚南经济研究院金融硕士生，研究兴趣为计算统计和金融量化交易。&lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;构建高效率的数据流水线：在R中使用管道操作&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;在数据驱动的统计计算和数据分析中，对数据使用一连串指令来做处理与可视化是很常见的情况。但是由于传统的函数写法导致后调用的函数需要先写出来，所以一连串指令常常是多层嵌套、很长的表达式，既难阅读也难以维护。讲者编写的pipeR扩展包借鉴了F#语言中的管道操作符背后的思想，定义了三种适合R中使用的管道操作，可以方便地构建流水线式的数据处理过程，可以和dplyr等扩展包一起使用，大幅简化数据操作过程，使之变得清晰、易读、可维护。&lt;/p&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;张丹&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;R语言资深用户，《R的极客理想》作者，系统架构师，曾开发多种不同类型的系统及应用，目前在量化投资领域创业中。张丹在其个人博客 (http://blog.fens.me)原创了大量关于 R语言和Hadoop大数据技术的文章。2013年，他的RHadoop系列文章，在统计之都发表。他还是Dataguru培训讲师，教授课程《Hadoop应用开发实战案例》、《Mahout机器学习平台》。
+  &lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;R语言与金融大数据应用&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;基于Hadoop存储证券的日内交易数据，通过RHive连接R语言与Hive，建立相关性算法模型，在历史数据中回测，构建投资决策组合，并生成可视化结果用于展示。&lt;/p&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;Ge Jiang&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;Current phd student at University of Notre Dame, my major is Quantitative Psy-chology and minor is Applied Computational Mathematics and Statistics?my research interests
+lied in psychometrics and factor analysis and I kind of enjoy the pleasure of being a ’ma nong’
+and want to apply these statistical methods more inside psychology field.
+  &lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  &lt;p&gt;&lt;strong&gt;Combining R with Psychology—–An illustration with SEM&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;R is an advanced softwares that have been adopted and created many disciplines, including
+biostatistics, econometrics, psychometrics, and social statistics. In quantitative psychology, it
+plays a crucial role in conducting simulation and testing hypotheses. This topic mainly presents
+how R is adopted in SEM to test model ﬁt and developing new test statistics.&lt;/p&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;!-- more --&gt;
+
+&lt;h4 id=&quot;meeting-room&quot;&gt;会场安排&lt;/h4&gt;
+
+&lt;p&gt;第一天：如论讲堂&lt;/p&gt;
+
+&lt;p&gt;第二天：明德商学楼：0102，0202，0302&lt;/p&gt;
+
+&lt;h4 id=&quot;road-map&quot;&gt;会场路线&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://pic.yupoo.com/cosname/DEBlZJIo/rU17i.jpg&quot; alt=&quot;路线图&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;jiudian&quot;&gt;推荐酒店&lt;/h4&gt;
+
+&lt;p&gt;大部分价格来自于携程网，去哪儿网，以及网站报价中的酒店直销价，不含优惠信息。&lt;/p&gt;
+
+&lt;p&gt;一、友谊宾馆&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;地址：北京市海淀区中关村南大街1号，距离中国人民大学0.5公里&lt;br /&gt;
+价格：敬宾楼标准房468元（无早餐）【酒店直销价】&lt;br /&gt;
+床型：大床1.6m/双床1.1m&lt;br /&gt;
+宽带：免费&lt;br /&gt;
+评价：位置极佳，设施齐全，装修很大气；价格偏高，环境好，房间舒适。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;二、燕山大酒店&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;地址：北京市海淀区中关村大街甲38号，距离中国人民大学0.2公里&lt;br /&gt;
+价格：公寓经济间328元（无早餐）【酒店直销价】&lt;br /&gt;
+床型：大床1.8m/ 双床0.9m&lt;br /&gt;
+宽带：免费&lt;br /&gt;
+评价：装修较老，房间干净，整体还不错；交通便捷。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a class=&quot;more collapsed&quot; href=&quot;##&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#jiudian-more&quot;&gt;查看更多»&lt;/a&gt;&lt;/p&gt;
+
+&lt;div id=&quot;jiudian-more&quot; class=&quot;collapse&quot;&gt;
+  &lt;p&gt;三、便宜居快捷酒店(双榆树店)&lt;/p&gt;
+
+  &lt;blockquote&gt;
+    &lt;p&gt;地址：北京市海淀区双榆树西里10号楼，距离中国人民大学0.4公里&lt;br /&gt;
+价格：普通标准间280元（无早餐）&lt;br /&gt;
+床型：双床(1.1米)&lt;br /&gt;
+楼层：1-3层&lt;br /&gt;
+宽带：免费宽带&lt;br /&gt;
+评价：交通方便，环境一般，设施较旧，房间舒适&lt;/p&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;四、永正商务酒店（北京苏州街店）&lt;/p&gt;
+
+  &lt;blockquote&gt;
+    &lt;p&gt;位置：北京市海淀区苏州街18号，距离中国人民大学1.1公里&lt;br /&gt;
+价格：标准大床间298元（含早餐，携程网）&lt;br /&gt;
+床型：双人床1.5米，1张&lt;br /&gt;
+楼层：1-3层&lt;br /&gt;
+评价：服务不错,房间也干净,性价比很高；地理位置好&lt;/p&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;五、北京紫金阳光酒店公寓&lt;/p&gt;
+
+  &lt;blockquote&gt;
+    &lt;p&gt;位置：北京市海淀区中关村知春路紫金数码园2号楼，距离中国人民大学1.2公里&lt;br /&gt;
+价格：普通标准间268元（无早餐）&lt;br /&gt;
+床型：双人床1.5米，1张&lt;br /&gt;
+宽带：免费&lt;br /&gt;
+评价：交通便利，紧邻知春路地铁，公寓式酒店，楼层高，大窗，比较安静，屋内整洁&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/div&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;a class=&quot;btn btn-primary&quot; href=&quot;/agenda&quot;&gt;会议日程&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a class=&quot;btn btn-primary&quot; href=&quot;/register&quot;&gt;报名注册&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>第六届中国R语言会议（上海）</title>
+   <link href="/2013/shanghai"/>
+   <updated>2013-11-08T00:00:00-05:00</updated>
+   <id>h/2013/shanghai</id>
+   <content type="html">&lt;p&gt;第六届中国 R 语言会议（上海会场）于 2013 年 11 月 2 日 ~ 3 日在华东师范大学中山北路校区的科学会堂成功召开。会议由华东师范大学金融与统计学院和统计之都（&lt;a href=&quot;http://cos.name&quot;&gt;cos.name&lt;/a&gt;）主办。在两天的会议时间里，参会者齐聚一堂，就 R 语言在电商、互联网、金融、可视化、机器学习、数据挖掘等行业和领域展开了深入的探讨。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/11/6th-china-r-sh.jpg&quot;&gt;&lt;img class=&quot;alignnone size-large wp-image-9048&quot; alt=&quot;6th-china-r-sh&quot; src=&quot;http://cos.name/wp-content/uploads/2013/11/6th-china-r-sh-500x333.jpg&quot; &gt;&lt;/a&gt;&lt;br&gt;
+&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/11/6th-china-r-sh2.jpg&quot;&gt;&lt;img class=&quot;alignnone size-large wp-image-9050&quot; alt=&quot;6th-china-r-sh2&quot; src=&quot;http://cos.name/wp-content/uploads/2013/11/6th-china-r-sh2-500x333.jpg&quot; &gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;会议概况&lt;/h2&gt;
+&lt;p&gt;本次会议报名非常火爆，受会场容量所限，开放报名的时间非常短，很快就报满了600人，约有 400 多名参会者前来参会，规模再创新高。参会者主要来自各大高校、科研机构、企业和事业单位，全体参会者所在单位汇总如下。&lt;/p&gt;
+&lt;p&gt;高校和研究所：&lt;/p&gt;
+&lt;blockquote&gt;
+
+&lt;p&gt;Purdue University、北京大学、北京邮电大学、第二军医大学、东华大学、东南大学、福建师范大学、复旦大学、广东工业大学、广西医科大学、贵阳学院、贵州财经大学、国家人类基因组南方研究中心、杭州电子科技大学、河海大学、华东理工大学、华东师范大学、华中科技大学、江南大学、江西师范大学、解放军理工大学、兰州大学、南昌大学、南方医科大学、南京大学、南京航空航天大学、南京农业大学、南开大学、山东大学、上海财经大学、上海大学、上海交通大学、上海教育科学研究院、上海科技大学（筹）、上海理工大学、上海立信会计学院、上海人类基因组研究中心、上海社会科学院、上海师范大学、上海外国语大学、上海中医药大学、苏州大学、天津大学、同济大学、温州大学、温州医科大学、武汉大学、武汉理工大学、西安石油大学、西北农林科技大学、西藏民族学院、云南财经大学、长安大学、浙江财经大学、浙江大学、浙江工商大学、浙江工业大学、浙江警官职业学院、浙江理工大学、中国科大、中国科学院寒区旱区环境与工程研究所、中国科学院青岛生物能源与过程研究所、中国科学院上海生命科学研究院、中国科学院水生生物研究所、中国科学院武汉病毒研究所、中国人民大学、中国药科大学、中科院大学、中科院生物物理研究所、中科院西双版纳热带植物园、中山大学。&lt;/p&gt;
+
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span id=&quot;more-9012&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;企业、事业单位：&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;1号店、Affirm Inc、AHTC、ARM、AsiaAnalytics、AstraZeneca、B5M、bluedoor、byosoft、CBI易贸、CIC(WPP)、DCX、eBay、FICO、gamantra、Glamour Sales、Google、Huawei、IBC、IBM、IMS、infosys、Mango Solutions、McCANN、Mcgraw Hill Financial、Merkle、newegg、nielsen、Paypal、SanDisk、Supstat、thePOPcompany、UPS、VF Corporation、wind、Yingyun Biotech、阿里巴巴、艾德思奇科技有限公司、安徽科大讯飞信息科技股份有限公司、拜耳医药保健有限公司、北京东方国信、北京华章图文信息有限公司、北京宽连十方数字技术有限公司、北京新生代市场监测机构上海分公司、超传信息技术有限公司、创业邦、春宇供应链、点融网、豆瓣、堆糖、房讯广告（上海）有限公司、复旦大学附属肿瘤医院、富国基金、国海富兰克林基金管理有限公司、海讯、杭州数云信息技术有限公司、杭州曦彩服饰、杭州中翰金诺生物信息技术有限公司、合肥学堂信息技术有限公司、虹口区统计普查中心、汇添富基金、加百力咨询、建行卡中心、建行上开、江苏百盛工程咨询有限公司、杰之能信息科技有限公司、锦誉商务咨询（上海）有限公司、劲霸男装、精鼎、精硕科技邮箱公司、聚胜万合广告有限公司、凯捷咨询、勒卡斯、陆金所、路易威登、美国依鲁上海代表处、美吉生物、美库尔商务信息咨询上海有限公司、美沃贸易、南京安元科技有限公司、南京比藤信息科技有限公司、诺诺镑客金融信息服务有限公司、鹏华基金、浦发银行信用卡中心、群创光电、瑞斡咨询、瑞易信息技术（上海）有限公司、三思、森松集团、上海HP、上海艾客咨询有限公司、上海安吉汽车零部件物流有限公司、上海巴斯德研究所、上海丰核信息科技有限公司、上海积胜投资有限管理公司、上海计量测试技术研究院、上海杰之能信息科技有限公司、上海金字塔软件公司、上海晶能生物技术有限公司、上海民航华东凯亚系统集成有限公司、上海南方基因科技有限公司、上海清算所、上海三高计算机软件、上海晟碟半导体有限公司、上海双杨电脑高科技开发有限公司、上海水渡石信息技术有限公司、上海天会皓闻科技有限公司、上海天祥质量技术服务有限公司、上海吾思信息技术有限公司、上海吾为投资有限公司、上海薪紫投资公司、上海银行、上海浙大网新易得、上海证券交易所、上海资信有限公司、深圳市康拓普信息技术有限公司、斯凯网络、苏州工业园区服务外包职业学院、淘宝、天天动听、天翼视讯传媒有限公司、通策集团、通联支付、同程、同花顺、万达信息、旺旺集团、唯品会、无锡创业投资集团有限公司、武汉大众源生科技服务有限公司、西安交通大学出版社、析数软件、橡果国际、携程旅行网、新大陆、新华人寿保险股份有限公司浙江分公司、新浪支付、兴业银行股份有限公司、央视市场研究股份有限公司、益新、银联、永安期货、招商银行信用卡中心、浙商证券、致联市场研究有限公司、中博信息技术研究院有限公司、中诚信托有限责任公司、中国民航信息网络股份有限公司、中国平安保险集团、中国银行、中航集团、中软、中芯国际、众安在线&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2&gt;会议内容&lt;/h2&gt;
+&lt;p&gt;本次会议共包含开幕致辞及19 场精彩的报告、1个Lighting Talk环节和1个嘉宾讨论环节，会场反响热烈。会议的流程和主要内容摘录如下。&lt;/p&gt;
+&lt;h3&gt;1、汤银才教授致辞&lt;/h3&gt;
+&lt;h3&gt;2、Chih-Jen Lin：Experiences and Lessons in Developing Machine Learning and Data Mining Software&lt;/h3&gt;
+&lt;p&gt;来自国立台湾大学的林智仁教授高屋建瓴地介绍了开发机器学习软件的经验。作为被广泛使用的libsvm的作者，林教授指出了现代的研究机器学习的学者与传统学者的不同，不仅仅只是开发算法，同时也要实现算法开发软件，算法和软件的设计及实现非常关键，这场精彩的报告对包括R在内的所有开源社区都有着重要的参考价值。&lt;/p&gt;
+&lt;h3&gt;3、林祯舜：R与大数据对统计教育的影响&lt;/h3&gt;
+&lt;p&gt;在大数据的时代，R 的快速发展会对传统的统计教育会产生哪些冲击?统计学家要如何在这个浪潮下调整思路，培养有领导力的未来数据科学家?在学界和业界都有了不起成就的林博士从顶层设计和自下而上的两个方向，阐明了大数据和R语言对统计教育的影响，并给高校及企业提供了一个清晰的大数据人才培养思路。&lt;/p&gt;
+&lt;h3&gt;4、李忠：EBAY Multiscreen Insight&lt;/h3&gt;
+&lt;p&gt;随着消费类电子产品不断地深入人们的生活，大家通过电商购物的行为也发生了一定的改变，来自eBay的李忠介绍了他们团队从不同客户端的屏幕入手进行的购买者行为的分析，是电子商务领域一个新的尝试。&lt;/p&gt;
+&lt;h3&gt;5、赵扬：Large Data Analysis using Rhipe/Rhadoop&lt;/h3&gt;
+&lt;p&gt;同样来自eBay的赵扬介绍了他们使用R+Hadoop进行大数据分析的经验。同时作为Rhipe开发团队的一员，赵扬也深入地比较了几种不同的R集成Hadoop的方案的差异，整个报告深入浅出又结合实际的案例，获得了听众广泛的好评。&lt;/p&gt;
+&lt;h3&gt;6、朱筠珺：How R helps personalization analysis in marketing campaign&lt;/h3&gt;
+&lt;p&gt;来自eBay中国分析中心的朱筠珺介绍了几个日常工作中关于市场活动个性化分析的实际案例，详尽地结合了eBay的大数据环境和具体的业务背景，将R的应用以及与其他工具的结合进行了非常直观的展示。&lt;/p&gt;
+&lt;h3&gt;7、Lightning Talk&lt;/h3&gt;
+&lt;p&gt;本次Lightning Talk环节，来自eBay、淘宝、携程、Mango Solutions、SupStat、北京数衡科技有限公司等企业，来自北京华章图文信息有限公司、浙江大学软件学院等高校和出版社，来自统计之都、中国统计网、数盟社区等各界同仁在各自5分钟的演讲时间内介绍了自己的公司和单位，并提出了招聘和合作的需求，现场互动的气氛非常好。&lt;/p&gt;
+&lt;h3&gt;8、甘华来：R语言在旅游行业中的应用&lt;/h3&gt;
+&lt;p&gt;携程是国内最大的在线旅行商（OTA），拥有丰富的用户行为数据和订单数据，演讲者介绍了携程的大数据挖掘，同时以携程Noshow订单预测项目为例，介绍了如何利用R使用GBM模型对订单进行预测。&lt;/p&gt;
+&lt;h3&gt;9、严紫丹：x13季节调整方法的R实现及应用&lt;/h3&gt;
+&lt;p&gt;美国普查局去年7月正式发布了x-13-arima-seat方法的源程序，这一方法是对x12的优化升级。目前这一方法很少能在普通软件中实现，本次演讲介绍了如何用R调用美国普查局的源程序进行季节调整和大批量数据处理的流程，并结合携程的分析需求介绍了针对中国节假日因素的参数设定方法。&lt;/p&gt;
+&lt;h3&gt;10、魏太云，周扬：通向高富帅图表的R包——recharts&lt;/h3&gt;
+&lt;p&gt;演讲者介绍了自己开发的recharts包，这是R对echarts的接口。ECharts基于Canvas，纯Javascript图表库，提供直观，生动，可交互，可个性化定制的数据可视化图表。与R结合后可以非常方便地将数据和模型的结果进行动态展示，实在是R中可视化的一大利器。&lt;/p&gt;
+&lt;h3&gt;11、朱雪宁：微博那些事儿&lt;/h3&gt;
+&lt;p&gt;微博，这一新生代大规模杀伤性社交武器近年来迅速在国内走红，其来势之汹，范围之广，威力之猛当不可小觑。演讲者通过很多有趣的例子介绍了用R分析微博数据的方法及建模点滴。&lt;/p&gt;
+&lt;h3&gt;12、何通：豆瓣网标签的整理和分析&lt;/h3&gt;
+&lt;p&gt;豆瓣网有众多的书、影、音条目，更有众多用户为它们打上了个性化的标签。这些标签内容丰富，但同时也有着噪声大、文本短小等特点。演讲者以在豆瓣实习时的工作与大家分享了对标签信息的整理与分析结果，并提出了更多有益的探索方向。&lt;/p&gt;
+&lt;h3&gt;13、刘思喆：R语言企业级应用&lt;/h3&gt;
+&lt;p&gt;演讲者是京东商城个性化推荐组的负责人，通过京东内部的应用案例介绍了基于R的一种企业级应用的架构，并和大家分享了常用的基于R进行数据挖掘、机器学习、推荐系统方面的技术方案及案例。&lt;/p&gt;
+&lt;h3&gt;14、孙哲：小分队撬动大估值——关于零售金融服务行业的大数据应用模式探讨&lt;/h3&gt;
+&lt;p&gt;演讲者是兴业银行量化策略团队的负责人，通过实际的案例介绍了大数据环境下数据在金融服务行业的应用中格局的转变，并关于以小型团队撬动企业估值的一种可行性进行了探讨。&lt;/p&gt;
+&lt;h3&gt;15、许亮：复杂交易网络中的白富美挖掘&lt;/h3&gt;
+&lt;p&gt;演讲者是天猫的数据挖掘专家，在双十一之前百忙中抽出时间到会议现场和大家分享了天猫在挖掘高品质买家的经验，包括复杂网络理论、交易网络中的生态群体、交易网络中的白富美买家发掘、交易网络中的高品质卖家挖掘等。&lt;/p&gt;
+&lt;h3&gt;16、李洪成：用R进行高频金融数据分析简介&lt;/h3&gt;
+&lt;p&gt;R的高频添加包highfrequency给出了大量的分析高频金融数据的工具，包括管理、清理和匹配高频交易和报价数据的许多函数。应用该包提供的工具函数，可以计算各种流动性指标、波动率等，同时也可以探测噪声的微观结构。本演讲对highfrequency包进行了介绍，并给出了应用示例。&lt;/p&gt;
+&lt;h3&gt;17、邓一硕：quantstrat包与R中的量化投资之路&lt;/h3&gt;
+&lt;p&gt;quantstrat 是一个专门用于量化投资的R包。不仅可以构建交易系统，还可以对构建的交易系统进行仿真测试。由于该包尚没有完备的帮助文档可供查询，因此，本演讲着重以实例来介绍quantstrat 包的使用方法，实在是学习该包的非常好的资料。&lt;/p&gt;
+&lt;h3&gt;18、罗立辉：R语言在陆面建模系统上的应用研究&lt;/h3&gt;
+&lt;p&gt;中科院的罗立辉给大家带来了R语言在陆面建模系统上的应用研究，研究过程中用到了相当多的R包，另针对R语言的不足又加入了NCO、CDO、GrADS等脚本语言来实现。&lt;/p&gt;
+&lt;h3&gt;19、李舰：中文文本挖掘和tmcn包&lt;/h3&gt;
+&lt;p&gt;演讲者在本次会议上正式发布了新开发的tmcn包，在介绍了R中目前存在的文本挖掘和自然语言处理的资源后，比较了已有工具的特点和不足，然后推出了自己开发的tmcn包，是使用中文进行文本挖掘的有力工具，能够很好地和已有的工具结合并弥补了其中的一些不足。&lt;/p&gt;
+&lt;h3&gt;20、陈逸波：kaggle数据比赛的一些经验分享——以Amazon Employee Access Challenge为例&lt;/h3&gt;
+&lt;p&gt;演讲者是著名的大数据分析竞赛平台kaggle上排名top 0.1% 的高手，以一场kaggle比赛为例，介绍了数据挖掘/有监督学习过程中的数据处理、模型训练、模型集成及效果评估等内容，并和大家分享了在kaggle上战斗的经历，引起了听众强烈的兴趣。&lt;/p&gt;
+&lt;h3&gt;21、刘辰昂：use R for fun&lt;/h3&gt;
+&lt;p&gt;作为本次会议的最后一场报告，刘辰昂生动的演示让大家倦意全无，原来R除了能够在学术上助我们一臂之力外，同样也可以给生活带来很多欢乐。&lt;/p&gt;
+&lt;h3&gt;22、嘉宾讨论：R在企业中的应用&lt;/h3&gt;
+&lt;p&gt;在所有的报告结束之后，在林祯舜博士的主持下，来自eBay、淘宝、Mango Solutions、SupStat的R语言应用的一线人员和参会嘉宾一起探讨了R在企业的应用中的关键问题和未来趋势。台下嘉宾问题很多、台上嘉宾谈性很浓，在热烈的讨论氛围下一直持续到下午6点，终于圆满结束了本次R语言大会。&lt;/p&gt;
+&lt;h2&gt;资源下载&lt;/h2&gt;
+&lt;p&gt;经演讲者的授权同意，已将所有同意公开的幻灯片加了超链接供大家下载学习（请遵循&lt;a href=&quot;http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh&quot; target=&quot;_blank&quot;&gt;CC 3.0协议&lt;/a&gt;：署名-非商业性使用-相同方式共享）。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Chih-Jen Lin&lt;/strong&gt;：&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/11/ChinaR2013SH_Nov02_01_LinCJ.pdf&quot;&gt;Experiences and Lessons in Developing Machine Learning and Data Mining Software&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;林祯舜&lt;/strong&gt;：&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/11/ChinaR2013SH_Nov02_02_LinZS.pdf&quot;&gt;R与大数据对统计教育的影响&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;李忠&lt;/strong&gt;：&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/11/ChinaR2013SH_Nov02_03_LiZhong.pdf&quot;&gt;EBAY Multiscreen Insight&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;赵扬&lt;/strong&gt;：&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/11/ChinaR2013SH_Nov02_04_ZhaoYang.pdf&quot;&gt;Large Data Analysis using Rhipe/Rhadoop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;朱筠珺&lt;/strong&gt;：&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/11/ChinaR2013SH_Nov02_05_ZhuJunjun.pdf&quot;&gt;How R helps personalization analysis in marketing campaign&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;甘华来&lt;/strong&gt;：&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/11/ChinaR2013SH_Nov02_06_GanHualai.pdf&quot;&gt;R语言在旅游行业中的应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;严紫丹&lt;/strong&gt;：&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/11/ChinaR2013SH_Nov02_07_YanZidan.pdf&quot;&gt;x13季节调整方法的R实现及应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;魏太云，周扬&lt;/strong&gt;：&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/11/ChinaR2013SH_Nov02_08_WeiTYZhouY.pdf&quot;&gt;通向高富帅图表的R包——recharts&lt;/a&gt; [&lt;a href=&quot;http://echarts.baidu.com/doc/slide/whyEcharts.html&quot; target=&quot;_blank&quot;&gt;echarts介绍&lt;/a&gt;，&lt;a href=&quot;https://github.com/taiyun/recharts&quot; target=&quot;_blank&quot;&gt;recharts工程&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;朱雪宁&lt;/strong&gt;：&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/11/ChinaR2013SH_Nov02_09_ZhuXuening.zip&quot;&gt;微博那些事儿&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;何通&lt;/strong&gt;：&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/11/ChinaR2013SH_Nov02_10_HeTong.zip&quot;&gt;豆瓣网标签的整理和分析&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;刘思喆&lt;/strong&gt;：R语言企业级应用&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;孙哲&lt;/strong&gt;：&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/11/ChinaR2013SH_Nov03_02_SunZhe.pdf&quot;&gt;小分队撬动大估值——关于零售金融服务行业的大数据应用模式探讨&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;许亮&lt;/strong&gt;：&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/11/ChinaR2013SH_Nov03_03_XuLiang.pdf&quot;&gt;复杂交易网络中的白富美挖掘&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;李洪成&lt;/strong&gt;：&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/11/ChinaR2013SH_Nov03_04_LiHongcheng.pdf&quot;&gt;用R进行高频金融数据分析简介&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;邓一硕&lt;/strong&gt;：&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/11/ChinaR2013SH_Nov03_05_DengYishuo.pdf&quot;&gt;quantstrat包与R中的量化投资之路&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;罗立辉&lt;/strong&gt;：&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/11/ChinaR2013SH_Nov03_06_LuoLihui.pdf&quot;&gt;R语言在陆面建模系统上的应用研究&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;李舰&lt;/strong&gt;：&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/11/ChinaR2013SH_Nov03_07_LiJian.pdf&quot;&gt;中文文本挖掘和tmcn包&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;陈逸波&lt;/strong&gt;：&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/11/ChinaR2013SH_Nov03_08_ChenYibo.zip&quot;&gt;kaggle数据比赛的一些经验分享——以Amazon Employee Access Challenge为例&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;刘辰昂&lt;/strong&gt;：&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/11/ChinaR2013SH_Nov03_09_LiuChenang.pdf&quot;&gt;use R for fun&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;会议赞助&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.ebay.com/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://cos.name/wp-content/uploads/2013/11/ebay.png&quot; alt=&quot;ebay&quot; class=&quot;alignnone size-full wp-image-9212&quot; height=&quot;60&quot; width=&quot;142&quot;&gt;&lt;/a&gt;   &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://www.mango-solutions.com.cn/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://cos.name/wp-content/uploads/2013/11/mango.jpg&quot; alt=&quot;mango&quot; class=&quot;alignnone size-full wp-image-9213&quot; height=&quot;60&quot; width=&quot;200&quot;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://www.contactsingapore.sg/cn&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://cos.name/wp-content/uploads/2013/11/Chinese_CS_logo_9-500x323.jpg&quot; alt=&quot;Chinese_CS_logo_9&quot; class=&quot;alignnone size-large wp-image-9214&quot; height=&quot;80&quot; width=&quot;160&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;如果您对于中国R语言会议还有任何感想、意见或建议，欢迎您在本页面、&lt;a href=&quot;http://renren.com/cosname&quot; target=&quot;_blank&quot;&gt;统计之都人人网页面&lt;/a&gt;或&lt;a href=&quot;http://weibo.com/cosname&quot; target=&quot;_blank&quot;&gt;统计之都新浪微博&lt;/a&gt;留言，我们会尽力在今后对会议质量进行进一步的改善。&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>第六届中国R语言会议（北京）</title>
+   <link href="/2013/beijing"/>
+   <updated>2013-05-21T00:00:00-04:00</updated>
+   <id>h/2013/beijing</id>
+   <content type="html">&lt;p&gt;第六届中国 R 语言会议（北京会场）于 2013 年 5 月 18 日 ~ 19 日在中国人民大学国学馆113、114教室成功召开。会议由中国人民大学应用统计科学研究中心、中国人民大学统计学院、北京大学商务智能研究中心、统计之都（&lt;a href=&quot;http://cos.name&quot;&gt;cos.name&lt;/a&gt;）主办。在两天的会议时间里，参会者齐聚一堂，就 R 语言在互联网、商业、统计、生物、制药、可视化等诸多方面的应用进行了深入的探讨。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/05/6th-china-r-bj.jpg&quot;&gt;&lt;img class=&quot;aligncenter size-large wp-image-7851&quot; alt=&quot;6th-china-r-bj&quot; src=&quot;http://cos.name/wp-content/uploads/2013/05/6th-china-r-bj-500x332.jpg&quot; height=&quot;332&quot; width=&quot;500&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;会议概况&lt;/h2&gt;
+&lt;p&gt;本次会议报名非常火爆，报名人数超过600人，约有 400 多名参会者前来参会，规模再创历届之最。参会者主要来自各大高校、科研机构、企业和事业单位，全体参会者所在单位汇总如下。&lt;/p&gt;
+&lt;p&gt;高校和研究所：&lt;/p&gt;
+&lt;blockquote&gt;
+
+&lt;p&gt;中央财经大学、中南大学、中山大学、中国农业科学院、中国社会科学院、中国石油大学、中国科学技术信息研究所、中国科学院北京基因组研究所、中国科学院大学、中国科学院南京地理与湖泊研究所、中国矿业大学（北京）、中国农业大学、中国科学技术大学、中国传媒大学、中国地质大学（北京）、浙江大学、浙江工商大学、芝加哥大学、燕山大学、医学信息研究所、香港城市大学、西南财经大学、微软互联网工程院，北京大学、温岭市委党校、天津医科大学、天津农学院、天津财经大学、天津大学、上海大学、山西医科大学、山西财经大学、中国人民大学、清华大学、南方医科大学、南开大学、内蒙古财经大学、内蒙古科技大学、宁波工程学院、华中农业大学、吉林大学、华北电力大学、河南大学、国防科技大学、第三军医大学、对外经济贸易大学、北京邮电大学、北京语言大学、北京协和医学院、北京师范大学、北京理工大学、北京林业大学、北京航空航天大学、北京交通大学、北京工商大学、北京大学、华侨大学、University&amp;nbsp;of&amp;nbsp;Birmingham、University&amp;nbsp;of&amp;nbsp;Nebraska、Rice&amp;nbsp;University、Iowa&amp;nbsp;State&amp;nbsp;University&lt;/p&gt;
+
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span id=&quot;more-7846&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;企业、事业单位：&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Allianz、Amazon、Arvato&amp;nbsp;China、Australian&amp;nbsp;Curriculum,&amp;nbsp;Assessment&amp;nbsp;and&amp;nbsp;Reporting&amp;nbsp;Authority、EBAY、IBM、IMS、Lenovo、Madhouse、Merck、MVC、OMD、Opera&amp;nbsp;solutions、Reyagroup、SAS、VHS、阿里巴巴、艾恩康医疗咨询有限公司、艾瑞咨询集团爱立信（中国）有限公司、爱奇艺、爱生活科技有限公司、安捷达（北京）顾问有效公司、奥浦诺管理咨询（上海）有限公司、百度、北京大学人民医院、北京东方国信科技股份有限公司、北京汉林信通、北京京诚鼎宇管理系统有限公司、北京柯莱特信息技术有限公司、北京洛神科技有限公司北京趣拿软件科技有限公司、北京瑞斯康达科技发展股份有限公司、北京市机械工业管理局党校（北京京城机电控股有限责任公司培训中心）、北京数海时代分析技术有限公司、北京随时传媒有限公司、北京网达信联科技发展有限公司、北京网元圣唐娱乐科技有限公司、北京伟们市场策划顾问有限公司、北京新浪广告有限公司、北京新媒传信科技有限公司、北京雪球科技有限公司、北京亿企通信息技术有限公司、北京永洪商智科技有限公司、北京掌汇天下科技有限公司、北京质量协会、北京致联必达信息咨询有限公司、博彦科技集团、才联智通、财新传媒、创腾科技、当当网、到到网、德勤华永会计师事务所（特殊普通合伙）北京分所、豆瓣、凡客诚品、风行、阜外心血管病医院、高血压研究所、广州乐聚信息技术有限公司、广州生物医药与健康研究院、国家气象中心、国家卫生和计划生育委员会、国家邮政局发展研究中心、果壳网、宏源证券、互动巅峰（好大夫在线）、华大基因研究院、疾控中心、京东商城、居然之家电子商务公司、军事医学科学院网络中心、零点研究咨询集团、美团网、美味书签(北京)信息技术有限公司、鹏元资信、品友互动、品有互动、汽车之家、钱方银通科技有限公司、去哪儿网、人民搜索、人人网、软通动力、瑞安、赛仕软件、桑德环境、山西省肿瘤医院、上海艾瑞市场咨询有限公司、上海伯豪生物技术有限公司、上海万达信息、上海文脉数据技术有限公司、深圳华大基因研究院、神州数码、数明科技(武汉)有限公司、数艺智库——中国传媒大学调查统计研究所、搜狗、搜狐、苏宁易购、随视传媒、泰山投资、淘宝网、腾讯、天际网、天津神舟通用数据技术有限公司、天津市智博通信工程有限责任公司、天津自然博物馆、天相投资顾问有限公司、豌豆荚、网略智慧、威盛电子、析数软件、新浪、新浪微博、杏树林、亚信、亚信联创科技（中国）有限公司、银华基金、永安期货股份有限公司、用友软件、有康爱帮、智联招聘、中国电信技术创新中心、中国国际航空公司、中国环境科学研究院、中国惠普有限公司、中国农业发展银行、中国外运、中国系统集成在线、中国医学科学院药用植物研究所、中国移动、中金数据系统有限公司、中经社控股、中科院沈阳应用生态研究所、中粮我买网、中信所、重庆绿色智能技术研究院、自由职业、字节跳动&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2&gt;会议内容&lt;/h2&gt;
+&lt;p&gt;本次会议讨论的主题涵盖了 R 语言在科学研究领域、推荐系统、机器学习、网络文本挖掘、大规模数据分析、数据可视化动态交互、高性能计算、互联网研究等众多方面的最新进展，共包含嘉宾致辞、18 场精彩的报告、2个Lighting Talk和现场赠书，会场反响热烈。会议的流程和主要内容摘录如下。&lt;/p&gt;
+&lt;h3&gt;1、吴喜之教授和会议主席陈昱致辞&lt;/h3&gt;
+&lt;h3&gt;2、赵彦云院长致辞&lt;/h3&gt;
+&lt;h3&gt;3、谢益辉——R包那些事儿&lt;/h3&gt;
+&lt;p&gt;演讲介绍了演讲者开发8个R包的感想。演讲分享了如下几个感想：1、“好玩”是最强生产力。演讲者因为动态图的有趣，开发了animation包；2、需求源于小处。 演讲者由于做助教改学生作业的苦恼，开发了规范R代码的formatR。又为了实现文字、图形和计算的一体化，开发了自动化报告的knitr。演讲者还结合自己的经历，向大家分享了“善易者不卜”和“暗推销”的威力。&lt;/p&gt;
+&lt;h3&gt;4、Graham Williams——Data Mining with Rattle and R&lt;/h3&gt;
+&lt;p&gt;演讲者是Rattle的作者，Rattle 是一个非常优秀的数据挖掘方法集合体。演讲介绍了Rattle在R中的应用。目前，Rattle 在R语言上有了更多的数据挖掘的二次开发以及封装，在实际的挖掘项目中能够有效的提高项目的速度。&lt;/p&gt;
+&lt;h3&gt;5、谢邦昌、刘思喆——DataMing云端决策平台CDMS Smart Score II——以R为基础&lt;/h3&gt;
+&lt;p&gt;演讲介绍了云端计算的背景和广阔的发展潜力，以及目前各大企业在应对云端计算上的方式以及不足。演讲着重介绍了云端决策平台CDMS Smart Score II，并与其他类似平台进行对比，显示了CDMS Smart Score II广阔的应用前景。&lt;/p&gt;
+&lt;h3&gt;6、John Maindonald——Rethinking Data Analysis and Data Analysis Tools&lt;/h3&gt;
+&lt;p&gt;第一届中国R语言会议时，我们就邀请了 Maindonald 教授进行网络报告，5年后的今天，演讲者受邀参与了R语言会议的现场报告。演讲从高处介绍了数据分析的发展以及R语言的应用，并介绍了为何选择Ｒ语言作为数据分析工具，以及R语言与其他软件的对比情况。演讲还指出了R语言需要提高的地方，用户希望能有更多的强大的工具，需要调用C语言来满足更高的速度要求等。&lt;/p&gt;
+&lt;h3&gt;7、李舰、周扬——禽流感分析中的R——MSToolkit, Rweibo, html5vis的介绍&lt;/h3&gt;
+&lt;p&gt;演讲分享了在工作中的案例，展示了R语言在满足客户个性化需求和解决新颖性问题的作用。有情怀的演讲者分享了基于Shiny、 GoogleVis和html5vis的可交互的可视化图形，图形中时间维度的增加，充分的展现以往静态分析难以一并展现的时间特性。并以禽流感的传播和PM2.5为实例，介绍了在可交互的界面友好的动态图形上的信息呈现。&lt;/p&gt;
+&lt;h3&gt;8、张晓华——displayHTS: a R package for displaying data and results from high-throughput screening experiments&lt;/h3&gt;
+&lt;p&gt;演讲介绍了演讲者团队开发的displayHTS包，展示了其在高通量筛选试验中的应用以及图形的展示。张晓华老师还特别指出，这个软件包的开发者是一位年仅16岁的学生，以此鼓励在场听众积极参与到开发R包的行列中。&lt;/p&gt;
+&lt;h3&gt;9、第一场 Lightning Talk&lt;/h3&gt;
+&lt;p&gt;Lighting Talk环节的设置旨在沟通招聘者和求职者。该环节主持人为林祯舜博士，林博士分享了“善R者不愁工作”的理念，并“致敬我们曾经使用过的R版本”。之后分别由Merck的张晓华先生、万达信息的肖凯先生、中信银行的顾小波先生、Careerfocus的葛华云女士、数明科技的刘兵先生以及浙江大学软件学院金融数据分析的杭诚方教授，依次讲述各自单位对不同层次人才的需求。业界和学界对数据分析、数据挖掘或者Data Scientist人才的需求，由此可见一斑。&lt;/p&gt;
+&lt;h3&gt;10、现场抽奖赠书&lt;/h3&gt;
+&lt;p&gt;中国人民大学出版社、西安交通大学出版社、华章图书和图灵出版社以及王汉生教授分别向本次R语言会议赠送了R语言及数据分析相关的图书，用于现场抽奖赠书。魏太云和高涛主持本环节，并分别基于报名序号以及座位号随机抽取参会者，现场赠书。&lt;/p&gt;
+&lt;h3&gt;11、张常有、张先轶——Julia语言介绍&lt;/h3&gt;
+&lt;p&gt;Julia是一个新的高性能动态高级编程语言，提供了精度和分布式并行运行方式，高效支持外部函数的调用。演讲依次介绍了Julia语言的基本语法、外部函数调用、并行计算以及基于Julia语言搭建的协作云平台，向大家展示了Julia语言在计算效率和并行计算上的优势。&lt;/p&gt;
+&lt;h3&gt;12、肖楠——Web Scraping with R&lt;/h3&gt;
+&lt;p&gt;演讲详细的讲述了定向爬虫如何在R语言架构下的使用，分别阐述了R语言爬虫的平台选择、爬虫相关R包总结分析、异常处理以及并行化计算等方面。该报告详细的分析了基于R语言爬虫的各个阶段，是杀人越货，居家旅行必备之良器。&lt;/p&gt;
+&lt;h3&gt;13、庄宝童——机器学习在互联网广告中的应用&lt;/h3&gt;
+&lt;p&gt;演讲详细介绍了互联网广告中各阶段的主要研究方向和主要算法。演讲总结了互联网广告在各大著名网站收入的占比信息。互联网广告使到广告商-广告平台-用户三方各得其所，演讲中分别对互联网广告的三方参与者的研究进行了介绍，并对实践中的问题提出了自己的解决方式。&lt;/p&gt;
+&lt;h3&gt;14、李忠、潘佳鸣——R在ebay大数据分析中的应用&lt;/h3&gt;
+&lt;p&gt;演讲演示两个利用R来分析 eBay 大数据的应用案例。第一个案例演示了如何对 eBay 的移动用户购买行为进行深度分析，从三个不同的视角（地理分布，性别，年龄段）分析了用户数量，订单量，购买频率，购买金额，购买类别和购后评价，最后演示了如何分析和展现用户的保持率。第二个案例演示了如何对 eBay 的系统错误日志进行分类，为更好的为后台人员解决问题提供了支持。&lt;/p&gt;
+&lt;h3&gt;15、第二场 Lightning Talk&lt;/h3&gt;
+&lt;p&gt;该环节的主持人依旧由动感的林祯舜博士主持，林博士继第一天“致青春”后，今天果断转向“那些年-我们一起追的R版本”。标题进化者林博士今天确定的标题是：“学R不思则罔，思R不学则殆”，给人以深思。只知道学习却不思考，就会因为迷惑而无所适从；只知道思考却不去学习，就会对所有事情一知半解、不懂装懂。对于R学习，更是如此。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/05/Learning_R.png&quot;&gt;&lt;img class=&quot;aligncenter size-large wp-image-7849&quot; alt=&quot;Learning_R&quot; src=&quot;http://cos.name/wp-content/uploads/2013/05/Learning_R-500x305.png&quot; height=&quot;305&quot; width=&quot;500&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;之后分别有阿里巴巴的郝智恒先生、eBay潘佳鸣先生、京东商城赵灿女士、百度侯俊琦先生、豆瓣稳国柱先生、Springer 出版社的 Niels P. Thomas 先生以及Supstat邓一硕先生依次讲述各自单位对不同层次人才的需求，会议现场更有参会者向心仪单位投递了简历，会下的交流更是火热。&lt;/p&gt;
+&lt;h3&gt;16、稳国柱——R的工程实践和Data Scientist&lt;/h3&gt;
+&lt;p&gt;演讲首先介绍了，在面对大数据量时，R的向量化运算的优势。并对R面对并行化运算时的特点进行了分析，给出了并行计算最合理的包搭配，之后展示了对Rpark的探索。演讲提议将Ｒ语言运用到它最擅长的领域，而不是将Ｒ语言万能化。演讲在第二部分通过三个层次的场景分析，阐述了豆瓣对Data Scientist职位的思考，演讲总结的“合格的人才符合职位，优秀的人才定义职位”引起与会者的广泛思考。&lt;/p&gt;
+&lt;h3&gt;17、王浩——用户产生内容的质量评价与智能排序&lt;/h3&gt;
+&lt;p&gt;演讲讲授了如何对UGC的质量进行评价以及智能排序方面的研究。已有的内容质量评价方法，主要包括利用众包的投票机制（如Digg 和Reddit），以及基于用户间互动的社交关系（如Facebook 的Newsfeed 和新浪微博智能排序）。这些方法，主要借助于用户消费内容后的自然反馈来评价内容质量。在实际的工作中，演讲者展示了借助于机器学习技术，基于UGC 的文字内容本身，对其进行质量评估，并针对具体的UGC 展示场景进行智能排序。&lt;/p&gt;
+&lt;h3&gt;18、王汉生——On the ultrahigh dimensional linear discriminant analysis problem with a diverging number of classes&lt;/h3&gt;
+&lt;p&gt;演讲介绍了对类别数超多情况下的线性判别分析问题研究。例如每个人写字的习惯不太一样，同样的字会有非常多的写法，于是就有了目前类别发散问题。演讲中的研究提出的解决办法是根据现有的特征，每个观测（字）两两擂台赛，根据观测的所有得分的累计来判断它的类别。该研究方法对类别数非常多的判别分类问题提出了新颖的解决方式。&lt;/p&gt;
+&lt;h3&gt;19、周庭锐——移动应用里的线上行为：一个R的尝试&lt;/h3&gt;
+&lt;p&gt;演讲展示了数据结构中同时包含结构的定量数据与非结构的文本数据的解决方式，即利用R语言中RMongo 包来整合数据，并展示了对一个200万用户数据的行为分析。以及讨论了在分析过程所遭遇的两个最主要的运算问题：内存不足，以及多线程脚本返回列表的汇总问题的处理方法。&lt;/p&gt;
+&lt;h3&gt;20、李欣海——用R和WinBUGS实现贝叶斯分级模型&lt;/h3&gt;
+&lt;p&gt;演讲介绍了分级模型的思想以及基于朱鹮的研究讲授其在R中的实现。分级模型在近十年中有较大的发展，逐渐成为描述物种分布的主流方法。贝叶斯方法通过MCMC 估计每个模型的参数，是当前分级模型参数估计的主要方法。研究者一般用R 整理数据，然后通过R2WinBUGS 包调用WinBUGS 进行参数估计和模型选择。最后利用MCMC 算出的参数在R 中进行模型验证。本研究以朱鹮在陕西汉中地区95 个流域的营巢数为因变量，分析每个流域的环境变量和野外调查对营巢数的影响。&lt;/p&gt;
+&lt;h3&gt;21、王贺——网络舆情监测：基于R语言的网络文本挖掘与数据可视化&lt;/h3&gt;
+&lt;p&gt;演讲者在完成一个文本信息抓取的作业的基础上，深入研究了网络文本挖掘、文本分析以及数据可视化方面，并由此形成了自己的研究。演讲分别展示了网络文本挖掘的过程，并抓取了“PM2.5”话题的微博数据，以此建立了词与词之间的关系，并使用社会网络分析软件Gephi 绘制关系图，对文本信息进行了可视化演示。演讲还进一步分析了网上商城的用户评价的文本数据，使用LDA 模型对评论进行浅层语义分析，并由此获取了评论的主题。与会者就文本分析的应用前景进行了广泛的讨论。&lt;/p&gt;
+&lt;h3&gt;22、关菁菁——Data cloning: easy maximum likelihood estimation for complex models: an application to zero-inflated responses of Internet ads&lt;/h3&gt;
+&lt;p&gt;该演讲是对互联网广告的点击行为的进行预测研究。针对互联网广告中广告点击次数为0大量存在，演讲者提出了使用零膨胀泊松回归对预测用户的点击行为，并通过使用Data Cloning的思想来估计模型系数，为预测用户对互联网广告的点击行为提出了自己的研究思路和解决方式。&lt;/p&gt;
+&lt;h2&gt;资源下载&lt;/h2&gt;
+&lt;p&gt;经演讲者的授权同意，已将所有同意公开的幻灯片加了超链接供大家下载学习（请遵循&lt;a href=&quot;http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh&quot; target=&quot;_blank&quot;&gt;CC 3.0协议&lt;/a&gt;：署名-非商业性使用-相同方式共享）。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://dl.dropboxusercontent.com/u/15335397/slides/ChinaR-2013-Yihui-Xie.html&quot;&gt;谢益辉：R包那些事儿&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/05/130518_graham_china_r_conference_beijing.pdf&quot;&gt;GRAHAM WILLIAMS：DATA MINING WITH RATTLE AND R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/05/DATA-MINING雲端決策平台CDMS-Smart-Score-II-以-R-為基礎-REVISED.pptx&quot;&gt;DATA MINING雲端決策平台CDMS Smart Score II——以 R 為基礎&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/05/John-Maindonald.pdf&quot;&gt;John Maindonald：Rethinking Data Analysis and Data Analysis Tools&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/05/lijian_ChinaR20130518.ppt&quot;&gt;李舰、周扬：禽流感分析中的R——MSToolkit, Rweibo, html5vis的介绍&lt;/a&gt;（&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/05/lijian_ChinaR20130518.7z&quot;&gt;代码&lt;/a&gt;）&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/05/Rconference.Zhang_.Xiaohua.pptx&quot;&gt;张晓华：DISPLAYHTS: A R PACKAGE FOR DISPLAYING DATA AND RESULTS FROM HIGH-THROUGHPUT SCREENING EXPERIMENTS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/05/changyou-Julia-20130518.pdf&quot;&gt;张常有、张先轶：JULIA语言介绍&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/05/Web-Scraping-with-R-XiaoNan.pdf&quot;&gt;肖楠：WEB SCRAPING WITH R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;庄宝童：机器学习在互联网广告中的应用&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/05/R-Case-Study-from-EBAY-DDI.pptx&quot;&gt;李忠、潘佳鸣：R在EBAY大数据分析中的应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/05/第六届R会议-阿稳.pdf&quot;&gt;稳国柱：R的工程实践和DATA SCIENTIST&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/05/quality-evaluation-and-ordering-of-user-generated-content-wanghao.pdf&quot;&gt;王浩：用户产生内容的质量评价与智能排序&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/05/Wang.pdf&quot;&gt;王汉生：ON THE ULTRAHIGH DIMENSIONAL LINEAR DISCRIMINANT ANALYSIS PROBLEM WITH A DIVERGING NUMBER OF CLASSES&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/05/Hierarchical-modeling-with-R.pdf&quot;&gt;李欣海：用R和WinBUGS实现贝叶斯分级模型&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2013/05/网络舆情监测_王贺_201305.rar&quot;&gt;王贺：网络舆情监测：基于R语言的网络文本挖掘与数据可视化&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;感想和建议&lt;/h2&gt;
+&lt;p&gt;第六届R语言会在完成两天所有的日程安排后，顺利闭幕。两天的会议，深化了与会者各界之间的交流和讨论。&lt;/p&gt;
+&lt;p&gt;历届的R语言会议都不只是一个会议，更是一个大聚会。来自四面八方的Ｒ爱好者汇聚在一起，分享知识、聚集智慧、沉淀情感。于是才会有“相聚，缩短了距离；分享，交融了智慧；相识，艰难了离别”。&lt;/p&gt;
+&lt;p&gt;多届R语言会议参与者郝智恒会后发表微博：&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;“统计之都社群真正实现了由学生创建，从服务学生，到服务社会，学生进入业界又返回来回馈的良性循环。这对一个完全靠捐助运营的网站来说真的实属不易。每一年R语言的参会者都越来越多，业界的分享也越来越多，除了大数据话题渐热，我觉得大家都是带着感情来的。真情无价。”&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;与之遥相呼应的是，本届R语言会议秘书长高涛，在参加2009年第二届R语言会议之后表示：&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;“这是我第一次感觉到一个圈子里面的人是如此真诚、善意与专业！”&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;最后，才有了本届会议筹备组成员——冷静同学，在会议结束后扔出的一句&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;“醉笑陪君三万场，不诉离殇”！&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;如果您对于中国R语言会议还有任何感想、意见或建议，欢迎您在本页面、&lt;a href=&quot;http://renren.com/cosname&quot; target=&quot;_blank&quot;&gt;统计之都人人网页面&lt;/a&gt;或&lt;a href=&quot;http://weibo.com/cosname&quot; target=&quot;_blank&quot;&gt;统计之都新浪微博&lt;/a&gt;留言，我们会尽力在今后对会议质量进行进一步的改善。&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>第五届中国R语言会议（上海）</title>
+   <link href="/2012/shanghai"/>
+   <updated>2012-11-21T00:00:00-05:00</updated>
+   <id>h/2012/shanghai</id>
+   <content type="html">第五届中国R语言会议（上海会场）于2012年11月3日~4日在上海财经大学行政楼一楼报告厅成功召开。会议由上海财经大学统计与管理学院主办、统计之都（&lt;a href=&quot;http://cos.name&quot; target=&quot;_blank&quot;&gt;cos.name&lt;/a&gt;）协办，艾瑞咨询（&lt;a href=&quot;http://www.iresearch.cn/&quot; target=&quot;_blank&quot;&gt;iresearch&lt;/a&gt;）、Mango Solutions（&lt;a href=&quot;http://www.mango-solutions.com.cn/&quot; target=&quot;_blank&quot;&gt;mango-solutions&lt;/a&gt;）、上海财经大学数理经济学教育部重点实验室以及上海财经大学上海市一流学科（B类， 统计学）提供了赞助。在两天的会议时间里，群贤毕集，盛况空前。&lt;/p&gt;
+&lt;h2&gt;会议概况&lt;/h2&gt;
+&lt;p&gt;本次会议吸引了437名各界人士注册报名，有200多位嘉宾来到现场。报名人数和会场气氛的热烈程度都创下新高。根据注册报名信息，同意在参会者之间分享个人信息的312位嘉宾所在单位的汇总如下。&lt;span id=&quot;more-6597&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;高校和研究所：&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;大连理工大学、电子科技大学、东华大学、福建师范大学、复旦大学、哈尔滨医科大学、国家人类基因组南方研究中心、湖南大学、湖南科技大学、华大基因研究院、华东师范大学、华中师范大学、江苏科技大学、南京大学、南京信息工程大学、宁波工程学院、上海财经大学、上海大学、上海海洋大学、上海交通大学、上海理工大学、上海社会科学院、上海师范大学、上海中医药大学、同济大学、武汉理工大学、西安财经学院、浙江大学、浙江工商大学、浙江农林大学、芝加哥大学、中国人民大学、中科院上海高等研究院、中科院上海生命科学研究院、中科院上海植物生理生态研究所、中科院生化与细胞研究所、重庆大学、重庆科技学院&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;企业、事业单位：&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;3M中国有限公司、Acxion、ARKO consulting、CBI易贸、ChinaScope、CIC Kantar Media、eBay Inc、FESCO Adecco、GE Capital、GroupM、HP、HRS、Ihush 俏物悄语、Mango Solutions、Merkle 美库尔咨询公司、Millward Brown、Nielsen、Opera Solutions、SAS公司、Springer Science+Business Media、TeleNav、UBSS、阿里巴巴云计算、埃森哲、艾瑞咨询、安徽中烟、百度、北京中油瑞飞信息技术有限责任公司、大陆汽车系统管理有限公司、大众点评、到到网、德络易捷国际物流上海有限公司、东软集团（上海）有限公司、分众传媒、福卡智库、港澳资讯、功典资讯股份有限公司、国泰君安证券股份有限公司、国投瑞银基金公司、海通证券、杭州摩数科技信息咨询有限公司、杭州数云信息技术有限公司、华杰资信评级公司、汇添富基金、嘉里置业、江苏百盛工程咨询有限公司、麦包包、麦思瑞信息技术（上海）有限公司、魅力惠 Glamour Sales、南京军区南京总院、瑞易信息技术（上海）有限公司、上海邦助信息技术公司（上海订餐小秘书）、上海伯豪生物技术有限公司、上海词海信息技术有限公司、上海大智慧股份有限公司、上海迪堡金融设备有限公司、上海和伍科技有限公司、上海杰之能信息科技有限公司、上海玖数软件、上海蓝瀚广告有限公司、上海品糖网络科技有限公司、上海睿广智能科技有限公司、上海市万达信息、上海微创、上海吾思信息技术有限公司、上海易贸、上海易迅电子商务有限责任公司、上海银行、上海银联、上海优唯市场研究、上海致卓信息科技有限公司、上海中期、上海众源网络有限公司、上海资信有限公司、盛大游戏、数库财务咨询（上海）有限公司、泰为信息科技有限公司、淘宝、腾讯科技（上海）有限公司、天柏宽带、通用电气、沃尔玛电子商务、西安交通大学出版社有限责任公司、湘财证券、新创机电工程有限公司、新蛋、新华社、新锐互动、亿贝软件工程 、益普索市场咨询有限公司、银联商务有限公司、优酷土豆网、闸北疾控、浙江核新同花顺网络信息股份有限公司、中国建设银行、中国农业银行、中国人寿保险公司、中国移动（深圳）有限公司、中国移动通信集团上海有限公司、中移设计院上海分院、猪八戒网&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/11/5th-SH-live.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;aligncenter&quot; title=&quot;会议现场20121103&quot; src=&quot;http://cos.name/wp-content/uploads/2012/11/5th-SH-live-500x333.jpg&quot; alt=&quot;会议现场20121103&quot; height=&quot;337&quot; width=&quot;600&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;会议内容&lt;/h2&gt;
+&lt;p&gt;本次会议讨论的主题涵盖了R语言在电子商务、大数据和文本挖掘、生物基因、市场营销、可视化及可重复研究等众多方面的精彩应用，共进行了16场精彩的报告，并且第一次增设了Lightning Talks和专题讨论的环节。会议的流程和主要内容摘录如下：&lt;/p&gt;
+&lt;h3&gt;1、领导致辞&lt;/h3&gt;
+&lt;p&gt;上海财经大学统计与管理学院的尤进红副院长为本次大会致开幕词。尤院长高屋建瓴地概括了R在国内的发展情况，并对本次会议提出了殷切的期许。&lt;/p&gt;
+&lt;h3&gt;2、冯兴东：R语言和其他计算机语言的混合编程&lt;/h3&gt;
+&lt;p&gt;冯教授是本次会议的东道主，来自主办方上海财经大学统计与管理学院。对于R与C语言的混合编程这一令人望而生畏的话题，冯教授使用生动翔实的例子一开始就吸引了大家的眼球，整场报告听完每个人都跃跃欲试。报告的结束时间和预计时间一分钟都不差，为当天的主题演讲做了一个完美的开头。&lt;/p&gt;
+&lt;h3&gt;3、刘思喆：R语言环境下的文本挖掘&lt;/h3&gt;
+&lt;p&gt;刘思喆是R语言大会的元老了，这次带来了自己在文本挖掘领域的最新心得，以一个非常宏观的视角概括了R在整个文本挖掘应用中的体系和资源。最后举了一个流程歌曲的挖掘案例，当“爱情永远寂寞”的主题出现在大家眼前时，全场沸腾了。&lt;/p&gt;
+&lt;h3&gt;4、张翔：短文本分类器与电商品类数据挖掘&lt;/h3&gt;
+&lt;p&gt;张翔作为本次会议的主席之一，抽出时间和大家分享了在艾瑞咨询工作中的案例，介绍了短文本分类器与电商品类数据挖掘，对于短文本分类这一难题，提出了一种极具操作性的方法。&lt;/p&gt;
+&lt;h3&gt;5、沈羽、周春英：R语言在eBay搜索引擎反馈与测试中的应用&lt;/h3&gt;
+&lt;p&gt;作为电子商务界的巨头，ebay这次贡献了豪华的演讲阵容。沈羽和周春英分别分享了自己工作中应用R的经验，包括对于用户反馈的文本挖掘以及用R进行试验分析和评估的案例，作为第一天上午的最后一场报告，很好地为R语言在日常应用以及文本挖掘方面做了一个总结。&lt;/p&gt;
+&lt;h3&gt;6、周扬：基于R的地理信息系统&lt;/h3&gt;
+&lt;p&gt;周扬来自全球最大的R语言咨询公司Mango Solutions，当HTML5的幻灯片中出现一颗旋转的地球时，全场一片惊叹，紧接着一个又一个超炫的R结合Google Earth的例子令观众应接不暇，再加上周扬风趣搞笑的演讲风格，使听众下午的困意一扫而光。&lt;/p&gt;
+&lt;h3&gt;7、肖凯：twitteR包入门和应用&lt;/h3&gt;
+&lt;p&gt;肖凯是COS主页最有趣的作者之一，他做出来的东西总能让人在意想不到之处体会到R的强大。这次他为大家带来了twitteR包的应用，通过抓取twitter的信息，并结合文本挖掘和一些统计方法，使得社交网络的分析不再神秘。&lt;/p&gt;
+&lt;h3&gt;8、陈钢：系统生物学和转换医学中的R语言&lt;/h3&gt;
+&lt;p&gt;来自华大基因的陈钢从第一届中国R语言会议开始就是大家的老朋友了，这次和大家分享了自己工作和研究中的心得。现场的微博中，关于陈钢介绍的华大拥有一千多位数据分析师并且几乎每位分析师都在用R的事实是被转发次数最多的。陈钢的&lt;a href=&quot;http://gossipcoder.com/?p=1287&quot; target=&quot;_blank&quot;&gt;主页&lt;/a&gt;上有更详细的会议记录。&lt;/p&gt;
+&lt;h3&gt;9、杭兴宜：R / Bioconductor在生物多维组学数据整合中的应用&lt;/h3&gt;
+&lt;p&gt;来自思博奥科的杭兴宜是生物信息的专家，演讲一开始就提出了要让R用户的人生不再只是短短几十年，然后深入浅出地为大家揭示了细胞的遗传奥秘，并介绍了R和Bioconductor的应用案例。&lt;/p&gt;
+&lt;h3&gt;10、肖嘉敏：网络用户浏览路径分析&lt;/h3&gt;
+&lt;p&gt;肖嘉敏同样来自艾瑞咨询，和我们分享了工作中处理网络用户浏览路径的经验。此外，肖嘉敏还通过分析自己班级同学群的例子，把之前行业里的深入应用用一种所有人都能明白的方式进行了进一步的验证。&lt;/p&gt;
+&lt;h3&gt;11、李忠：R Case Study from ebay APD&lt;/h3&gt;
+&lt;p&gt;作为R的资深用户，李忠介绍了ebay内部深入使用R的案例，在他的精彩演讲以及详尽的例子中，听众进一步地增强了对R的信心，也拓宽了在具体应用中使用R的思路。&lt;/p&gt;
+&lt;h3&gt;12、洪健飞：啤酒与尿布的当代版——商品分析在电子商务中的应用&lt;/h3&gt;
+&lt;p&gt;一谈到R必定有人会联想到近来很火的大数据，一说起数据挖掘必然会提到啤酒尿布的经典例子。可是在如今数据及商业模式大不一样的时代，啤酒尿布的故事又将会是怎样的结果?来自沃尔玛电子商务的洪健飞用这场精彩的报告解答了大家的疑惑。&lt;/p&gt;
+&lt;h3&gt;13、廖明：营销分析模型及其在广告界的应用&lt;/h3&gt;
+&lt;p&gt;廖明现任传立媒体的董事总经理，领导营销策划部门，有着极其丰富的营销模型的建模经验。面对当今海量的数据、瞬息万变的市场情况、灵活而复杂的各类模型，需要有不一样的工具，R语言成了现在建模的首选。&lt;/p&gt;
+&lt;h3&gt;14、陈逸波：基于RHadoop的关联规则挖掘&lt;/h3&gt;
+&lt;p&gt;最近一年内新增的R用户有很多都是被R加Hadoop在大数据的环境下做统计分析给吸引来的。很多人都听说过这套组合的强大，但是很少有人见过真实的应用。这次陈逸波为大家带来了一些具体的例子，从最基本的配置到真实的应用案例，满足了所有人对R加Hadoop的期待。&lt;/p&gt;
+&lt;h3&gt;15、模型预测的利器——随机森林&lt;/h3&gt;
+&lt;p&gt;来自浙江大学的刘成昊目前还是在读学生，但是已经具有非常丰富的使用R的经验。这次为大家带来了R中使用随机森林这一利器的介绍。由于包含了自己学习的心得，所以很能引起听众的共鸣。&lt;/p&gt;
+&lt;h3&gt;16、王雨晨：R与面向对象统计分析&lt;/h3&gt;
+&lt;p&gt;王雨晨是华东师范大学的本科生，平时对R有着非常深入的研究，这次介绍了R的特性中比较难解的面向对象的方法。这个功能属于高阶的应用，平时的资料并不多，王雨晨通过自己的摸索，总结出了一些很好的例子，为大家介绍了S3和S4在统计分析中的应用。&lt;/p&gt;
+&lt;h3&gt;17、魏太云：R基础作图与可重复研究&lt;/h3&gt;
+&lt;p&gt;魏太云是国内用R的圈子中年少成名的典范，他写的corrplot包如今已经被很多国家的分析人士使用。这次和大家分享了很多极富表现力的R图形，并且介绍了谢益辉开发的已经被热用的knitr包。&lt;/p&gt;
+&lt;h3&gt;18、专题讨论&lt;/h3&gt;
+&lt;p&gt;本次R语言会议的特色之一是增设了专题讨论。第二天会议的上午和下午各一场。上午的讨论由学界和业界都是大腕的林祯舜主持，上午的演讲嘉宾廖明、肖嘉敏、洪健飞和李忠担任讨论嘉宾。和参会者一起交流了大数据时代下电子商务及营销的机遇与挑战。下午的讨论由本次大会的主席之一李舰主持，来自统计之都的资深R用户刘思喆、陈堰平、魏太云、林祯舜担任嘉宾，和参会者一起交流了可重复研究的方法和价值，并且一起讨论了在R的学习和使用中遇到的各类问题。&lt;/p&gt;
+&lt;h3&gt;19、Lightning Talks&lt;/h3&gt;
+&lt;p&gt;本次R语言会议还增设了Lightning Talks的环节，由来自业界的社区、出版社和公司的代表在每人五分钟的时间内对自己的公司或机构进行宣讲，面向听众进行招聘的宣传或者业务的推介，和现场观众持续互动，效果非常好。本次参加Lightning Talks的嘉宾包括COS（统计之都）社区、TopGeek社区、Springer出版社、西安交通大学出版社、Mango Solutions、ebay、沃尔玛电子商务、传立媒体、美库尔商务信息咨询、思博奥科生物信息科技有限公司。&lt;/p&gt;
+&lt;h2&gt;资源下载&lt;/h2&gt;
+&lt;p&gt;经演讲者的授权同意，已将所有同意公开的幻灯片加了超链接供大家下载学习（请遵循&lt;a href=&quot;http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh&quot; target=&quot;_blank&quot;&gt;CC 3.0协议&lt;/a&gt;：署名-非商业性使用-相同方式共享）。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;冯兴东：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/09/ChinaR2012_SH_Nov03_01_FXD.pdf&quot; target=&quot;_blank&quot;&gt;R语言和其他计算机语言的混合编程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;刘思喆：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/11/ChinaR2012_SH_Nov03_02_LSZ.pdf&quot; target=&quot;_blank&quot;&gt;R语言环境下的文本挖掘&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;张翔：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/09/ChinaR2012_SH_Nov03_03_ZX.pdf&quot; target=&quot;_blank&quot;&gt;短文本分类器与电商品类数据挖掘&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ebay：R语言在eBay搜索引擎反馈与测试中的应用
+&lt;ul&gt;
+&lt;li&gt;周春英：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/09/ChinaR2012_SH_Nov03_04_ZCY.pdf&quot; target=&quot;_blank&quot;&gt;ebay试验分析、评估与R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;沈羽：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/09/ChinaR2012_SH_Nov03_04_SY.pdf&quot; target=&quot;_blank&quot;&gt;用户反馈挖掘&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;周扬：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/11/ChinaR2012_SH_Nov03_05_ZY.zip&quot; target=&quot;_blank&quot;&gt;基于R的地理信息系统&lt;/a&gt;（HTML5格式）&lt;/li&gt;
+&lt;li&gt;肖凯：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/09/ChinaR2012_SH_Nov03_06_XK.pdf&quot; target=&quot;_blank&quot;&gt;twitteR包入门和应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;陈钢：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/09/ChinaR2012_SH_Nov03_07_CG.pdf&quot; target=&quot;_blank&quot;&gt;系统生物学和转换医学中的R语言&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;杭兴宜：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/11/ChinaR2012_SH_Nov03_08_HXY.pdf&quot; target=&quot;_blank&quot;&gt;R / Bioconductor在生物多维组学数据整合中的应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;肖嘉敏：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/09/ChinaR2012_SH_Nov04_01_XJM.pdf&quot; target=&quot;_blank&quot;&gt;网络用户浏览路径分析&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;李忠：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/09/ChinaR2012_SH_Nov04_02_LZ.pdf&quot; target=&quot;_blank&quot;&gt;R Case Study from ebay APD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;洪健飞：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/09/ChinaR2012_SH_Nov04_03_HJF.pdf&quot; target=&quot;_blank&quot;&gt;啤酒与尿布的当代版——商品分析在电子商务中的应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;廖明：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/11/ChinaR2012_SH_Nov04_04_LM.pdf&quot; target=&quot;_blank&quot;&gt;营销分析模型及其在广告界的应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;陈逸波：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/09/ChinaR2012_SH_Nov04_05_CYB.pdf&quot; target=&quot;_blank&quot;&gt;基于RHadoop的关联规则挖掘&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;刘成昊：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/09/ChinaR2012_SH_Nov04_06_LCH.pdf&quot; target=&quot;_blank&quot;&gt;模型预测的利器——随机森林&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;王雨晨：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/11/ChinaR2012_SH_Nov04_07_WYC.pdf&quot; target=&quot;_blank&quot;&gt;R与面向对象统计分析&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;魏太云：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/11/ChinaR2012_SH_Nov04_08_WTY.pdf&quot; target=&quot;_blank&quot;&gt;R基础作图与可重复研究&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;专题讨论：
+&lt;ul&gt;
+&lt;li&gt;林祯舜：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/09/ChinaR2012_SH_Nov04_Panel_LZS.pdf&quot; target=&quot;_blank&quot;&gt;大数据时代下电子商务及营销的机遇与挑战&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;感想和建议&lt;/h2&gt;
+&lt;p&gt;如果您对于中国R语言会议还有任何感想、意见或建议，欢迎您在本页面、&lt;a href=&quot;http://renren.com/cosname&quot; target=&quot;_blank&quot;&gt;统计之都人人网页面&lt;/a&gt;或&lt;a href=&quot;http://weibo.com/cosname&quot; target=&quot;_blank&quot;&gt;统计之都新浪微博&lt;/a&gt;留言，我们会尽力在今后对会议质量进行进一步的改善。&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>第五届中国R语言会议（北京）</title>
+   <link href="/2012/beijing"/>
+   <updated>2012-05-21T00:00:00-04:00</updated>
+   <id>h/2012/beijing</id>
+   <content type="html">第五届中国 R 语言会议（北京会场）于 2012 年 5 月 26 日 ~ 27 日在中国人民大学明德法学楼 0201 成功召开。会议由中国人民大学应用统计科学研究中心与中国人民大学统计学院、统计之都 (&lt;a href=&quot;http://cos.name&quot; target=&quot;_blank&quot;&gt;cos.name&lt;/a&gt;) 主办，&lt;a href=&quot;http://www.mango-solutions.com.cn/&quot; target=&quot;_blank&quot;&gt;mango-solutions&lt;/a&gt;赞助。在两天的会议时间里，参会者齐聚一堂，就 R 语言在互联网、商业、统计、生物等诸多方面的应用进行了深入的探讨。&lt;/p&gt;
+&lt;h2&gt;会议概况&lt;/h2&gt;
+&lt;p&gt;本次会议报名非常火爆，吸引了 300 多名参会者前来参会，规模再创历届之最。参会者主要来自各大高校、科研机构、企业和事业单位，全体参会者所在单位汇总如下。&lt;/p&gt;
+&lt;p&gt;高校和研究所：&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;University of Southern California、University of Wisconsin、北京城市学院、北方工业大学、北京大学、北京大学医学部、北京航空航天大学、北京化工大学、北京市科学技术研究院、北京理工大学、北京林业大学、北京市农林科学院、北京基因组研究所、北京邮电大学、北京师范大学、北京协和医学院、北京中医药大学、东北大学、东北农业大学、对外经济贸易大学、电子科技大学、国防科技大学、河北经贸大学、华北电力大学、华中农业大学、吉林大学、军事医学科学院、机械工业信息研究院、兰州理工大学、宁波工程学院、南京财经大学、南开大学、清华大学、山东大学、首都经济贸易大学、西沃成生态环境研究所、西北农林科技大学、永安期货研究院、云南财经大学、中国传媒大学、中国疾病预防控制中心、中国科学技术大学、中国科学技术信息研究所、中国矿业大学（北京）、中国林科院资源信息所、中国农业大学、中国农业科学院、中国人民大学、中科院半导体所、中科院地理所、中科院动物所、中科院计算技术研究所、中科院北京基因组研究所、中科院数学所、中科院生物物理研究所、中科院自动化研究所、中科院植物所、中南大学、中央财经大学&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;企业、事业单位：&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Allianz Global Assistance、艾美仕咨询公司、埃森哲、艾亿新融资本管理公司、宝宝树信息技术有限公司、暴风影音、百济神州（北京）生物科技有限公司、北京安泰科信息开发有限公司、北京紫博蓝网络技术服务有限公司、北京贝瑞和康生物技术有限公司、北京德昂信息技术有限公司、北京果壳互动科技传媒有限公司、北京名影科漫有限公司、北京雀巢研发中心有限公司、北京瑞星信息技术有限公司、北京神州数码思特奇信息技术股份有限公司、北京网达信联科技发展有限公司、北京雪球财经信息科技有限公司、北京中彩在线科技有限责任公司、北京中软国际信息技术有限公司、北京质量协会、百度、北森、豆瓣、当当网、Doubleday Enterprises、敦煌网、凡客诚品、风行在线、广联达软件股份有限公司、华夏人寿、弘毅远道科技有限公司、IBM、IMS、ICON医药咨询有限公司、京东商城、精品购物指南、江苏百盛工程咨询有限公司、KPMG、乐视网、Mango Solutions、NCUK、Oracle、澳际PMP、奇虎360、去哪儿网、盘古文化传播有限公司、普华基础软件股份有限公司、品友互动、人人网、Springer Beijing Office、山东浪潮齐鲁软件、水利部发展研究中心、SAS R&amp;amp;D（Beijing）、搜浩捌捌（北京）企业管理有限公司、上海证券交易所、腾讯科技、完美世界、新华社中经社控股有限公司、新浪微博、新浪乐居、讯奇、银华基金、优酷网、亚信联创、用友软件股份有限公司、知本咨询、中华英才网、中国环境监测总站、中国建设银行北京市分行、中金公司、中粮我买网、中国气象局&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;
+&lt;/p&gt;&lt;/blockquote&gt;
+&lt;div id=&quot;attachment_5725&quot; style=&quot;width: 510px&quot; class=&quot;wp-caption aligncenter&quot;&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/05/IMG_8116.jpg&quot;&gt;&lt;img class=&quot;size-large wp-image-5725&quot; title=&quot;IMG_8116&quot; alt=&quot;&quot; src=&quot;http://cos.name/wp-content/uploads/2012/05/IMG_8116-500x333.jpg&quot; height=&quot;333&quot; width=&quot;500&quot;&gt;&lt;/a&gt;&lt;p class=&quot;wp-caption-text&quot;&gt;会议现场（点击看大图）&lt;/p&gt;&lt;/div&gt;
+&lt;h2&gt;会议内容&lt;/h2&gt;
+&lt;p&gt;本次会议讨论的主题涵盖了 R 语言在推荐系统、机器学习、金融、大规模数据分析、数据可视化、高性能计算、互联网研究等众多方面的最新进展，共进行了 18 场精彩的报告，会场反响热烈。会议的流程和主要内容摘录如下。&lt;/p&gt;
+&lt;h3&gt;1、吴喜之教授致辞&lt;/h3&gt;
+&lt;p&gt;吴喜之教授是国内推广 R 语言的先驱，他在致词中简述了 R 的诸多优势，如免费、公开、容易学习、可扩展、功能强大、不断更新等，并对现场的参会者提出了殷切的期待，希望大家能从 R 中不断学习新的统计知识。吴喜之教授幽默睿智的演讲受到了现场观众的热烈欢迎。&lt;/p&gt;
+&lt;h3&gt;2、李舰 —— 基于 R 和 pentaho 的全套开源 BI 平台的实现&lt;/h3&gt;
+&lt;p&gt;演讲介绍 pentaho 的社区 BI 平台，包括 BI 服务器、ETL 工具、OLAP 引擎、报表编辑器、元数据管理、开发平台、数据挖掘等，还介绍了演讲者开发的 rpentaho 包，演示如何在 R 中创建 pentaho 平台下的 R 应用，包括作图和分析等。此外，也简单介绍了 pentaho 和 hadoop 的集成产品以及 R 与 hadoop 的连接方案。演讲内容精彩，会后演讲者与参会者进行了热烈的讨论。&lt;/p&gt;
+&lt;h3&gt;3、周涛 —— 个性化推荐的十大挑战&lt;/h3&gt;
+&lt;p&gt;演讲介绍了个性化推荐在理论研究与业界应用中遇到的主要挑战和目前的处理方案，包括数据稀疏性问题、冷启动问题、大数据处理与增量计算问题、多样性与精确性的两难困境、推荐系统的脆弱性问题、用户行为模式的挖掘和利用、推荐系统效果评估、用户界面与用户体验、多维数据的交叉利用、社会推荐等十个问题。内容丰富多彩，促进了参会者对推荐系统的理解。&lt;/p&gt;
+&lt;h3&gt;4、肖凯 —— 30 分钟学会 ggplot2&lt;/h3&gt;
+&lt;p&gt;演讲通过类比剑招的学习形象清晰地介绍了 ggplot2 的绘图理念，讲述了 ggplot2 中的几大基本概念：数据、映射、标度、几何对象、统计变换、坐标系统和图层。然后展示了如何绘制基本统计图形，如散点图、直方图、条形图、箱线图等，以及如何自定义图形。最后提供了丰富的学习 ggplot2 的网络资源。&lt;/p&gt;
+&lt;h3&gt;5、邱怡轩 —— R 中大规模数据的整理与分析&lt;/h3&gt;
+&lt;p&gt;演讲将介绍一些用 R 处理大规模数据的常用方法，包括 R 与数据库的连接、ff 软件包以及稀疏矩阵的运算等。报告者首先讲解了 R 与数据库的连接中如何在不超过内存限制情况下进行分批次地进行运算。然后介绍了 ff 软件包，该包可将将 R 中常见的向量、矩阵、数据框等对象存储在硬盘上并数据操作。演讲最后通过微博中的“方寒”大战实例展示了如何进行大规模数据分析。&lt;/p&gt;
+&lt;h3&gt;6、潘岚锋 —— 矩阵的稀疏分解新算法及其应用&lt;/h3&gt;
+&lt;p&gt;演讲介绍了一个由作者提出的非负矩阵分解新算法以及对应的 R 包 bignmf。非负矩阵分解在图像处理、文本挖掘等领域中有着广泛的应用，非负的约束能够使分解的结果具有很好的解释性。新开发的包与现有的 NMF 包使用了不同的算法，算法本身速度很快；并且使用 Rcpp 实现，在速度上有了很大的提升。演讲最后给出了微博数据和图像数据的分析例子。&lt;/p&gt;
+&lt;h3&gt;7、王剑 —— COS 沙龙介绍&lt;/h3&gt;
+&lt;p&gt;演讲介绍了 COS 沙龙的起源、发展理念以及沙龙的组织和流程安排。给出了新 COS 沙龙的第一期交流安排，并面向社会征集沙龙话题，招募筹备小组组长和组员。COS 沙龙提供了一个良好的学习 R 和交流 R 应用心得的平台，期待各位 R 爱好者的积极参与。&lt;/p&gt;
+&lt;h3&gt;7、魏太云 —— knitr 与动态报告生成系统&lt;/h3&gt;
+&lt;p&gt;演讲介绍了 R 文学化编程的 knitr 包，主要用于生成动态报告，目前已经非常流行，在 LyX、RStudio 等 IDE 中都获得了相应的整合。knitr 的想法源于 Sweave，但功能完善了很多，并且规避了 Sweave 很多的不足之处。knitr 支持多种格式的输入 (比如 Rnw、md、rst) 和输出 (比如 HTML、PDF 等)，并且支持代码整理、代码高亮、结果缓存等，非常便捷实用，是重复性报告的必备利器。&lt;/p&gt;
+&lt;h3&gt;8、陈丽云 —— 统计辟谣训练营&lt;/h3&gt;
+&lt;p&gt;演讲从一系列生活和新闻中常见的数字和故事出发，利用耳熟能详的统计工具，层层抽丝剥茧，揭开那些神奇数字的迷雾，让我们对于统计数字保持一颗清醒的头脑。&lt;/p&gt;
+&lt;h3&gt;9、邓一硕 —— R 与金融投资分析的框架&lt;/h3&gt;
+&lt;p&gt;演讲讲述金融投资分析的大致框架以及 R 语言在该框架中扮演的角色，具体包括 R 包在获取基础数据、进行财务数据分析、股价波动率分析、投资策略构建等环节中的应用。&lt;/p&gt;
+&lt;h3&gt;10、孟生旺 —— R 在精算中的应用&lt;/h3&gt;
+&lt;p&gt;本报告将主要通过一些示例来说明actuar，lifecontigencies, ChainLadder, glm 和 gamlss&amp;nbsp;等软件包在精算学习和研究中的应用价值，涉及损失模型、金融数学、寿险精算和非寿险准备金评估以及非寿险定价。&lt;/p&gt;
+&lt;h3&gt;12、陈逸波 —— R 在社会网络分析中的一些应用&lt;/h3&gt;
+&lt;p&gt;演讲大致介绍 R 在社会网络分析中的一些应用，主要通过人人网的数据分析，详细演示了如何利用 R 抓取数据、内容关键词统计、转发路径可视化、好友关系可视化、好友分组等内容，发现了许多有趣的结论。&lt;/p&gt;
+&lt;h3&gt;13、段敏明 —— ORE workshop&lt;/h3&gt;
+&lt;p&gt;演讲介绍了 Oracle 对 R 的支持与集成情况，通过实例的演示，演讲者展示了如何运用 Oracle R Enterprise 进行数据分析，以及如何使用 Oracle R Connector for Hadoop 助力大规模现实数据的处理。&lt;/p&gt;
+&lt;h3&gt;14、黄金山 —— Rcpp 快速入门&lt;/h3&gt;
+&lt;p&gt;演讲主要通过一些简单例子讲解了如何使用 Rcpp 提供的 C++ API。内容主要包括 Rcpp 数据类型和基本操作、as 和 wrap、迭代器和泛型算法、调用 R 中的函数和 Rcpp 语法糖。&lt;/p&gt;
+&lt;h3&gt;15、叶明 —— R 在工业智能中的应用&lt;/h3&gt;
+&lt;p&gt;演讲详细介绍了两个 R 在工业应用的案例，一个是国航飞机发动机润滑油的监控，另一个是上海市铁路局呼叫中心的预测。演讲者在最后还提出了一些有意义的统计发展的方向性问题。&lt;/p&gt;
+&lt;h3&gt;16、陆银波 —— 隐马尔科夫链的理论及其应用&lt;/h3&gt;
+&lt;p&gt;演讲首先介绍了 HMM 的基础理论框架，包括模型定义，参数估计和后续分析。然后利用 R 中的 HiddenMarkov 和 depmixS4 包，通过 3 个具体例子介绍了 HMM 在气象、金融和行为实验中的应用，为这些领域传统的研究方式提供了新的思路。&lt;/p&gt;
+&lt;h3&gt;17、郝智恒 —— 试验设计在机器学习中的应用初探&lt;/h3&gt;
+&lt;p&gt;演讲首先介绍了试验设计的背景，讲述了从 Fisher 的农田试验到如今的计算机试验的发展过程，以及推动试验设计发展的实际背景。然后讲述了将试验设计用于机器学习中训练样本选取的两个模拟实例：一个是序贯设计在 Active Learning 中的应用，它可以减少训练样本数量，达到控制成本的效果；另一个是将近似正交拉丁超立方体抽样以及均匀设计等设计方法运用于 Lasso 变量选择过程的样本选取。&lt;/p&gt;
+&lt;h3&gt;18、李欣海 —— 用 R 实现随机森林的分类与回归&lt;/h3&gt;
+&lt;p&gt;演讲首先简要回顾了随机森林的原理，然后以朱鹮的生境选择为例介绍了随机森林在分类 (朱鹮生境选择与否) 上的应用，以亚洲象生境退缩为例介绍了随机森林在回归 (纬度与 9 种环境变量的关系) 上的应用。&lt;/p&gt;
+&lt;h2&gt;资源下载&lt;/h2&gt;
+&lt;p&gt;经演讲者的授权同意，已将所有同意公开的幻灯片加了超链接供大家下载学习。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;李舰：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/05/lijian-BI.pptx&quot; target=&quot;_blank&quot;&gt;基于R和pentaho的全套开源BI平台的实现&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;周涛：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/05/2-zhoutao-recommendation.pdf&quot;&gt;个性化推荐的十大挑战&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;肖凯：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/05/30分钟学会ggplot2.pdf&quot;&gt;30分钟学会ggplot2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;邱怡轩：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/05/4-qiuyixuan-bigdata.pdf&quot;&gt;R中大规模数据的整理和分析&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;潘岚锋：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/05/5-panlanfeng-bignmf.pdf&quot;&gt;用bignmf进行非负矩阵分解&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;王剑：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/05/6-wangjian-COS-salon.pptx&quot;&gt;COS沙龙介绍&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;魏太云：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/05/7-weitaiyun-knitr.pdf&quot;&gt;knitr与动态报告生成系统&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;陈丽云：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/05/8-chenliyun-rumor.zip&quot;&gt;统计辟谣训练营&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;邓一硕：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/05/9-dengyishuo-finance.pdf&quot;&gt;R与金融投资分析的框架&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;孟生旺：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/05/10-mengshengwang-actuarial-science.pptx&quot;&gt;R在精算中的应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;陈逸波：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/05/11-chenyibo-social-network.pdf&quot;&gt;R在社会网络分析中的一些应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;段敏明：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/05/12-duanminming-ORE.ppt&quot;&gt;Data Mining with R-ORE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;黄金山：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/05/13-huangjinshan-Rcpp.pdf&quot;&gt;Rcpp快速入门&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;叶明：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/05/14-yeming-industrial-intelligence.pptx&quot;&gt;R在工业智能中的应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;陆银波：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/05/15-luyinbo-HMM.pdf&quot;&gt;隐马尔可夫链模型&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;郝智恒：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/05/16-haozhiheng-DOE.pdf&quot;&gt;机器学习的试验设计初探&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;李欣海：&lt;a href=&quot;http://cos.name/wp-content/uploads/2012/05/17-lixinhai-random-forest.pdf&quot;&gt;用R实现随机森林的分类与回归&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;感想和建议&lt;/h2&gt;
+&lt;p&gt;如果您对于中国 R 语言会议还有任何感想、意见或建议，欢迎您在本页面、&lt;a href=&quot;http://renren.com/cosname&quot; target=&quot;_blank&quot;&gt;统计之都人人网页面&lt;/a&gt;或&lt;a href=&quot;http://weibo.com/cosname&quot; target=&quot;_blank&quot;&gt;统计之都新浪微博&lt;/a&gt;留言，我们会尽力在今后对会议质量进行进一步的改善。&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>第四届中国R语言会议（上海）</title>
+   <link href="/2011/shanghai"/>
+   <updated>2011-11-21T00:00:00-05:00</updated>
+   <id>h/2011/shanghai</id>
+   <content type="html">第四届中国R语言会议（上海会场）于2011年11月12日~13日在华东师范大学学术交流中心（逸夫楼）成功召开。会议由华东师范大学金融与统计学院主办、统计之都(&lt;a href=&quot;http://cos.name&quot; target=&quot;_blank&quot;&gt;cos.name&lt;/a&gt;)协办。在两天的会议时间里，胜友如云，高朋满座，大家就R语言在行业里的应用进行了深入的探讨。&lt;/p&gt;
+&lt;h2&gt;会议概况&lt;/h2&gt;
+&lt;p&gt;本次会议吸引了270多名各界人士注册报名，有近200位嘉宾来到现场。其中行业里的参会嘉宾人数第一次超过了在校学生的人数，比例为50.4%，为历届大会最高。根据注册报名信息，同意在参会者之间分享个人信息的206位嘉宾所在单位的汇总如下。&lt;/p&gt;
+&lt;p&gt;高校和研究所：&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;The University of Auckland、上海交通大学、上海大学、上海对外贸易学院、上海市发展改革研究院、上海生命科学研究院、上海生物信息中心、上海财经大学、东南大学、中国中医科学院、中国人民大学、中国农业大学、中国科学院、中国科学院上海生命科学院、中央财经大学、云南财经大学、华东师范大学、华东理工大学、华中农业大学、南京医科大学、南京理工大学、厦门大学、台湾辅仁大学、同济大学、四川大学、复旦大学、宁波市科技信息研究院、江西理工大学、浙江农林大学、浙江大学、浙江大学宁波理工学院、浙江师范大学、电子科技大学、福建医科大学、第二军医大学、芝加哥大学、西北工业大学&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;企业、事业单位：&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;AC尼尔森、JMP of SAS、MacroStat (Shanghai) Ltd.Co.、Mango Solutions、Merkle Inc.、Unilever、上海伯豪生物技术有限公司、上海华腾软件系统有限公司、上海大智慧股份有限公司、上海宝信软件股份有限公司、上海河广信息科技有限公司、上海烟草集团有限责任公司、上海聚胜万合广告有限公司、上海蓝滨石化设备有限责任公司、上海诺铭商务咨询有线公司、上海金蝶软件科技有限公司、上海高达、东南融通、中国平安、云南瑞升烟草技术（集团）有限公司、光大证券研究所、兴业证券、北京网达信联科技发展有限公司、北京高信达通信技术有限公司福州分公司、国泰君安期货有限公司、复旦大学附属肿瘤医院、奥浦诺管理咨询（上海）有限公司、宝景信息技术发展有限公司、富士施乐、山东泰丰、川渝中烟工业公司、德邦证券有限责任公司、支付宝、数库财务咨询（上海）有限公司、新华社中经社控股有限公司、汇添富基金、淘宝网、瑞易信息技术（上海）有限公司、电讯盈科信息技术有限公司、益普索、盛大网络、米其林中国投资有限公司、红星美凯龙集团、美斯达（上海）医药研发有限公司、艾瑞咨询、花旗软件、茂源投资管理有限公司、西安交通大学出版社、说宝堂信息科技有限公司、诺华、释锐教育软件、阿里巴巴&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/11/4th-SH-live.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;aligncenter&quot; title=&quot;会议现场20111112&quot; src=&quot;http://cos.name/wp-content/uploads/2011/11/4th-SH-live-500x333.jpg&quot; alt=&quot;会议现场20111112&quot; height=&quot;337&quot; width=&quot;600&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;会议内容&lt;/h2&gt;
+&lt;p&gt;本次会议讨论的主题涵盖了R语言在金融、制药、生物信息、数据挖掘、互联网、图形可视化等众多方面的最新进展，共进行了18场精彩的报告。会议的流程和主要内容摘录如下。&lt;/p&gt;
+&lt;h3&gt;1、汪荣明院长致辞&lt;/h3&gt;
+&lt;p&gt;华东师范大学金融与统计学院的汪荣明院长为本次大会致开幕辞。汪院长是教育部统计学教学指导委员会委员、中国现场统计学会生存分析分会副理事长、中国概率统计学会常务理事、中国概率统计学会精算专业委员会主任、《应用概率统计》杂志副主编、上海市统计学会副会长、华东师范大学第六届学术委员会委员。作为第四届R语言会议上海会场的东道主，汪院长对本次会议进行了关怀和展望。&lt;/p&gt;
+&lt;h3&gt;2、谢邦昌——云计算在统计Data Mining研究之应用及前沿综述&lt;/h3&gt;
+&lt;p&gt;谢教授是辅仁大学商学研究所博士班所长，统计资讯学系教授，中华资料采矿协会理事长。演讲中对CLOUD-R 云计算下的R前沿进行了探讨，同时展望了数据分析的未来。&lt;/p&gt;
+&lt;h3&gt;3、Thomas W. Yee——An Overview of the VGAM Package&lt;/h3&gt;
+&lt;p&gt;Thomas来自于R的故乡新西兰的Auckland大学。为我们介绍了他编写的VGAM包，用来拟合向量广义线性模型和加性模型。&lt;/p&gt;
+&lt;h3&gt;4、李强——淘宝网购数据和建模&lt;/h3&gt;
+&lt;p&gt;李强博士曾经在硅谷的惠普公司等多家公司担任研发，科研，产品工作。现在在淘宝网广告产品部门担任产品经理，主要负责定向广告营销，个性化广告推荐系统和基础的数据模型。这次演讲为我们介绍了淘宝网利用网购数据建模的方法，用来进行广告的精准投放，提高用户的满意度，提高营销的ROI。&lt;/p&gt;
+&lt;h3&gt;5、卢凌坚——利用R来建立更准确的市场预测&lt;/h3&gt;
+&lt;p&gt;卢凌坚1997年投身量化投资行业，曾任瑞士银行(UBS)亚太及澳大利亚首席量化分析师，并连续两年被美国机构投资者杂志评为亚太最佳量化分析师；后加入Ajia Partners任董事总经理及基金经理，负责市场量化策略和风险管理；2011年7月加盟茂源投资管理有限公司。本次报告是用R语言分析处理金融数据的一个实际的例子，属于茂源资本量化模型之选股模型的数据准备部分。&lt;/p&gt;
+&lt;h3&gt;6、刘思喆——Data Mining With RWeka&lt;/h3&gt;
+&lt;p&gt;刘思喆是北京神州数码思特奇信息技术股份有限公司的Chief Engineer。报告介绍了RWeka包的调用方式、以及这种调用方式的优缺点。并沿着数据挖掘的主线，对机器学习中分类算法（classifiers）的评估方法进行了简要介绍。&lt;/p&gt;
+&lt;h3&gt;7、陈丽云——社会网络中的实验与R&lt;/h3&gt;
+&lt;p&gt;陈丽云来自上海河广，介绍了在Fisher提出的实验设计三原则基础之上、社会性实验的设计思路、需要注意的实行要点和结果分析方法，并以USAIDS在高中生中推广基于社会网络的性教育教学方法为例、介绍了一个具体项目的设计思路和流程，展现出更直观的实验思想。&lt;/p&gt;
+&lt;h3&gt;8、余苓——R在烟草及其加工制品研发中的应用&lt;/h3&gt;
+&lt;p&gt;余苓来自于上海烟草集团，介绍了烟草行业中的多元数据的直观分析、多元数据的相关分析以及FactoMineR package的应用。&lt;/p&gt;
+&lt;h3&gt;9、史军——R语言在新药开发中的应用&lt;/h3&gt;
+&lt;p&gt;史军博士在定量药理和新药研发领域有着极其丰富的经验，作为本次大会的一位特邀嘉宾，以一个“老”临床药理工作者的身份介绍了制药行业的概况和新药研发中数据分析软件的选择。&lt;/p&gt;
+&lt;h3&gt;10、钟春燕——R在肿瘤生存分析中的应用&lt;/h3&gt;
+&lt;p&gt;钟春燕是福建医科大学公共卫生学院流行病与卫生统计学专业在读硕士，主要从事肿瘤分子流行病学研究。演讲主要介绍了肿瘤生存分析的基本概念和主要内容，以及半监督回归分割混合模型的背景，优点及分析过程。&lt;/p&gt;
+&lt;h3&gt;11、邵凡——R的商用：案例分享和前景展望&lt;/h3&gt;
+&lt;p&gt;邵凡是Mango Solutions上海代表处的首席代表。演讲展示了芒果咨询的两个案例：新药研发的软件系统Navigator和感官分析的R包。&lt;/p&gt;
+&lt;h3&gt;12、赵明——不同标准化方法对基因集富集分析的影响&lt;/h3&gt;
+&lt;p&gt;赵明是华中农业大学在读硕士，课题方向主要从事免疫系统生物学研究。主要包括基因通路和基因调控网络的构建和分析。本次演讲主要探讨Affymetrix芯片的不同标准化方法对GSEA分析的影响。&lt;/p&gt;
+&lt;h3&gt;13、牟官迅——R与高频交易数据&lt;/h3&gt;
+&lt;p&gt;本报告涉及经由多年积累后成就的数据平台的构建模式，以及通过R获取高频交易数据和对数据的统计展现。&lt;/p&gt;
+&lt;h3&gt;14、陈堰平——R在数据挖掘的应用：以预测股票收益率为例&lt;/h3&gt;
+&lt;p&gt;演讲介绍了预测股票收益率的分析框架和实用技术。内容包括时间序列数据的读取、人工神经网络方法、支持向量机方法、多元自适应样条回归、评价时间序列 模型的蒙特卡洛方法等。&lt;/p&gt;
+&lt;h3&gt;15、邓一硕——R与投资组合分析&lt;/h3&gt;
+&lt;p&gt;本报告主要介绍R在投资组合分析中的应用。内容分为三部分：第一部分，讲述基于均值-方差的投资组合分析及其在R中的实现；第二部分，讲述基于CVaR的投资组合分析及其在R中的实现；第三部分，讲述DEoptim包以及基于Omega、最大跌幅（Maximum Drawdwon）以及R-ratio的投资组合分析在R中的实现。&lt;/p&gt;
+&lt;h3&gt;16、周涛——信息挖掘：预测、排序和过滤&lt;/h3&gt;
+&lt;p&gt;周教授是电子科技大学互联网科学中心主任。主要研究方向为复杂性科学、网络科学、信息物理、人类动力学和群集动力学。本次演讲介绍了信息挖掘中三个重要组成部分：排序、预测与推荐。&lt;/p&gt;
+&lt;h3&gt;17、熊熹、魏太云、邱怡轩、高涛——R与现代统计图形及其实例&lt;/h3&gt;
+&lt;p&gt;演讲内容包括绘图系统、设备、grid、lattice、ggplot、rgl以及动画等。&lt;/p&gt;
+&lt;h3&gt;18、汤银才——R工作环境简介&lt;/h3&gt;
+&lt;p&gt;汤教授是华东师范大学金融与统计学院教授，博士生导师，《应用概率统计编辑部》主任。演讲介绍了适合于R运行的编辑器(ediotors)、图形式用户界面(GUIs)和集成开发环境&lt;br&gt;
+（integrated development environment）。&lt;/p&gt;
+&lt;h3&gt;19、李舰——中国R语言会议及相关活动介绍&lt;/h3&gt;
+&lt;p&gt;本次会议主席李舰介绍了中国R语言会议的发展历史和会议的组织过程，并就国内外的R活动以及R在国内的发展展开了讨论。&lt;/p&gt;
+&lt;h2&gt;资源下载&lt;/h2&gt;
+&lt;p&gt;经演讲者的授权同意，已将所有同意公开的幻灯片加了超链接供大家下载学习（&lt;span style=&quot;color: #ff0000;&quot;&gt;持续更新中&lt;/span&gt;，请遵循&lt;a href=&quot;http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh&quot; target=&quot;_blank&quot;&gt;CC 3.0协议&lt;/a&gt;：署名-非商业性使用-相同方式共享）。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;谢邦昌：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/11/ChinaR2011_SH_Nov12_01_bcx.pdf&quot; target=&quot;_blank&quot;&gt;云计算在统计Data Mining研究之应用及前沿综述&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Thomas W. Yee：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/11/ChinaR2011_SH_Nov12_02_ty.pdf&quot; target=&quot;_blank&quot;&gt;An Overview of the VGAM Package&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;李强：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/11/ChinaR2011_SH_Nov12_03_ql.pdf&quot; target=&quot;_blank&quot;&gt;淘宝网购数据和建模&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;卢凌坚：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/11/ChinaR2011_SH_Nov12_04_ljl.pdf&quot; target=&quot;_blank&quot;&gt;利用R来建立更准确的市场预测&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;刘思喆：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/11/ChinaR2011_SH_Nov12_05_szl.pdf&quot; target=&quot;_blank&quot;&gt;Data Mining With RWeka&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;陈丽云：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/11/ChinaR2011_SH_Nov12_06_lyc.pdf&quot; target=&quot;_blank&quot;&gt;社会网络中的实验与R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;余苓：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/11/ChinaR2011_SH_Nov12_07_ly.pdf&quot; target=&quot;_blank&quot;&gt;R在烟草及其加工制品研发中的应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;史军：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/11/ChinaR2011_SH_Nov12_08_js.pdf&quot; target=&quot;_blank&quot;&gt;R语言在新药开发中的应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;钟春燕：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/11/ChinaR2011_SH_Nov12_09_cyz.pdf&quot; target=&quot;_blank&quot;&gt;R在肿瘤生存分析中的应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;邵凡：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/11/ChinaR2011_SH_Nov12_10_fs.pdf&quot; target=&quot;_blank&quot;&gt;R的商用：案例分享和前景展望&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;赵明：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/11/ChinaR2011_SH_Nov12_11_mz.pdf&quot; target=&quot;_blank&quot;&gt;不同标准化方法对基因集富集分析的影响&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;牟官迅：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/11/ChinaR2011_SH_Nov13_01_gxm.pdf&quot; target=&quot;_blank&quot;&gt;R与高频交易数据&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;陈堰平：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/11/ChinaR2011_SH_Nov13_02_ypc.pdf&quot; target=&quot;_blank&quot;&gt;R在数据挖掘的应用：以预测股票收益率为例&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;邓一硕：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/11/ChinaR2011_SH_Nov13_03_ysd.pdf&quot; target=&quot;_blank&quot;&gt;R与投资组合分析&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;周涛：信息挖掘：预测、排序和过滤（无幻灯片）&lt;/li&gt;
+&lt;li&gt;统计之都：R与现代统计图形及其实例&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;高涛：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/11/ChinaR2011_SH_Nov13_05_1_tg.pdf&quot; target=&quot;_blank&quot;&gt;R与统计作图及其实例&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;熊熹：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/11/ChinaR2011_SH_Nov13_05_2_xx.pdf&quot; target=&quot;_blank&quot;&gt;R中的函数型数据展示&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;邱怡轩：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/11/ChinaR2011_SH_Nov13_05_3_yxq.pdf&quot; target=&quot;_blank&quot;&gt;R与交互式图形&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;li&gt;汤银才：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/11/ChinaR2011_SH_Nov13_06_yct.pdf&quot; target=&quot;_blank&quot;&gt;R工作环境简介&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;李舰：中国R语言会议及相关活动介绍&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;感想和建议&lt;/h2&gt;
+&lt;p&gt;如果您对于中国R语言会议还有任何感想、意见或建议，欢迎您在本页面、&lt;a href=&quot;http://renren.com/cosname&quot; target=&quot;_blank&quot;&gt;统计之都人人网页面&lt;/a&gt;或&lt;a href=&quot;http://weibo.com/cosname&quot; target=&quot;_blank&quot;&gt;统计之都新浪微博&lt;/a&gt;留言，我们会尽力在今后对会议质量进行进一步的改善。&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>第四届中国R语言会议（北京）</title>
+   <link href="/2011/beijing"/>
+   <updated>2011-05-21T00:00:00-04:00</updated>
+   <id>h/2011/beijing</id>
+   <content type="html">&lt;div class=&quot;wp-caption aligncenter&quot;&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/05/4th-China-R-BJ.jpg&quot;&gt;&lt;img class=&quot;aligncenter size-large wp-image-1821&quot; title=&quot;第四届中国R语言会议（北京会场）合影&quot; src=&quot;http://cos.name/wp-content/uploads/2011/05/4th-China-R-BJ-500x269.jpg&quot; alt=&quot;第四届中国R语言会议（北京会场）合影&quot; height=&quot;269&quot; width=&quot;500&quot;&gt;&lt;/a&gt;&lt;p class=&quot;wp-caption-text&quot;&gt;第四届中国R语言会议（北京会场）合影（右键另存为看大图）&lt;/p&gt;&lt;/div&gt;
+&lt;a href=&quot;http://china-r.org/img/China-R-Logo.png&quot;&gt;&lt;img class=&quot;aligncenter size-medium wp-image-2276&quot; title=&quot;中国R语言会议标识&quot; src=&quot;http://china-r.org/img/China-R-Logo-300x192.png&quot; alt=&quot;&quot; height=&quot;192&quot; width=&quot;300&quot;&gt;&lt;/a&gt; &lt;p&gt;第四届中国R语言会议（北京会场）于2011年5月28日~29日在中国人民大学明德法学楼0201成功召开。会议由中国人民大学应用统计科学研究中心与中国人民大学统计学院主办、统计之都(&lt;a href=&quot;http://cos.name&quot; target=&quot;_blank&quot;&gt;cos.name&lt;/a&gt;)协办。在两天的会议时间里，参会者齐聚一堂，就R语言在生物、金融、网络、商业等诸多方面的应用进行了深入的探讨。&lt;/p&gt;
+&lt;h2&gt;会议概况&lt;/h2&gt;
+&lt;p&gt;第四届中国R语言会议（北京会场）于2011年5月28日~29日在中国人民大学明德法学楼0201成功召开。会议由中国人民大学应用统计科学研究中心与中国人民大学统计学院主办、统计之都(&lt;a href=&quot;http://cos.name&quot; target=&quot;_blank&quot;&gt;cos.name&lt;/a&gt;)协办。在两天的会议时间里，参会者齐聚一堂，就R语言在生物、金融、网络、商业等诸多方面的应用进行了深入的探讨。&lt;/p&gt;
+&lt;h2&gt;会议概况&lt;/h2&gt;
+&lt;p&gt;本次会议吸引了近250名参会者前来参会，规模属历届之最。参会者主要来自各大高校、科研机构、企业和事业单位，全体参会者所在单位汇总如下。 高校和研究所：&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Banaras Hindu University、University of Alaska、北京大学、北京大学医学部、北京工业大学、北京化工大学、北京科技大学、北京理工大学、北京林业大学、北京师范大学、大连海事大学、电子科技大学互联网科学中心、对外经济贸易大学、华北电力大学、华东师范大学、华中科技大学、嘉兴学院、军事医学科学院放射与辐射医学研究所、南开大学、清华大学、热带林业研究所、首都经济贸易大学、天津理工大学、西南交通大学、同济大学、中国测绘科学研究院、中国科学技术大学、中国科学院大气物理研究所、中国科学院地理科学与资源研究所、中国科学院计算技术研究所、中国科学院武汉植物园、中国矿业大学、中国林业科学研究院、中国农业大学、中国农业科学院、中国农业科学院农业资源与农业区划研究所、中国人民大学、中国石油大学、中国政法大学、中科院北京基因组研究所、中科院地理所、中科院动物所、中科院武汉植物园、中南大学、中水产科学研究院黄海水产研究所、中央财经大学、中央民族大学&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;企业、事业单位：&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;58同城、Mango Solutions、Sanofi Pasteur、SAS北京研发中心、SPSS China、艾瑞咨询、百度、北京安泰科信息开发有限公司、北京风行在线技术有限公司、北京汉端科技有限公司、北京航空航天大学出版社、北京市国富如荷网络科技有限公司、北京网达信联科技发展有限公司上海分公司、北京正和之道管理咨询有限责任公司、北京质量协会、北森、博奥生物有限公司、创维数字、当当网、歌尔泰克、好耶网络广告、华胜天成、甲骨文、酷6网、奇艺网、上海烟草集团有限责任公司、深圳华大基因研究院、深圳茂源投资管理有限公司、首钢、水利部发展研究中心、淘宝、腾讯、同方股份有限公司、无线讯奇、西安交通大学出版社、小米科技、新华社中经社控股有限公司、新华信咨询、新浪、益普索、优酷网、中诚信信用管理、中国电子科技集团公司信息化工程总体研究中心、中国疾控、中国移动、中国邮政集团、卓望信息&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;
+&lt;/p&gt;&lt;/blockquote&gt;
+&lt;div class=&quot;mceTemp mceIEcenter&quot;&gt;
+&lt;dl id=&quot;attachment_3848&quot; class=&quot;wp-caption aligncenter&quot; style=&quot;width: 610px;&quot;&gt;
+&lt;dt class=&quot;wp-caption-dt&quot;&gt;&lt;/dt&gt;
+&lt;dt&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/05/hot.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img title=&quot;会议现场20110528&quot; src=&quot;http://cos.name/wp-content/uploads/2011/05/hot-500x281.jpg&quot; alt=&quot;会议现场20110528&quot; height=&quot;337&quot; width=&quot;600&quot;&gt;&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;会议现场(点击图片在新窗口看大图)&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/div&gt;
+&lt;h2&gt;会议内容&lt;/h2&gt;
+&lt;p&gt;本次会议讨论的主题涵盖了R语言在生物信息、生态学、金融、混合编程、高性能计算、网络和出版等众多方面的最新进展，共进行了17场精彩的报告。会议的流程和主要内容摘录如下。&lt;/p&gt;
+&lt;h3&gt;1、吴喜之教授致辞&lt;/h3&gt;
+&lt;p&gt;吴喜之教授是国内推广R语言的先驱，他在致词中简述了R的诸多优势，如免费、公开、容易学习、可扩展、功能强大、不断更新等，并对现场的参会者提出了殷切的期待，希望大家能从R中不断学习新的统计知识。吴喜之教授幽默睿智的演讲受到了现场观众的热烈欢迎。&lt;/p&gt;
+&lt;h3&gt;2、李舰——R与高性能运算&lt;/h3&gt;
+&lt;p&gt;演讲指出，S语言的一个设计理念是“人的时间比机器的时间宝贵”，因此R在设计之初并不是纯粹追求高效，而是符合统计的思维方式。演讲针对R的三个事实——解释性语言，数据都读入内存和单线程——详细讲述了R的高性能运算，包括基础优化、大数据、代数运算和并行计算四部分的内容。&lt;/p&gt;
+&lt;h3&gt;3、李欣海——广义线性模型的基本原理及其应用&lt;/h3&gt;
+&lt;p&gt;演讲详细介绍了广义线性模型的概念、组成和估计等内容，重点讲解了Logistic回归的原理和应用。同时，演讲者结合具体的专业背景讲解了广义线性模型在生态学中的应用。&lt;/p&gt;
+&lt;h3&gt;4、肖嘉敏——基于R的网络用户行为研究&lt;/h3&gt;
+&lt;p&gt;演讲中对用户行为的研究包括网站浏览、软件使用和行为特征三个方面，具体的数据操作包括数据预处理、数据库操作、缺失值、变量转换、tapply()应用等。演讲还专门针对网络数据的特点介绍了一些特定的高性能运算算法，来提高网络数据处理的效率。&lt;/p&gt;
+&lt;h3&gt;5、张金龙——R 与进化生态学&lt;/h3&gt;
+&lt;p&gt;演讲介绍了进化生态学的来源和特点，通过几个实例引入了系统发育的相关理论，之后介绍了R中处理相应问题的软件包。演讲人之后对进化树、祖先状态、物种分化速率、群落系统和生态位进化等内容进行了详细的讲解，其中对每一个问题都提供了程序示例和图形等展示内容。&lt;/p&gt;
+&lt;h3&gt;6、李青龙——R与EXCEL VBA及MATLAB混合编程&lt;/h3&gt;
+&lt;p&gt;Excel和Matlab各自在商业和数学领域有广泛的应用，而混合编程可以将不同工具的优势结合起来。演讲详述了混合编程的步骤，并通过R与Matlab和Excel VBA交互的实例讲解了混和编程的操作方法。&lt;/p&gt;
+&lt;h3&gt;7、王洪月——SAS Interaction with R&lt;/h3&gt;
+&lt;p&gt;演讲从SAS的视角对R的特点进行了分析，解释了SAS为什么要集成R，以及如何进行集成。通过实例的演示，演讲者展示了如何利用IML Studio来实现SAS与R的交互。&lt;/p&gt;
+&lt;h3&gt;8、颜林林——R高级编程技巧及Rcpp的介绍&lt;/h3&gt;
+&lt;p&gt;R的高级编程技巧主要包括向量运算和扩展软件包的使用两方面。演讲的第一部分介绍了apply()系列函数的用法，来实现R中的向量化操作；第二部分介绍了Rcpp的相关历史，并详细叙述了Rcpp的使用方法及效率方面的比较。&lt;/p&gt;
+&lt;h3&gt;9、曹宗富——基于R/Bioconductor进行生物芯片数据分析&lt;/h3&gt;
+&lt;p&gt;演讲首先介绍了生物芯片的应用及其对应的数据处理方法，之后介绍了Bioconductor的创始人和历史，并利用相应的软件包对基因芯片进行了一系列的分析，包括预处理、聚类、可视化等。&lt;/p&gt;
+&lt;h3&gt;10、李颖——推进R语言图书的发展&lt;/h3&gt;
+&lt;p&gt;演讲介绍了目前国内R语言图书出版的现状，鼓励R语言的爱好者将编程经验系统化，编写相关的教材或翻译国外的作品。演讲者还对目前正在进行的出版计划进行了介绍。&lt;/p&gt;
+&lt;h3&gt;11、邓一硕——R与现代金融分析&lt;/h3&gt;
+&lt;p&gt;在以往的几届R会议中都没有涉及金融方面的应用，本演讲旨在填补这一部分的空白。演讲总体分为五个部分，介绍了金融时间序列建模、风险度量、技术分析、期权以及投资组合等方面的理论和R语言实现。&lt;/p&gt;
+&lt;h3&gt;12、林伟林——R在量化投资的应用&lt;/h3&gt;
+&lt;p&gt;演讲概述了量化投资在中国的机会与不足，接下来介绍了对套利的研究和时间序列的基本知识，最后针对股指期货和指数的联动关系提出了理论模型及其R语言实现。&lt;/p&gt;
+&lt;h3&gt;13、胡江堂——关于R和SAS的7个广为流传的误解&lt;/h3&gt;
+&lt;p&gt;演讲者指出演讲的目的在于加强R用户和SAS用户的沟通和交流。针对R与SAS之间的7个误解，演讲者进行了澄清和解释。演讲结束后众多听众也都发表了自己的观点，与演讲者进行了热烈的讨论。&lt;/p&gt;
+&lt;h3&gt;14、李舰——R的商用情况简介&lt;/h3&gt;
+&lt;p&gt;演讲介绍了R在工业领域的应用，包括分析咨询，外包，程序开发，培训和支援等。针对每个方面演讲者都举出了R的具体应用范围，并着重对制药行业中R的应用进行了介绍。&lt;/p&gt;
+&lt;h3&gt;15、朱剑锋——R在宏基因组研究中的应用&lt;/h3&gt;
+&lt;p&gt;演讲者首先介绍了宏基因组的背景知识，然后提出了基因数据分析中遇到的问题，并对qvalue、“软”聚类等概念进行了细致的讨论，给出了相应R软件包的使用方法。演讲者还对R的发展提出了展望，指出R的发展离不开行业的发展，希望大家能多进行交流。&lt;/p&gt;
+&lt;h3&gt;16、赵毅——R与.NET混合编程及其在化学计量学中的应用&lt;/h3&gt;
+&lt;p&gt;演讲者介绍了R与.NET环境结合的背景，并结合一个实际的项目分析了R与.NET开发的流程及相应的解决方案。最后演讲者说明了如何将混合编程的方法应用到化学计量学中，并进行了现场演示。&lt;/p&gt;
+&lt;h3&gt;17、卢一鸣——R在基因芯片数据处理中的应用&lt;/h3&gt;
+&lt;p&gt;演讲的第一部分介绍了基因芯片的数据特点和相关的软件包，第二部展示了R在基因芯片数据分析中的高级应用，重点介绍了Lasso方法的原理和R语言实现。&lt;/p&gt;
+&lt;h3&gt;18、张雯——R语言在物种进化分析中的应用&lt;/h3&gt;
+&lt;p&gt;演讲指出，技术革新与交叉学科产生的海量数据使得生物学进入了一个新时代，生物信息学急需对数据进行挖掘，但目前生物研究人员缺乏统计学基础。针对这种现象，R是一个非常强大的工具。演讲者通过一个案例展示了R在物种进化分析中的应用，最后讨论了R语言与Perl语言之间的结合。&lt;/p&gt;
+&lt;h2&gt;资源下载&lt;/h2&gt;
+&lt;p&gt;经演讲者的授权同意，已将所有同意公开的幻灯片加了超链接供大家下载学习。演讲视频请&lt;a href=&quot;http://t.cn/aKWeMl&quot;&gt;点击这里&lt;/a&gt;。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;李舰：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/05/01-Li-Jian-HPC.pdf&quot; target=&quot;_blank&quot;&gt;R与高性能运算&lt;/a&gt;（&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/05/01-Li-Jian-HPC.txt&quot; target=&quot;_blank&quot;&gt;代码&lt;/a&gt;）&lt;/li&gt;
+&lt;li&gt;李欣海：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/06/2.-%E6%9D%8E%E6%AC%A3%E6%B5%B7-%E5%B9%BF%E4%B9%89%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B.pdf&quot; target=&quot;_blank&quot;&gt;广义线性模型的基本原理及其应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;肖嘉敏：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/06/3.-%E8%82%96%E5%98%89%E6%95%8F-%E5%9F%BA%E4%BA%8ER%E7%9A%84%E7%BD%91%E7%BB%9C%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E7%A0%94%E7%A9%B6.pdf&quot; target=&quot;_blank&quot;&gt;基于R的网络用户行为研究&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;张金龙：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/06/4.-%E5%BC%A0%E9%87%91%E9%BE%99-R%E4%B8%8E%E8%BF%9B%E5%8C%96%E7%94%9F%E6%80%81%E5%AD%A6_%E7%B3%BB%E7%BB%9F%E5%8F%91%E8%82%B2%E6%AF%94%E8%BE%83%E5%88%86%E6%9E%90%E6%A6%82%E8%BF%B0.ppt&quot; target=&quot;_blank&quot;&gt;R 与进化生态学&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;李青龙：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/05/05-Li-Qinglong-R-Matlab-VBA.pdf&quot; target=&quot;_blank&quot;&gt;R与EXCEL VBA及MATLAB混合编程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;王洪月：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/05/6.-王洪月-SAS-Interation-with-R.ppt&quot; target=&quot;_blank&quot;&gt;SAS Interaction with R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;颜林林：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/06/7.-%E9%A2%9C%E6%9E%97%E6%9E%97-R%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%E6%8A%80%E5%B7%A7%E5%8F%8ARcpp%E7%9A%84%E4%BB%8B%E7%BB%8D.ppt&quot; target=&quot;_blank&quot;&gt;R高级编程技巧及Rcpp的介绍&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;曹宗富：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/06/8.-%E6%9B%B9%E5%AE%97%E5%AF%8C-%E5%9F%BA%E4%BA%8ER_Bioconductor%E8%BF%9B%E8%A1%8C%E7%94%9F%E7%89%A9%E8%8A%AF%E7%89%87%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.ppt&quot; target=&quot;_blank&quot;&gt;基于R/Bioconductor进行生物芯片数据分析&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;李颖：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/06/9.-%E6%9D%8E%E9%A2%96-%E6%8E%A8%E8%BF%9BR%E8%AF%AD%E8%A8%80%E5%9B%BE%E4%B9%A6%E7%9A%84%E5%8F%91%E5%B1%95.ppt&quot; target=&quot;_blank&quot;&gt;推进R语言图书的发展&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;邓一硕：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/05/10-Deng-Yishuo-Finance.pdf&quot; target=&quot;_blank&quot;&gt;R与现代金融分析&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;林伟林：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/06/11.-%E6%9E%97%E4%BC%9F%E6%9E%97-R%E5%9C%A8%E9%87%8F%E5%8C%96%E6%8A%95%E8%B5%84%E7%9A%84%E5%BA%94%E7%94%A8.ppt&quot; target=&quot;_blank&quot;&gt;R在量化投资的应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;胡江堂：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/06/12.-%E8%83%A1%E6%B1%9F%E5%A0%82-R-versus-SAS.ppt&quot; target=&quot;_blank&quot;&gt;关于R和SAS的7个广为流传的误解&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;李舰：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/05/13-Li-Jian-R-in-Commerce.pdf&quot; target=&quot;_blank&quot;&gt;R的商用情况简介&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;朱剑锋：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/06/14.-%E6%9C%B1%E5%89%91%E9%94%8B-R%E5%9C%A8%E5%AE%8F%E5%9F%BA%E5%9B%A0%E7%BB%84%E7%A0%94%E7%A9%B6%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.pdf&quot; target=&quot;_blank&quot;&gt;R在宏基因组研究中的应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;赵毅：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/06/15.-%E8%B5%B5%E6%AF%85-R%E4%B8%8E.NET%E6%B7%B7%E5%90%88%E7%BC%96%E7%A8%8B%E5%8F%8A%E5%85%B6%E5%9C%A8%E5%8C%96%E5%AD%A6%E8%AE%A1%E9%87%8F%E5%AD%A6%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.pdf&quot; target=&quot;_blank&quot;&gt;R与.NET混合编程及其在化学计量学中的应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;卢一鸣：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/06/16.-%E5%8D%A2%E4%B8%80%E9%B8%A3-R%C2%8A%E5%9C%A8%E5%9F%BA%E5%9B%A0%E8%8A%AF%E7%89%87%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.pdf&quot; target=&quot;_blank&quot;&gt;R在基因芯片数据处理中的应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;张雯：&lt;a href=&quot;http://cos.name/wp-content/uploads/2011/06/17.-%E5%BC%A0%E9%9B%AF-R%E8%AF%AD%E8%A8%80%E5%9C%A8%E7%89%A9%E7%A7%8D%E8%BF%9B%E5%8C%96%E5%88%86%E6%9E%90%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.ppt&quot; target=&quot;_blank&quot;&gt;R语言在物种进化分析中的应用&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;感想和建议&lt;/h2&gt;
+&lt;p&gt;如果您对于中国R语言会议还有任何感想、意见或建议，欢迎您在本页面、&lt;a href=&quot;http://renren.com/cosname&quot; target=&quot;_blank&quot;&gt;统计之都人人网页面&lt;/a&gt;或&lt;a href=&quot;http://weibo.com/cosname&quot; target=&quot;_blank&quot;&gt;统计之都新浪微博&lt;/a&gt;留言，我们会尽力在今后对会议质量进行进一步的改善。&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>第三届中国R语言会议（上海）</title>
+   <link href="/2010/shanghai"/>
+   <updated>2010-11-21T00:00:00-05:00</updated>
+   <id>h/2010/shanghai</id>
+   <content type="html">&lt;div style=&quot;width: 510px;text-align: center;&quot; class=&quot;wp-caption aligncenter&quot;&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2010/11/3rd-China-R-SH-1.jpg&quot;&gt;&lt;img class=&quot;size-large wp-image-2684&quot; title=&quot;第三届中国R语言会议上海会场合影1&quot; src=&quot;http://cos.name/wp-content/uploads/2010/11/3rd-China-R-SH-1-500x332.jpg&quot; alt=&quot;第三届中国R语言会议上海会场合影1&quot; height=&quot;332&quot; width=&quot;500&quot;&gt;&lt;/a&gt;&lt;p class=&quot;wp-caption-text&quot;&gt;第三届中国R语言会议上海会场合影（右键另存为看大图）&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;第三届中国R语言会议（上海会场）于2010年11月13日~14日在上海财经大学行政楼成功召开。会议由上海财经大学统计与管理学院与统计之都网站(&lt;a href=&quot;http://cos.name/&quot; target=&quot;_blank&quot;&gt;cos.name&lt;/a&gt;)协办，由Mango Solutions提供赞助。在两天的会议时间里，来自各行各业的R用户齐聚上海，共同探讨和交流R软件的使用经验，取得了丰厚的成果。&lt;/p&gt;
+&lt;h1&gt;会议概况&lt;/h1&gt;
+&lt;h2&gt;参会单位&lt;/h2&gt;
+&lt;p&gt;本次会议吸引了众多单位和个人前来参会，包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;大学：上海财经大学，复旦大学，上海交通大学，中南大学，华东师范大学，同济大学，浙江大学，北京林业大学，电子科技大学，广西师范大学，华东理工大学，华中科技大学，吉林财经大学，南京医科大学，南通大学，上海对外贸易学院，上海立信会计学院，上海生命科学院，温州大学，西安工业大学，西藏民族学院，西南大学，中国药科大学，中国农业大学，中国医药大学；&lt;/li&gt;
+&lt;li&gt;科研所：国家疾病预防控制中心，中国气象局上海台风研究所，中科院上海生命科学研究院，中科院植物生理生态所，上海中医药大学脾胃病研究所，上海生物信息技术研究中心；&lt;/li&gt;
+&lt;li&gt;企业：爱博投资，淘宝网，A. T. Kearney，CDC，ebay，MacroStat(China)，Mango Solutions，Opera Solutions，SMIC，艾瑞咨询，北京安泰科信息开发有限公司，华院分析，欧蒙（杭州）医学实验诊断有限公司，上海国富投资有限公司，上海聚胜万合广告有限公司，上海其明信息技术有限公司，上海烟草集团公司，上海意略明战略咨询，上海源略数据服务有限公司，双易家居用品有限公司，同方股份有限公司，亚信科技（中国）有限公司，支付宝。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;会议内容&lt;/h1&gt;
+&lt;p&gt;本次会议由两部分组成，其中第一天为R语言基础培训，第二天为演讲报告。从参会人数上看，第一天的培训甚至比第二天的主题演讲吸引了更多的R用户。&lt;/p&gt;
+&lt;p&gt;会议培训：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;张霞峰：&lt;a href=&quot;http://cos.name/wp-content/uploads/2010/11/China-R-2010-R-basic.ppt&quot; target=&quot;_blank&quot;&gt;R语言基础培训讲座&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;李舰：&lt;a href=&quot;http://cos.name/wp-content/uploads/2010/11/China-R-2010-R-Training-Shanghai.zip&quot; target=&quot;_blank&quot;&gt;R语言应用讲座&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;会议演讲：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;茆长暄：Marketing your research by R packages&lt;/li&gt;
+&lt;li&gt;牟官迅：&lt;a href=&quot;http://cos.name/wp-content/uploads/2010/11/China-R-2010-libfann-R-Binding.ppt&quot; target=&quot;_blank&quot;&gt;快速神经网络在R上的绑定&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;邵凡：&lt;a href=&quot;http://cos.name/wp-content/uploads/2010/11/China-R-2010-R-in-Enterprise-Environment.ppt&quot; target=&quot;_blank&quot;&gt;R在欧美市场的商业化应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;邹德强：&lt;a href=&quot;http://cos.name/wp-content/uploads/2010/11/China-R-2010-Market-Segmentation-with-Latent-Class-Regression.pdf&quot; target=&quot;_blank&quot;&gt;Market Segmentation with Latent Class Regression&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;陈钢：&lt;a href=&quot;http://cos.name/wp-content/uploads/2010/11/China-R-2010-R-and-Cytoscape.pdf&quot; target=&quot;_blank&quot;&gt;R与Cytoscape配合在生物网络研究中的应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;邵晨：&lt;a href=&quot;http://cos.name/wp-content/uploads/2010/11/China-R-2010-Cointegrate.ppt&quot; target=&quot;_blank&quot;&gt;协整理论及其R语言的实现&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;张翔：&lt;a href=&quot;http://cos.name/wp-content/uploads/2010/11/China-R-2010-SNA.pdf&quot; target=&quot;_blank&quot;&gt;Social network analysis with R sna package&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;刘思喆：&lt;a href=&quot;http://cos.name/wp-content/uploads/2010/11/China-R-2010-R-and-Statistical-Graphics.pdf&quot; target=&quot;_blank&quot;&gt;R与统计图形&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;李舰：&lt;a href=&quot;http://cos.name/wp-content/uploads/2010/11/China-R-2010-High-Performance-Computing.pdf&quot; target=&quot;_blank&quot;&gt;R与高性能运算以及R在中国未来发展的讨论&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&quot;width: 510px&quot; class=&quot;wp-caption aligncenter&quot;&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2010/11/3rd-China-R-SH-2.jpg&quot;&gt;&lt;img class=&quot;size-large wp-image-2683&quot; title=&quot;第三届中国R语言会议上海会场合影2&quot; src=&quot;http://cos.name/wp-content/uploads/2010/11/3rd-China-R-SH-2-500x332.jpg&quot; alt=&quot;第三届中国R语言会议上海会场合影2&quot; height=&quot;332&quot; width=&quot;500&quot;&gt;&lt;/a&gt;&lt;p class=&quot;wp-caption-text&quot;&gt;第三届中国R语言会议上海会场合影（右键另存为看大图）&lt;/p&gt;&lt;/div&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>第三届中国R语言会议（北京）</title>
+   <link href="/2010/beijing"/>
+   <updated>2010-05-21T00:00:00-04:00</updated>
+   <id>h/2010/beijing</id>
+   <content type="html">&lt;div class=&quot;wp-caption aligncenter&quot;&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2010/06/3rd-China-R-BJ.jpg&quot;&gt;&lt;img class=&quot;aligncenter size-large wp-image-1821&quot; title=&quot;第三届中国R语言会议北京会场合影&quot; src=&quot;http://cos.name/wp-content/uploads/2010/06/3rd-China-R-BJ-500x229.jpg&quot; alt=&quot;第三届中国R语言会议北京会场合影&quot; height=&quot;229&quot; width=&quot;500&quot;&gt;&lt;/a&gt;&lt;p class=&quot;wp-caption-text&quot;&gt;第三届中国R语言会议北京会场合影（右键另存为看大图）&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://china-r.org/img/China-R-Logo.png&quot;&gt;&lt;img class=&quot;aligncenter size-medium wp-image-2276&quot; title=&quot;中国R语言会议标识&quot; src=&quot;http://china-r.org/img/China-R-Logo-300x192.png&quot; alt=&quot;&quot; height=&quot;192&quot; width=&quot;300&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;第三届中国R语言会议（北京会场）于2010年6月14日~15日在中国人民大学明德法学楼0101成功召开。会议由中国人民大学应用统计科学研究中心与中国人民大学统计学院主办、统计之都网站(&lt;a href=&quot;http://cos.name&quot; target=&quot;_blank&quot;&gt;cos.name&lt;/a&gt;)协办。在两天的会议时间里，来自各行各业的R用户齐聚北京，共同探讨和交流R软件的使用经验，取得了丰厚的成果。&amp;nbsp;&lt;/p&gt;
+&lt;h1&gt;会议概况&lt;/h1&gt;
+&lt;h2&gt;参会单位&lt;/h2&gt;
+&lt;p&gt;本次会议吸引了70余家单位近170人参加，参会人员所在单位包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;大学：爱荷华州立大学、北京大学、北京大学医学部、北京工商大学、北京工业大学、北京航空航天大学、北京化工大学、北京交通大学、北京理工大学、北京联合大学、北京林业大学、北京师范大学、东北农业大学、复旦大学、桂林理工大学、南开大学、山东大学、首都经济贸易大学、首都师范大学、天津大学、武汉大学、西北师范大学、西藏民族学院财经学院、厦门大学、云南师范大学、浙江大学、浙江嘉兴学院、芝加哥大学、中国地质大学（北京）、中国科学院研究生院、中国矿业大学（北京）、中国农业大学、中国人民大学、中国石油大学、中央财经大学、中央民族大学等；&lt;/li&gt;
+&lt;li&gt;科研所：北京荣昌药物研究院、南京地理与湖泊研究所、天津市第一中心医院、中国科学院北京基因组研究所、中国科学院大气物理研究所、中国科学院地理科学与资源研究所、中国科学院计算机网络信息中心、中国科学院青藏所、中国科学院生物物理所、中国科学院微生物研究所、中国科学院心理所、中国科学院遗传与发育生物学研究所、中国科学院植物研究所、中国农业科学院农业资源与农业区划研究所、中国社会科学院、中国水产科学研究院、中国医学科学院阜外心血管病医院、中国有色金属工业信息中心；&lt;/li&gt;
+&lt;li&gt;企业：Gfk、IMS Health、Mango Solutions、北京迪美斯科技发展有限公司、&lt;span&gt;北京国政通&lt;em&gt;、&lt;/em&gt;&lt;/span&gt;北京首航财务管理顾问有限公司、博奥生物有限公司、博纳集团、定谊科技、豆瓣、汇言群知计算机有限公司、其明信息、上海源略数据、同方知网、完美时空、文思创新、现代国际市场研究有限公司、新华信国际信息咨询(北京)有限公司、亚信科技等；&lt;/li&gt;
+&lt;li&gt;政府部门及事业单位：北京市统计局、北京质量协会、国家减灾中心、国家知识产权局专利局等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;参会人员&lt;/h2&gt;
+&lt;p&gt;用R对收集到的参会者年龄信息进行汇总，得到年龄分布的茎叶图如下：&amp;nbsp;&lt;/p&gt;
+&lt;pre class=&quot;brush: r&quot;&gt;2nd China-R Beijing              3rd China-R Beijing
+
+18 | 0                                        0 | 18
+19 | 0                                    00000 | 19
+20 | 0000000                          000000000 | 20
+21 | 000000000000                00000000000000 | 21
+22 | 0000000000000000000             0000000000 | 22
+23 | 000000000000000                00000000000 | 23
+24 | 0000000                       000000000000 | 24
+25 | 000000000000             00000000000000000 | 25
+26 | 000000000000000              0000000000000 | 26
+27 | 000000000000                   00000000000 | 27
+28 | 000                             0000000000 | 28
+29 | 000000                               00000 | 29
+30 | 000000                             0000000 | 30
+31 | 0                                     0000 | 31
+32 | 0                                      000 | 32
+33 | 0                                     0000 | 33
+34 | 0                                       00 | 34
+35 |                                        000 | 35
+36 | 0                                        0 | 36
+37 |                                          0 | 37
+38 | 0                                          | 38
+
+45 | 0                                          | 45&lt;/pre&gt;
+&lt;p&gt;可以看出，与&lt;a href=&quot;http://cos.name/2009/12/2nd-chinese-r-conference-summary/&quot; target=&quot;_blank&quot;&gt;上届会议&lt;/a&gt;相比，本届会议一个显著的变化是参会者的年龄结构更加丰富，这从一个侧面说明了R的用户范围正在逐步扩大，不同年龄层的人都开始对R软件产生了兴趣。&lt;/p&gt;
+&lt;p&gt;与上届会议类似，本届会议的参会人员大都来自高校和科研机构，包括在校学生、高校老师、科研所研究员等；而本届会议同样得到了企业界和政府部门朋友的大力支持，其中有行业分析师、市场研究员、咨询师、政府服务人员、公务员、医药统计分析师、算法工程师、软件工程师等等。&amp;nbsp;&lt;/p&gt;
+&lt;h1&gt;会议内容&lt;/h1&gt;
+&lt;p&gt;本次会议由两部分组成，其中第一天为R语言基础培训，第二天为演讲报告。&lt;/p&gt;
+&lt;p&gt;6月14日上午，&lt;a href=&quot;http://cos.name/cn/forum/15&quot; target=&quot;_blank&quot;&gt;统计之都论坛R版&lt;/a&gt;版主、亚信科技有限公司研究员&lt;a href=&quot;http://www.bjt.name/&quot; target=&quot;_blank&quot;&gt;刘思喆&lt;/a&gt;为参会者讲解了R软件的历史及其基本的统计计算功能；下午，统计之都创始人、中国R语言会议发起人、美国爱荷华州立大学在读博士&lt;a href=&quot;http://yihui.name/&quot; target=&quot;_blank&quot;&gt;谢益辉&lt;/a&gt;讲解了R软件的作图功能。本次培训是三届会议以来北京会场举行的首次正式R语言基础培训，取得了良好的反响，同时为国内R软件的推广提供了新的动力。&lt;/p&gt;
+&lt;p&gt;培训讲稿下载：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2010/06/China-R-2010-Rintro.pdf&quot; target=&quot;_blank&quot;&gt;R语言基础&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2010/06/China-R-2010-Graphics.zip&quot; target=&quot;_blank&quot;&gt;R作图&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;6月15日为会议的演讲报告部分，本次会议共进行了九场正式报告，在此要特别感谢各位演讲者热情的参与和支持。以下演讲资料都遵守&lt;a href=&quot;http://creativecommons.org/licenses/by/3.0/deed.zh&quot; target=&quot;_blank&quot;&gt;CC协议&lt;/a&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;谢益辉：傻瓜软件是怎样炼成的：&lt;a href=&quot;http://yihui.name/cn/wp-content/uploads/2010/06/3rd-ChinaR-gWidgets-Yihui-Xie.pdf&quot; target=&quot;_blank&quot;&gt;用gWidgets包创建图形用户界面&lt;/a&gt;（&lt;a href=&quot;http://yihui.name/cn/wp-content/uploads/2010/06/3rd-ChinaR-gWidgets-Yihui-Xie.txt&quot; target=&quot;_blank&quot;&gt;相关程序代码&lt;/a&gt;）&lt;/li&gt;
+&lt;li&gt;江麒：&lt;a href=&quot;http://cos.name/wp-content/uploads/2010/06/China-R-2010-Nlme-Package.pdf&quot; target=&quot;_blank&quot;&gt;Nlme包&lt;/a&gt;及&lt;a href=&quot;http://cos.name/wp-content/uploads/2010/06/China-R-2010-MCM-with-R.pdf&quot; target=&quot;_blank&quot;&gt;数学建模中的R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;李舰：&lt;a href=&quot;http://cos.name/wp-content/uploads/2010/06/China-R-2010-Text-Mining.pdf&quot; target=&quot;_blank&quot;&gt;R与文本挖掘&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;杨仁东：&lt;a href=&quot;http://cos.name/wp-content/uploads/2010/06/China-R-2010-R-Python.pdf&quot; target=&quot;_blank&quot;&gt;R与Python在昼夜节律分析中的应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;陈堰平：&lt;a href=&quot;http://cos.name/wp-content/uploads/2010/06/China-R-2010-Nonparametric-Regression-with-R.pdf&quot; target=&quot;_blank&quot;&gt;非参数回归的R语言实现&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;稳国柱：&lt;a href=&quot;http://cos.name/wp-content/uploads/2010/06/China-R-2010-Vectorization.ppt&quot; target=&quot;_blank&quot;&gt;加速R，矢量化运算与并行运算&lt;/a&gt;（更详细的介绍请参见&lt;a href=&quot;http://www.wentrue.net/blog/?p=945&quot; target=&quot;_blank&quot;&gt;这里&lt;/a&gt;）&lt;/li&gt;
+&lt;li&gt;祝迎春：&lt;a href=&quot;http://cos.name/wp-content/uploads/2010/06/China-R-2010-Factor-Analysis.pdf&quot; target=&quot;_blank&quot;&gt;R与因子分析的新发展&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;甄一松：&lt;a href=&quot;http://cos.name/wp-content/uploads/2010/06/China-R-2010-R-Bioconductor.pdf&quot; target=&quot;_blank&quot;&gt;R/BioConductor在斑马鱼心脏再生领域的应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;胡一睿：&lt;a href=&quot;http://cos.name/wp-content/uploads/2010/06/China-R-2010-Time-Series-TAR-Model.pdf&quot; target=&quot;_blank&quot;&gt;R在处理门限自回归模型中的应用&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&quot;width: 510px&quot; class=&quot;wp-caption aligncenter&quot;&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2010/06/3rd-China-R-BJ-2.jpg&quot;&gt;&lt;img class=&quot;aligncenter size-large wp-image-1821&quot; title=&quot;第三届中国R语言会议北京会场演讲者与组织人员合影&quot; src=&quot;http://cos.name/wp-content/uploads/2010/06/3rd-China-R-BJ-2-500x281.jpg&quot; alt=&quot;第三届中国R语言会议北京会场演讲者与组织人员合影&quot; height=&quot;281&quot; width=&quot;500&quot;&gt;&lt;/a&gt;&lt;p class=&quot;wp-caption-text&quot;&gt;第三届中国R语言会议北京会场演讲者与组织人员合影（右键另存为看大图）&lt;/p&gt;&lt;/div&gt;
+&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;
+&lt;h1&gt;会议展望&lt;/h1&gt;
+&lt;p&gt;在会议结束后的综合讨论中，会议的参会者与会议的组织人员共同交流了中国R语言会议的长期发展问题，就形成会议常务的核心委员会和责任机制达成了共识，并决定要在正式的R会议之外举办经常性的交流活动。如果您对于中国R语言会议有何意见或建议，也请在此提出，谢谢！&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>第二届中国R语言会议</title>
+   <link href="/2009/chinar"/>
+   <updated>2009-05-21T00:00:00-04:00</updated>
+   <id>h/2009/chinar</id>
+   <content type="html">		&lt;div class=&quot;wp-caption aligncenter&quot;&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2009/12/2nd-R-Conf-BJ.jpg&quot;&gt;&lt;img class=&quot;aligncenter size-large wp-image-1821&quot; title=&quot;第二届中国R语言会议北京会场合影&quot; alt=&quot;第二届中国R语言会议北京会场合影&quot; src=&quot;http://cos.name/wp-content/uploads/2009/12/2nd-R-Conf-BJ-500x332.jpg&quot; height=&quot;332&quot; width=&quot;500&quot;&gt;&lt;/a&gt;&lt;p class=&quot;wp-caption-text&quot;&gt;第二届中国R语言会议北京会场合影（右键另存为看大图）&lt;/p&gt;&lt;/div&gt;
+&lt;div class=&quot;wp-caption aligncenter&quot;&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2009/12/2nd-R-Conf-SH.jpg&quot;&gt;&lt;img class=&quot;aligncenter size-large wp-image-1883&quot; title=&quot;第二届中国R语言会议上海会场演讲者和工作人员合影&quot; alt=&quot;第二届中国R语言会议上海会场演讲者和工作人员合影&quot; src=&quot;http://cos.name/wp-content/uploads/2009/12/2nd-R-Conf-SH-500x332.jpg&quot; height=&quot;332&quot; width=&quot;500&quot;&gt;&lt;/a&gt;&lt;p class=&quot;wp-caption-text&quot;&gt;第二届中国R语言会议上海会场演讲者和工作人员合影（右键另存为看大图）&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;2009年12月5~6日以及2009年12月12~13日，第二届中国R语言会议分别在北京和上海两个分会场成功召开。北京会场由中国人民大学应用统计科学研究中心和中国人民大学统计学院主办；上海会场由华东师范大学资源与环境科学学院、金融与统计学院主办，Mango Solutions咨询公司提供赞助。对R语言在中国的推广做出了杰出贡献的吴喜之教授和谢益辉博士远在美国为本次会议发来祝贺；中国R语言的领军人物、华东师范大学的汤银才老师也应邀参加会议并做了专题报告。两个会场的会议就R语言在众多领域中的应用展开了广泛的交流和讨论，为R语言在中国的进一步应用和推广开辟了更宽阔的道路。&lt;/p&gt;
+&lt;h1&gt;会议主题&lt;/h1&gt;
+&lt;p&gt;本次会议的主题是“无处不在的R”，也即印在参会胸牌上的“use R eveRywheRe”，意指R的应用领域之广；同时，“use R eveRywheRe”又可看成是“useR eveRywheRe”，意指R的使用者遍布四面八方。&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;aligncenter size-full wp-image-1816&quot; title=&quot;useR eveRywheRe&quot; alt=&quot;useR eveRywheRe&quot; src=&quot;http://cos.name/wp-content/uploads/2009/12/useR-eveRywheRe.png&quot; height=&quot;133&quot; width=&quot;291&quot;&gt;&lt;/p&gt;
+&lt;p&gt;从会议的结果来看，演讲的内容和参会者所在的单位都很好地契合了这一主题。&lt;/p&gt;
+&lt;h1&gt;会议概况&lt;/h1&gt;
+&lt;h2&gt;参会单位&lt;/h2&gt;
+&lt;p&gt;北京和上海两地会议共吸引了90余家单位共300余人参加，参会单位包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;高校：北京交通大学、北京科技大学、北京林业大学、北京师范大学、东华大学、东南大学、复旦大学、华东师范大学、华中科技大学、吉林大学、剑桥大学、江苏大学、南京财经大学、南京人口管理干部学院、南京人口学院、南京信息工程大学、清华大学、山东大学、上海财经大学、上海大学、上海电机学院、上海海洋大学、首都经济贸易大学、苏州大学系统生物学中心、西北师范大学、西藏民族学院财经学院、新加坡国立大学、英国杜伦大学、浙江大学、中国科学院研究生院、中国农业大学、中国人民大学、中国石油大学、中南大学、中央财经大学、中央民族大学等&lt;/li&gt;
+&lt;li&gt;科研机构：东海所、上海交通大学瑞金医院、南京地质古生物研究所、上海生命科学研究所、上海植生所、上海中医药大学附属龙华医院、协和医院基础医学所、宣武医院、有色金属技术经济研究院、中国地质环境监测院、中科院动物研究所、中科院生态中心、中科院西双版纳植物园、中科院系统科学研究所、中国科学院计算机网络信息中心、中国科学院马普计算生物学研究所、中国科学院上海生命科学研究院计算生物学研究所、中国科学院植物研究所、中国林业科学研究院、中国农业科学院、中国食品发酵工业研究院、中国水稻研究所等&lt;/li&gt;
+&lt;li&gt;公司企业：Alipay、CUPL、IMShealth、Iresearch、Mango Solutions、SAS Institute、SIPPE、SPSS China、北京瑞丽杂志社、北京中彩在线科技有限责任公司、贝塔斯曼集团、方正科技集团股份有限公司、好耶、科瑞纳、摩托罗拉、欧维特服务、赛诺菲巴斯德生物统计中国部、上海汇众汽车制造有限公司、上海源略数据、思创软件、拓普公司、网秦、新华信国际信息咨询(北京)、中科软科技股份有限公司、中芯国际等&lt;/li&gt;
+&lt;li&gt;政府部门及事业单位：北京市质量协会、国家统计局、国家知识产权局专利局、宁波市疾控等&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;参会人员&lt;/h2&gt;
+&lt;p&gt;用R对填写了年龄信息的参会人员数据进行汇总，得到年龄分布的结果如下：&lt;/p&gt;
+&lt;pre class=&quot;brush: r&quot;&gt;   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.
+  18.00   22.00   24.00   24.93   27.00   45.00
+
+  18 | 00
+  20 | 00000000000000000000000000000
+  22 | 00000000000000000000000000000000000000000000000000000000000000000000
+  24 | 0000000000000000000000000000000000000
+  26 | 000000000000000000000000000000000000000000
+  28 | 0000000000000
+  30 | 0000000000
+  32 | 000000
+  34 | 0000
+  36 | 000
+  38 | 00
+  40 |
+  42 |
+  44 | 0&lt;/pre&gt;
+&lt;p&gt;从中不难看出R的使用者大体是年轻一代，同时也不乏年龄稍大、经验丰富的一批人。&lt;/p&gt;
+&lt;p&gt;参会的人员大都来自高校和科研机构，包括在校学生、高校老师、科研所研究员等；来自企业和政府部门的朋友也对本次会议给予了极大的关注和支持，他们的职业包括了程序员、软件工程师、系统分析师、公务员、数据挖掘工程师、公司职员、咨询师等等。&lt;/p&gt;
+&lt;h1&gt;会议演讲&lt;/h1&gt;
+&lt;p&gt;本次会议要特别感谢各位演讲者的大力支持，他们为演讲报告付出了大量的精力和时间，有的不远千里奔赴两地进行演讲，有的则是通宵达旦修改讲稿。在总共为期四天的会议时间中，共举行了正式演讲34场，其中北京会场19场，上海会场15场。以下演讲资料都遵守&lt;a href=&quot;http://creativecommons.org/licenses/by/3.0/deed.zh&quot; target=&quot;_blank&quot;&gt;CC协议&lt;/a&gt;，其中部分遵守&lt;a href=&quot;http://creativecommons.org/licenses/by-nc-sa/2.5/cn/&quot; target=&quot;_blank&quot;&gt;CC2.5协议&lt;/a&gt;：&lt;/p&gt;
+&lt;p&gt;北京会场：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;陈堰平：&lt;a href=&quot;http://cos.name/wp-content/uploads/2009/12/R-introduction.pdf&quot; target=&quot;_blank&quot;&gt;会议开幕及R语言基础&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;高涛、李程：&lt;a href=&quot;http://cos.name/wp-content/uploads/2009/12/Statistical-graphics.pdf&quot; target=&quot;_blank&quot;&gt;统计图形概览与其在R下的实现&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;关菁菁：&lt;a href=&quot;http://cos.name/wp-content/uploads/2009/12/RExcel-and-data-mining.pdf&quot; target=&quot;_blank&quot;&gt;RExcel应用&amp;nbsp; 数据挖掘方法现代发展趋势&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;钟其顶：&lt;a href=&quot;http://cos.name/wp-content/uploads/2009/12/R-application-in-food-industry.pdf&quot; target=&quot;_blank&quot;&gt;R在食品标准研制中的应用与展望&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;肖楠：&lt;a href=&quot;http://cos.name/wp-content/uploads/2009/12/Security-in-R-environment.pdf&quot; target=&quot;_blank&quot;&gt;R环境安全特性初探与前瞻&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;宫雨：&lt;a href=&quot;http://cos.name/wp-content/uploads/2009/12/Integrate-R-into-C.pdf&quot; target=&quot;_blank&quot;&gt;Integrate R into Your C/C++ Application using Visual C++ 2008&lt;/a&gt;（CC2.5）&lt;/li&gt;
+&lt;li&gt;刘永生：&lt;a href=&quot;http://cos.name/wp-content/uploads/2009/12/R-in-geological-research.pdf&quot; target=&quot;_blank&quot;&gt;地质环境调查监测研究中的R应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;奚潭：&lt;a href=&quot;http://cos.name/wp-content/uploads/2009/12/An-IntRoduction-to-gRey-methods-using-R.pdf&quot; target=&quot;_blank&quot;&gt;R在灰色系统理论方面的应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;刘思喆：&lt;a href=&quot;http://cos.name/wp-content/uploads/2009/12/R-in-large-dataset-and-Sweave.pdf&quot; target=&quot;_blank&quot;&gt;R在大规模数据整理及自动化报告方面的应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;祝迎春：&lt;a href=&quot;http://cos.name/wp-content/uploads/2009/12/R-in-marketing-research.pdf&quot; target=&quot;_blank&quot;&gt;R在市场研究中的应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;孙晓燕、王婷：&lt;a href=&quot;http://cos.name/wp-content/uploads/2009/12/Notes-on-psychology-with-R.pdf&quot; target=&quot;_blank&quot;&gt;R心理学笔记&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;左辰：&lt;a href=&quot;http://cos.name/wp-content/uploads/2009/12/Nonparametric-methods-and-robust-estimation.pdf&quot; target=&quot;_blank&quot;&gt;非参数方法与稳健性估计初探&lt;/a&gt;（CC2.5）&lt;/li&gt;
+&lt;li&gt;魏太云：&lt;a href=&quot;http://cos.name/wp-content/uploads/2009/12/An-Introduction-to-Matrix-Visualization-and-corrplot-Package.pdf&quot; target=&quot;_blank&quot;&gt;矩阵可视化及corrplot包的介绍&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;陈丽云：&lt;a href=&quot;http://cos.name/wp-content/uploads/2009/12/From-Economics-to-R.pdf&quot; target=&quot;_blank&quot;&gt;从经济学到R语言：在经济和计量中使用R&lt;/a&gt;（CC2.5）&lt;/li&gt;
+&lt;li&gt;孙蝶：&lt;a href=&quot;http://cos.name/wp-content/uploads/2009/12/R-application-in-agriculture.pdf&quot; target=&quot;_blank&quot;&gt;R在近红外光谱分析中的应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;王化儒：&lt;a href=&quot;http://cos.name/wp-content/uploads/2009/12/R-and-Spatial-Analysis.pdf&quot; target=&quot;_blank&quot;&gt;R在空间分析中的应用初探&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;丁鹏：&lt;a href=&quot;http://cos.name/wp-content/uploads/2009/12/R-and-WinBUGS-by-Ding-Peng.pdf&quot; target=&quot;_blank&quot;&gt;R and WinBugs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;马斌：&lt;a href=&quot;http://cos.name/wp-content/uploads/2009/12/omd-and-QSAR.pdf&quot; target=&quot;_blank&quot;&gt;应用omd包对QSAR分析中分子结构参数矩阵的优化&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;黄志一：&lt;a href=&quot;http://cos.name/wp-content/uploads/2009/12/Web-R.pdf&quot; target=&quot;_blank&quot;&gt;WebR–R在线分析及在大气数据分析中的应用&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;上海会场：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;汤银才老师：&lt;a href=&quot;http://cos.name/wp-content/uploads/2009/12/R-and-WinBUGS.pdf&quot; target=&quot;_blank&quot;&gt;R与WinBUGS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;林光启：&lt;a href=&quot;http://cos.name/wp-content/uploads/2009/12/R-application-in-semiconductor-manufacturing.pdf&quot; target=&quot;_blank&quot;&gt;R和统计在半导体界的应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;魏太云：矩阵可视化及corrplot包的介绍（见北京会场）&lt;/li&gt;
+&lt;li&gt;高涛、李程：统计图形概览与其在R下的实现（见北京会场）&lt;/li&gt;
+&lt;li&gt;王卫杰：&lt;a href=&quot;http://cos.name/wp-content/uploads/2009/12/Decision-tree.pdf&quot; target=&quot;_blank&quot;&gt;基于rpart包的决策树应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;于怡：&lt;a href=&quot;http://cos.name/wp-content/uploads/2009/12/Survival-Analysis-in-R.pdf&quot; target=&quot;_blank&quot;&gt;Survival Analysis in R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;马斌：应用omd包对QSAR分析中分子结构参数矩阵的优化（见北京会场）&lt;/li&gt;
+&lt;li&gt;奚潭：R在灰色系统理论方面的应用（见北京会场）&lt;/li&gt;
+&lt;li&gt;陈丽云：从经济学到R语言：在经济和计量中使用R（见北京会场）&lt;/li&gt;
+&lt;li&gt;肖楠：R环境安全特性初探与前瞻（见北京会场）&lt;/li&gt;
+&lt;li&gt;刘思喆：&lt;a href=&quot;http://cos.name/wp-content/uploads/2009/12/Learning-R-in-153-minutes.pdf&quot; target=&quot;_blank&quot;&gt;153分钟学会R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;刘思喆：R在大规模数据整理及自动化报告方面的应用（见北京会场）&lt;/li&gt;
+&lt;li&gt;李舰：&lt;a href=&quot;http://cos.name/wp-content/uploads/2009/12/JAVA-and-optimization.pdf&quot; target=&quot;_blank&quot;&gt;R在应用领域的扩展——JAVA开发和最优化&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;谢益辉（刘思喆代讲）：&lt;a href=&quot;http://cos.name/wp-content/uploads/2009/12/Writing-R-PKG.pdf&quot; target=&quot;_blank&quot;&gt;怎么写R包&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;林帧舜：&lt;a href=&quot;http://cos.name/wp-content/uploads/2009/12/Marketing-Analytical-Framework.pdf&quot; target=&quot;_blank&quot;&gt;Marketing Analytical Framework&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;会议展望&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;在谢益辉博士的建议下，未来的R语言会议可能会邀请到R核心团队（R Development Core Team）成员来中国进行演讲和交流，并希望以暑期学校的形式让更多的人参与到R语言的学习中；&lt;/li&gt;
+&lt;li&gt;在第一届R语言会议的基础上，本届会议采取了北京和上海两个分会场的形式举办，今后有望将会议的地点转向国内更多的地区，使得R语言的影响力进一步扩大；&lt;/li&gt;
+&lt;li&gt;为加强大家的交流与合作，平时可以在全国各地举办更多的小型讨论会，巩固和丰富年度R语言会议的成果；&lt;/li&gt;
+&lt;li&gt;更多，请畅所欲言……&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;会议报道&lt;/h1&gt;
+&lt;p&gt;本次会议的很多组织者和参会者都在博客和论坛帖子中记录下了自己眼中的R语言会议，现收录如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;胡江堂：&lt;a href=&quot;http://li-and-jiang.com/blog/2009/12/05/ruser2009/&quot;&gt;R乌乎在？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;谢益辉：&lt;a href=&quot;http://yihui.name/cn/2009/12/snow-in-ames-and-2nd-chinese-r-conference/&quot;&gt;2009第一场雪和第二届中国R语言会议&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;焦静：&lt;a href=&quot;http://cos.name/bbs/read.php?tid=17614&quot;&gt;第二届R语言大会上海分会顺利闭幕&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;焦静：&lt;a href=&quot;http://www.sciencenet.cn/m/user_content.aspx?id=278351&quot;&gt;第二届R语言大会上海分会顺利闭幕&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;刘思喆：&lt;a href=&quot;http://www.bjt.name/2009/12/r-conference-beijing/&quot;&gt;第二届中国 R 语言会议（北京）随笔&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;刘思喆：&lt;a href=&quot;http://www.bjt.name/2009/12/r-conference-shanghai/&quot;&gt;中国 R 语言会议（上海）趣闻&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;魏太云：&lt;a href=&quot;http://taiyun.cos.name/2009/12/all-about-the-2nd-r-conference/&quot;&gt;第二届R会议那些事儿（上海）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;魏太云：&lt;a href=&quot;http://taiyun.cos.name/2009/12/thoughts-about-2nd-r-conference/&quot;&gt;第二届R会议随感&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;陈丽云：&lt;a href=&quot;http://www.loyhome.cn/857.html&quot;&gt;与R有关的那些趣事儿（上海篇）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;陈丽云：&lt;a href=&quot;http://www.loyhome.cn/852.html&quot;&gt;与R有关的那些趣事儿（北京篇）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;山东大学新闻网：&lt;a href=&quot;http://www.view.sdu.edu.cn/news/news/ybdt/2009-12-16/1260928570.html&quot;&gt;经济学院本科生参加R语言大会并发言&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;关菁菁：&lt;a href=&quot;http://cos.name/bbs/read.php?tid=17549&quot;&gt;2nd R 会议纪事——2009年12月6日+5日&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;邱怡轩：&lt;a href=&quot;http://yixuan.cos.name/cn/2009/12/community-and-torch/&quot;&gt;社区和火炬&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;肖楠：&lt;a href=&quot;http://www.road2stat.com/cn/statistics/r_language/2009_user_china_shanghai.html&quot;&gt;第二届中国R语言会议 Dec 12-13, 2009 @ ECNU&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;肖楠：&lt;a href=&quot;http://www.road2stat.com/cn/statistics/r_language/2009_user_china_beijing.html&quot;&gt;第二届中国R语言会议 Dec 05-06, 2009 @ RUC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;肖楠：&lt;a href=&quot;http://www.road2stat.com/cn/statistics/r_language/2009_user_china_beijing_2nd_day_and_memories.html&quot;&gt;第二届R语言中文会议 @ RUC 第二天趣事及补记&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;李程：&lt;a href=&quot;http://www.cheneylee.com/cn/2009/12/the-first-blog-article/&quot;&gt;开篇辟博&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;高涛：&lt;a href=&quot;http://www.gaotao.name/cn/thoughts/gossiping-about-the-2nd-r-meeting-in-china/&quot;&gt;闲谈两三句第二届中国R会议感想&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;同时也欢迎您将自己在会议期间的照片、感想等与大家一起分享！&lt;/p&gt;
+&lt;h1&gt;附录：用R生成会议胸牌&lt;/h1&gt;
+&lt;p&gt;本次会议所用的胸牌完全是用R代码生成的，其中用到了rimage这个包（现在CRAN上不再提供rimage包的Windows版本，如果想要测试代码的话可以到&lt;a href=&quot;http://cos.name/wp-content/uploads/2009/12/rimage.zip&quot;&gt;这里&lt;/a&gt;下载一个较早版本的rimage包）：&lt;/p&gt;
+&lt;pre class=&quot;brush: r&quot;&gt;#字符画
+library(rimage)
+plot.ch = function(ch, pch = &quot;#&quot;, cex = 3) {
+    height = 15 * cex
+    width = 15 * cex * nchar(ch)
+    jpeg(&quot;rtemp.jpg&quot;, width = width, height = height)
+    par(mar = c(0, 0, 0, 0))
+    plot(1, type = &quot;n&quot;, ann = FALSE, axes = FALSE)
+    text(1, 1, labels = ch, cex = cex)
+    dev.off()
+    m = read.jpeg(&quot;rtemp.jpg&quot;)
+    unlink(&quot;rtemp.jpg&quot;)
+    m.grey = rgb2grey(m)
+    m.black = ifelse(m.grey &amp;lt; 0.5, 0, 1)
+    v = which(m.black == 0, arr.ind = TRUE)
+    return(v)
+}
+
+#胸牌制作
+draw.card = function(contact) {
+    if (require(rimage)) {
+        x = read.jpeg(file.path(R.home(), &quot;doc/html/logo.jpg&quot;))
+        lim = dim(x)[1:2]
+        par(mar = rep(0, 4), cex = 0.7)
+        a1 = plot.ch(&quot;use&quot;, cex = 5)
+        v1 = a1[seq(1, nrow(a1), by = 3), ]
+        a2 = plot.ch(&quot;eveRy wheRe&quot;, cex = 3)
+        v2 = a2[seq(1, nrow(a2), by = 3), ]
+        for (i in 1:nrow(contact)) {
+            plot(0, xlim = c(-0.5, 1.5) * lim[1], ylim = c(-1.9,
+                2.1) * lim[2], axes = FALSE, ann = FALSE, type = &quot;n&quot;,
+                asp = 1)
+            plot(x, add = TRUE)
+            text(0.5 * lim[1], 1.9 * lim[2], &quot;第二届中国R语言会议&quot;,
+                cex = 2.5)
+            text(0.5 * lim[1], 1.4 * lim[2], &quot;The 2nd Chinese R Conference\n(Beijing)&quot;,
+                cex = 1.7)
+            text(0.5 * lim[1], 1 * lim[2], &quot;北京，2009.12.5-6&quot;,
+                cex = 1.5)
+            text(0.5 * lim[1], -0.6 * lim[2], contact[i, 1],
+                cex = 2.4)
+            text(0.5 * lim[1], -1 * lim[2], contact[i, 2], cex = 1.5)
+            text(-1.6 * lim[1], -1.3 * lim[2], paste(&quot;主办：中国人民大学应用统计科学研究中心 (www.applstats.org)&quot;,
+                &quot;　　　中国人民大学统计学院 (stat.ruc.edu.cn)&quot;,
+                &quot;协办：统计之都网站 (http://cos.name)&quot;, sep = &quot;\n&quot;),
+                cex = 1, adj = c(0, 1))
+            text(1.9 * lim[1], -1.8 * lim[2], paste(&quot;ID:&quot;, contact[i,
+                3]))
+            points(v1[, 2] - 160, 60 - v1[, 1], pch = &quot;#&quot;, cex = 0.5)
+            points(v2[, 2] - 180, -v2[, 1], pch = &quot;#&quot;, cex = 0.5)
+        }
+    }
+}
+
+# 示例
+contact = data.frame(name = c(&quot;张三&quot;, &quot;李四&quot;), unit = c(&quot;张家村&quot;,
+    &quot;李家店&quot;), id = c(1001, 1002))
+
+# 写入PDF文件
+pdf(width = 3.5, height = 4.5, family = &quot;GB1&quot;)
+draw.card(contact)
+dev.off()&lt;/pre&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>第一届中国R语言会议</title>
+   <link href="/2008/beijing"/>
+   <updated>2008-12-21T00:00:00-05:00</updated>
+   <id>h/2008/beijing</id>
+   <content type="html">&lt;div id=&quot;attachment_438&quot; class=&quot;wp-caption aligncenter&quot;&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/1st-chinese-r-conference-photo.tif&quot;&gt;&lt;img class=&quot;size-full wp-image-438&quot; title=&quot;第一届中国R语言会议合影&quot; src=&quot;http://cos.name/wp-content/uploads/2008/12/1st-chinese-r-conference-photo-thumb.jpg&quot; alt=&quot;第一届中国R语言会议合影&quot; height=&quot;177&quot; width=&quot;478&quot;&gt;&lt;/a&gt;&lt;p class=&quot;wp-caption-text&quot;&gt;第一届中国R语言会议合影（右键另存为看大图）&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;2008年12月13日~14日，由教育部重点研究基地中国人民大学&lt;a title=&quot;应用统计科学研究中心&quot; href=&quot;http://www.applstats.org&quot;&gt;应用统计科学研究中心&lt;/a&gt;与中国人民大学&lt;a title=&quot;统计学院&quot; href=&quot;http://stat.ruc.edu.cn&quot;&gt;统计学院&lt;/a&gt;主办的“第一届中国R语言会议”在中国人民大学明德商学楼0402教室成功召开。国内R语言的各位先锋如中国人民大学统计学院吴喜之教授、中国科学院上海生命科学研究院丁国徽博士等以及国外R语言专业人士如澳大利亚国立大学John Maindonald教授也通过网络连线会场参加了本次会议；会议围绕R语言的众多应用领域展开了广泛的交流和讨论，为R语言在中国的应用和推广开辟了一条崭新的道路。&lt;/p&gt;
+&lt;p&gt;&lt;span id=&quot;more-433&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h1&gt;会议概况&lt;/h1&gt;
+&lt;h2&gt;参会单位&lt;/h2&gt;
+&lt;p&gt;本次会议吸引了近70家单位共150余人参加，参会单位有：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;高校：对外经贸大学、中南大学、北京大学、北京工业大学、西北农林科技大学、中国农业大学、北京林业大学、北京工业大学、中国人民大学、湖南大学、北京航空航天大学、首都经济贸易大学、西北师范大学数学与信息学院、浙江大学、荷兰瓦赫宁根大学、天津大学、北京联合大学、清华大学、东北林业大学、商丘师院、安徽师范大学、南京财经大学、北京师范大学、吉林大学商学院、中国农业大学、浙江杭州电子科技大学、西安财经学院、北京工商大学、北京交通大学&lt;/li&gt;
+&lt;li&gt;科研机构：中科院动物所、中科院植物研究所、中国科学院上海生命科学研究院、北京植物所、中国科学院生态环境研究中心、中科院北京基因组研究所、军事医学科学院、协和医学院阜外心血管病医院、中科院自动化所、中国林科院、中科院研究生院、北京大学医学部、中国疾病预防控制中心、广西植物研究所、中国林业科学研究院林业研究所、中科院沈阳应用生态研究所、中国环境科学研究院、北京疾病预防控制中心、中科院心理所&lt;/li&gt;
+&lt;li&gt;公司企业：雅虎、新华信国际信息咨询公司、上海源略数据服务有限公司、中芯国际、北京中彩在线科技有限责任公司、北京移动、浙江口碑网络技术有限公司、Watson Wyatt Worldwide、IBM、石药集团、qunar.com、北京博达新大陆广告有限公司、新好耶信息技术有限公司&lt;/li&gt;
+&lt;li&gt;出版社：机械工业出版社&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;参会人员&lt;/h2&gt;
+&lt;p&gt;由于本次会议为国内首届R语言会议，参会者普遍热情较高，有数位作者甚至通宵达旦准备会议论文和演讲，其他与会者也带着明确的问题参加会议并在会议过程中积极提问、讨论。本次会议演讲者大多为COS论坛会员，如“&lt;a href=&quot;http://cos.name/bbs/read.php?tid=7673&quot;&gt;&lt;strong&gt;153分钟学会R&lt;/strong&gt;&lt;/a&gt;”的作者等；参会者大多为硕博研究生，众多青年学者的热烈讨论将会议屡屡推向高潮；所有参会者的年龄分布如下：&lt;/p&gt;
+&lt;pre class=&quot;brush: r&quot;&gt;&amp;nbsp; 20 | 00000000000
+&amp;nbsp; 22 | 000000000000000
+&amp;nbsp; 24 | 000000000000000000000000000
+&amp;nbsp; 26 | 00000000000000000000000000
+&amp;nbsp; 28 | 0000000000000000
+&amp;nbsp; 30 | 0000
+&amp;nbsp; 32 | 0
+&amp;nbsp; 34 | 0000
+&amp;nbsp; 36 | 0000
+&amp;nbsp; 38 | 0
+&amp;nbsp; 40 |
+&amp;nbsp; 42 | 0
+&amp;nbsp; 44 | 0000
+&amp;nbsp; 46 |
+&amp;nbsp; 48 |
+&amp;nbsp; 50 |
+&amp;nbsp; 52 |
+&amp;nbsp; 54 |
+&amp;nbsp; 56 |
+&amp;nbsp; 58 |
+&amp;nbsp; 60 | 0&lt;/pre&gt;
+&lt;p&gt;不难发现对R语言感兴趣的人不仅有大量青年学者，甚至也有年逾花甲的教授，这预示着R语言未来在国内的发展前景是很乐观的。&lt;/p&gt;
+&lt;h2&gt;会议议程&lt;/h2&gt;
+&lt;p&gt;两天时间里，会议一共举行正式演讲25场，以下是日程表：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/1st-chinese-r-conference-program.pdf&quot;&gt;第一届中国R语言会议日程&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;论文和演讲&lt;/h1&gt;
+&lt;p&gt;注意以下所有材料遵守&lt;a title=&quot;CC协议&quot; href=&quot;http://creativecommons.org/licenses/by/3.0/&quot;&gt;CC&lt;/a&gt;协议，其中张翔的幻灯片遵守&lt;a href=&quot;http://creativecommons.org/licenses/by-nc-sa/2.5/cn/&quot; target=&quot;_blank&quot;&gt;CC2.5&lt;/a&gt;协议。&lt;/p&gt;
+&lt;p&gt;本次会议一共收到论文21篇；论文摘要可以从这里下载：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/1st-chinese-r-conference-abstract.zip&quot;&gt;第一届中国R语言会议论文摘要&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;以下是会议演讲材料（幻灯片及R代码）：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;谢益辉：&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/1st-chinese-r-conference-intro.pdf&quot;&gt;第一届中国R语言会议介绍&lt;/a&gt;（&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/1st-chinese-r-conference-intro.txt&quot;&gt;R代码&lt;/a&gt;）&lt;/li&gt;
+&lt;li&gt;丁国徽：R的那些事儿&lt;/li&gt;
+&lt;li&gt;谢益辉：&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/the-history-of-r-language-and-current-developments.ppt&quot;&gt;R语言的历史背景、发展历程及现状&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;刘思喆：&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/learning-r-in-153-minutes.pdf&quot;&gt;153分钟学会R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;詹鹏：&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/the-application-of-r-on-statistical-analysis-of-undergraduates-self-well-beings-in-nanjing.ppt&quot;&gt;R语言在南京市大学生幸福感统计分析上的应用&lt;/a&gt;（&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/r-zhanpeng.zip&quot;&gt;R代码&lt;/a&gt;）&lt;/li&gt;
+&lt;li&gt;奚潭：&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/statistical-simulation-based-on-r.ppt&quot;&gt;基于R软件的统计模拟&lt;/a&gt;（&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/r-xitan.zip&quot;&gt;R代码&lt;/a&gt;）&lt;/li&gt;
+&lt;li&gt;陈钢：&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/introduction-to-bioconductor-and-its-application-in-bioinformatics.pdf&quot;&gt;Bioconductor项目简介及其在生物信息学中的应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;侯丽平：&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/applied-genetic-statistics-using-r.ppt&quot;&gt;R在遗传统计学中的应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;喻泓：&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/processing-competition-intensity-of-trees-based-on-r.ppt&quot;&gt;基于R的单木竞争指数的计算&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;John Maindonald：&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/data-mining-with-r-by-john-maindonald.pdf&quot;&gt;Data Mining with R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;刘思喆：&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/data-mining-with-r-by-sizhe-liu.pdf&quot;&gt;数据挖掘过程在R环境下的应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;李舰：&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/the-application-and-future-of-r-in-business-intelligence.ppt&quot;&gt;R在BI中的应用和前景&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;张翔：&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/visualization-and-analysis-of-complex-system.ppt&quot;&gt;复杂系统的可视化与分析手段&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;左辰：&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/the-application-of-quantile-regression-in-r.ppt&quot;&gt;分位数回归模型在R环境下的实现&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;丁鹏：&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/bayesian-statistics-and-r.pdf&quot;&gt;贝叶斯统计与R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;魏太云：&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/using-r-to-solve-optimization-problems.pdf&quot;&gt;R软件与最优化&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;陈堰平：&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/stochastic-differential-equation-with-r.pdf&quot;&gt;随机微分方程入门——基于R语言的模拟与推断&lt;/a&gt;（&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/stochastic-differential-equation-with-r.zip&quot;&gt;R代码&lt;/a&gt;）&lt;/li&gt;
+&lt;li&gt;李崇亮：&lt;a title=&quot;李晓煦博士的日志页面&quot; href=&quot;http://lixiaoxu.lxxm.com/web-powered-by-r-or-r-powered-by-web/&quot; target=&quot;_blank&quot;&gt;基于R后台的网页应用，或基于网页可定制界面的R应用&lt;/a&gt;（&lt;a title=&quot;幻灯片的Google Docs页面&quot; href=&quot;http://docs.google.com/Present?docid=dgf7j3jp_86d4x7r2gd&quot; target=&quot;_blank&quot;&gt;Google Docs页面&lt;/a&gt;）&lt;/li&gt;
+&lt;li&gt;李舰：&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/integrating-ms-office-with-r-using-r-d-com-server.ppt&quot;&gt;利用R (D)COM Server实现R与MS Office的整合&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;王化儒：&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/application-of-r-on-hydrological-modeling.ppt&quot;&gt;R在水文模拟中的应用初探&lt;/a&gt;（&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/wang-huaru-hydro.txt&quot;&gt;R代码&lt;/a&gt;）&lt;/li&gt;
+&lt;li&gt;谢益辉：&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/animation-an-r-package-for-statistical-animations-with-applications-in-teaching-and-data-analysis.ppt&quot;&gt;统计动画程序包animation介绍及其在教学和数据分析中的应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;翁云妹：Fitting and Projections of Mortality Stochastic Models — based on interface between R and Excel&lt;/li&gt;
+&lt;li&gt;刘明：&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/statistics-and-r-in-semiconductor-industry.ppt&quot;&gt;半导体界统计与R的应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;王剑：&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/from-sas-to-r.ppt&quot;&gt;From SAS to R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;马斌：&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/a-attempt-of-employing-r-in-qsar.ppt&quot;&gt;应用R进行QSAR的尝试 — 以PAHs在根际消解效果的QSAR分析为例&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;谢益辉：&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/explore-irregular-data-with-r.ppt&quot;&gt;无处不在的数据及R的探索方法&lt;/a&gt;（&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/explore-irregular-data-with-r.txt&quot;&gt;R代码&lt;/a&gt;）&lt;/li&gt;
+&lt;li&gt;韩效杰：关于R语言相关书籍的出版讨论&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;会议展望&lt;/h1&gt;
+&lt;p&gt;会议期间及会议结束后，与会者对如下几个主题提出了展望：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;专业之间的合作：通过马斌等演讲者的提议，大家认识到当今统计专业与非统计专业之间有着迫切的合作需要，本次会议为这种合作提供了良好的契机；谢益辉表示“统计之都”未来的主要方向之一也将是引导不同专业之间的密切合作。&lt;/li&gt;
+&lt;li&gt;R语言的“中国化”：如丁国徽等演讲者所讲，我们除了使用国外的R语言（包括翻译）之外还能做一些什么样的本土化工作？当前R语言已有几份文档被翻译为中文，但相比起大量的英文文档来说，这些学习材料仍显得不够，因此我们有必要组织R语言的先锋部队，以翻译、实际应用等手段不断推进R语言的真正本土化。&lt;/li&gt;
+&lt;li&gt;R语言的出版事业：来自机械工业出版社的韩效杰编辑对R语言相关的出版事业非常热心，我们也希望不久的将来在中国能诞生一系列R语言的优质教材。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;会议花絮&lt;/h1&gt;
+&lt;p&gt;本次会议得到了很多与会者和非与会者的大力支持，在首届中国R语言会议过程中，发生过这样一些事情，也作为花絮列举如下（排名不分先后）：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;S语言的作者之一Richard A. Becker听闻本次会议，向我们发来良好祝愿；&lt;/li&gt;
+&lt;li&gt;R语言的核心成员之一Duncan Murdoch表示很想参加这次会议，不过限于时间安排不开，因此最终没能参加；&lt;/li&gt;
+&lt;li&gt;R语言的专家John Maindonald教授（澳大利亚国立大学，半退休）通过Skype连线会场进行数据挖掘与R的演讲，不过由于网络条件和会场设备问题最终没能成功，但与会者都看到了视频中的老爷爷；John是”Data Analysis and Graphics Using R: An Example-based Approach”一书的作者，对本次会议非常关心，是本次会议唯一的外国参会者；&lt;/li&gt;
+&lt;li&gt;丁国徽博士于13日早上从首都机场直奔R语言会场，不顾困倦为大家演讲；&lt;/li&gt;
+&lt;li&gt;刘思喆放弃了周末陪伴家人的宝贵机会每天从南三环到北三环为大家贡献R语言知识；&lt;/li&gt;
+&lt;li&gt;詹鹏和奚潭为了保证质量，连续七天通宵准备论文和演讲；&lt;/li&gt;
+&lt;li&gt;侯丽平、丁鹏和马斌本来没有准备演讲，后来看到会议演讲篇数较少，因此抓紧最后几天时间准备了演讲；&lt;/li&gt;
+&lt;li&gt;喻泓没有准备论文，看到演讲情况之后也积极贡献、分享自己的成果；&lt;/li&gt;
+&lt;li&gt;左辰和翁云妹是用英文发邮件的两位参会者；&lt;/li&gt;
+&lt;li&gt;本次会议很多事务都是用R处理的，例如报名表的整理甚至是&lt;a href=&quot;http://cos.name/wp-content/uploads/2008/12/1st-chinese-r-conference-card.zip&quot;&gt;第一届中国R语言会议胸牌&lt;/a&gt;也是用R的PDF图形设备生成，程序代码见附录。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;会议照片&lt;/h1&gt;
+&lt;p&gt;请在会议期间拍照并愿意和大家分享的朋友将照片发给谢益辉（xie[at]yihui.name），谢谢。&lt;/p&gt;
+&lt;p&gt;我们感谢所有参加会议的朋友，也期待着下一届中国R语言会议的召开，有意主办的单位请和我们联系。&lt;/p&gt;
+&lt;h1&gt;附录&lt;/h1&gt;
+&lt;h2&gt;用R生成胸牌&lt;/h2&gt;
+&lt;p&gt;实际上就是用PDF图形设备生成PDF文件即可，主要用到text()函数以及rimage包将文字和R的logo添加到图上：&lt;/p&gt;
+&lt;pre class=&quot;brush: r&quot;&gt;draw.card = function(contact) {
+    if (require(rimage)) {
+        x = read.jpeg(file.path(R.home(), &quot;doc/html/logo.jpg&quot;))
+        lim = dim(x)[1:2]
+        par(mar = rep(0, 4), cex = 0.7)
+        for (i in 1:nrow(contact)) {
+            plot(0, xlim = c(-0.5, 1.5) * lim[1], ylim = c(-1.5,
+                2.5) * lim[2], axes = FALSE, ann = FALSE, type = &quot;n&quot;, asp = 1)
+            plot(x, add = TRUE)
+            text(0.5 * lim[1], 2 * lim[2], &quot;第一届中国R语言会议&quot;, cex = 2.5)
+            text(0.5 * lim[1], 1.5 * lim[2], &quot;The 1st Chinese R Conference&quot;,
+                cex = 2)
+            text(0.5 * lim[1], 1 * lim[2], &quot;北京，2008.12.13-14&quot;, cex = 1.5)
+            text(0.5 * lim[1], -0.4 * lim[2], contact[i, 1], cex = 3)
+            text(0.5 * lim[1], -0.8 * lim[2], contact[i, 2], cex = 1.5)
+            text(-1.6 * lim[1], -1.1 * lim[2],
+                paste(&quot;主办：中国人民大学应用统计科学研究中心 (www.applstats.org)&quot;,
+                &quot;　　　中国人民大学统计学院 (stat.ruc.edu.cn)&quot;,
+                &quot;协办：统计之都网站 (http://cos.name)&quot;, sep = &quot;\n&quot;),
+                cex = 1, adj = c(0, 1))
+        }
+    }
+    else install.packages(&quot;rimage&quot;)
+}
+
+# 示例
+contact = data.frame(name = c(&quot;张三&quot;, &quot;李四&quot;), unit = c(&quot;张家村&quot;,
+    &quot;李家店&quot;))
+par(ask = TRUE)
+draw.card(contact)
+
+# 写入PDF文件
+pdf(width = 3.5, height = 4.5, family = &quot;GB1&quot;)
+draw.card(contact)
+dev.off()&lt;/pre&gt;
+&lt;p&gt;中国人民大学应用统计科学研究中心&lt;br&gt;
+2008-12-16&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>
