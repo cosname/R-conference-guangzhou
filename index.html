@@ -37,5 +37,5 @@ layout: index
 
 {% for post in site.posts limit:1 %}
     {{ post.content | split: '<!-- more -->' | first }}
-    <p style="text-align:center"><a class="btn btn-primary" href="{{ post.url }}">阅读全文→</a></p>
+    <p style="text-align:center"><a class="btn btn-primary" href="{{ site.baseurl }}{{ post.url }}">阅读全文→</a></p>
 {% endfor %}
